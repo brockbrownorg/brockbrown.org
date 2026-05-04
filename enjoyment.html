@@ -43,15 +43,13 @@ body.hov #cur-r{width:48px;height:48px;border-color:rgba(26,63,120,.5)}
 /* NAV */
 nav{position:fixed;top:1rem;left:1rem;right:1rem;z-index:100;display:flex;align-items:center;justify-content:space-between;padding:.85rem 1.75rem;background:rgba(255,255,255,.88);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);border:1px solid rgba(255,255,255,.9);border-radius:var(--r3);box-shadow:var(--shadow)}
 .n-logo{display:flex;align-items:center;gap:.65rem;text-decoration:none}
-.n-logo img{height:28px;width:auto;border-radius:8px}
+.n-logo img{height:28px;width:auto;border-radius:8px;mix-blend-mode:multiply}
 .n-back{font-size:.75rem;font-weight:500;letter-spacing:.06em;color:var(--muted);text-decoration:none;display:flex;align-items:center;gap:.4rem;transition:color .2s}
 .n-back:hover{color:var(--blue)}
 .n-back svg{width:14px;height:14px}
 
 /* HERO — cinematic full-width featured video */
 .hero{background:var(--text);min-height:70vh;display:flex;flex-direction:column;justify-content:flex-end;position:relative;overflow:hidden;border-radius:0 0 var(--r2) var(--r2);margin-bottom:2rem}
-.hero-video{position:absolute;inset:0;width:100%;height:100%}
-.hero-video iframe{width:100%;height:100%;border:none;display:block;pointer-events:none}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,25,41,.95) 0%,rgba(12,25,41,.4) 50%,transparent 100%)}
 .hero-content{position:relative;z-index:2;padding:3rem 4rem 4rem;max-width:800px}
 .hero-tag{display:inline-flex;align-items:center;gap:.5rem;background:rgba(74,159,212,.2);border:1px solid rgba(74,159,212,.35);padding:.25rem .85rem;border-radius:var(--r3);font-size:.67rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:#7ec8f4;margin-bottom:1.25rem}
@@ -104,7 +102,7 @@ nav{position:fixed;top:1rem;left:1rem;right:1rem;z-index:100;display:flex;align-
 
 /* FOOTER */
 .footer-card{background:var(--surface);border-radius:var(--r2);padding:1.75rem 3.5rem;box-shadow:var(--shadow);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;margin:0 1rem 1rem}
-.f-logo img{height:24px;width:auto;border-radius:8px;opacity:.75}
+.f-logo img{height:24px;width:auto;border-radius:8px;opacity:.75;mix-blend-mode:multiply}
 footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
 
 /* SOUND */
@@ -160,63 +158,26 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
 </nav>
 
 <!-- FEATURED VIDEO HERO -->
-<section class="hero" id="featured">
-  <div class="hero-video">
-    <!-- Most recent / featured video pulled from playlist -->
-    <iframe id="featured-iframe"
-      src="https://www.youtube.com/embed?listType=user_uploads&list=dayonejourneys&index=0&autoplay=0&mute=1&controls=0&rel=0&showinfo=0&modestbranding=1"
-      title="Featured video"
-      allowfullscreen
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
-    </iframe>
-  </div>
+<section class="hero" id="featured" style="background-image:url('https://i.ytimg.com/vi/OJ3zgnum0f8/maxresdefault.jpg');background-size:cover;background-position:center">
   <div class="hero-overlay"></div>
-  <a href="https://www.youtube.com/@dayonejourneys" target="_blank" class="hero-play-btn" id="play-btn" data-snd="click">
+  <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" class="hero-play-btn" id="play-btn" data-snd="click">
     <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
   </a>
   <div class="hero-content">
-    <div class="hero-tag"><span class="dot"></span> DayOneJourneys · Latest Flight</div>
-    <h1 class="hero-title">The Midwest<br>from above.</h1>
-    <p class="hero-desc">FPV footage from Omaha and beyond — bridges, parks, landmarks, and hidden geometry seen from angles most people never get.</p>
+    <div class="hero-tag"><span class="dot"></span> DayOneJourneys &middot; Featured Flight</div>
+    <h1 class="hero-title">Back Where<br>It Counts.</h1>
+    <p class="hero-desc">Horse racing, brotherhood, and the kind of energy that only exists when everyone is chasing something meaningful. Midwest USA.</p>
     <div class="hero-actions">
-      <a href="https://www.youtube.com/@dayonejourneys" target="_blank" class="btn btn-w" data-snd="click">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"/></svg>
-        Watch on YouTube
+      <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" class="btn btn-w" data-snd="click">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        Watch Now
       </a>
-      <a href="#shorts" class="btn btn-ghost-w" data-snd="click">View Shorts ↓</a>
+      <a href="#all-videos" class="btn btn-ghost-w" data-snd="click">All Videos &darr;</a>
     </div>
   </div>
 </section>
 
 <div class="page">
-
-  <!-- SHORTS SECTION -->
-  <div class="scard rv" id="shorts">
-    <div class="ey">Shorts</div>
-    <h2 class="st">Quick flights</h2>
-    <p class="st-sub">60 seconds of Midwest from the air. Tap any clip to watch.</p>
-    <div class="shorts-grid" id="shorts-grid">
-      <!-- Populated by JS -->
-      <div class="skeleton"></div>
-      <div class="skeleton"></div>
-      <div class="skeleton"></div>
-      <div class="skeleton"></div>
-      <div class="skeleton"></div>
-      <div class="skeleton"></div>
-    </div>
-  </div>
-
-  <!-- ALL VIDEOS -->
-  <div class="scard rv d1" id="all-videos">
-    <div class="ey">All flights</div>
-    <h2 class="st">Full channel</h2>
-    <p class="st-sub">Every upload — from quick shorts to full-length Midwest flyovers.</p>
-    <div class="videos-grid" id="videos-grid">
-      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
-      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
-      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
-    </div>
-  </div>
 
   <!-- ABOUT STRIP -->
   <div class="scard rv d2" style="background:var(--blue);color:#fff">
@@ -245,6 +206,17 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
           <div style="font-size:.75rem;color:rgba(255,255,255,.5);text-transform:uppercase;letter-spacing:.1em">New Perspectives</div>
         </div>
       </div>
+    </div>
+  </div>
+  <!-- ALL VIDEOS -->
+  <div class="scard rv d1" id="all-videos">
+    <div class="ey">All flights</div>
+    <h2 class="st">Full channel</h2>
+    <p class="st-sub">Every upload — from quick shorts to full-length Midwest flyovers.</p>
+    <div class="videos-grid" id="videos-grid">
+      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
+      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
+      <div class="skeleton" style="aspect-ratio:16/9;border-radius:var(--r2)"></div>
     </div>
   </div>
 
@@ -349,7 +321,6 @@ async function enrichTitles() {
 
 // Init
 document.addEventListener('DOMContentLoaded', () => {
-  buildShortsGrid();
   buildVideosGrid();
   enrichTitles();
 });
