@@ -229,66 +229,14 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
     <h2 style="font-family:var(--sans);font-size:clamp(1.6rem,3.5vw,2.8rem);font-weight:700;color:#fff;line-height:1.1;margin-bottom:.65rem;letter-spacing:-.02em">Back Where<br>It Counts</h2>
     <p style="color:rgba(255,255,255,.6);font-size:.9rem;line-height:1.7;margin-bottom:1.5rem;max-width:420px">Horse racing, brotherhood, and the kind of energy that only exists when everyone is chasing something meaningful.</p>
     <div style="display:flex;gap:.75rem;flex-wrap:wrap">
-      <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" rel="noopener" style="font-family:var(--sans);font-size:.73rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:.7rem 1.5rem;background:#fff;color:var(--blue);border:1.5px solid #fff;text-decoration:none;border-radius:999px;display:inline-flex;align-items:center;gap:.45rem;transition:all .3s" data-snd="click">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-        Watch Now
-      </a>
-      <a href="enjoyment.html" style="font-family:var(--sans);font-size:.73rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:.7rem 1.5rem;background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.4);text-decoration:none;border-radius:999px;transition:all .3s" data-snd="click">All Videos ↗</a>
+      <div class="yt-wrap rv" id="yt-facade" style="position:relative;cursor:pointer" onclick="document.getElementById('yt-facade').innerHTML='<iframe src=\'https://www.youtube.com/embed/OJ3zgnum0f8?autoplay=1&rel=0&modestbranding=1\' allow=\'accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture\' allowfullscreen style=\'width:100%;height:100%;border:none;display:block\'></iframe>'" data-snd="click">
+  <div style="width:100%;height:100%;background:url('https://i.ytimg.com/vi/OJ3zgnum0f8/hqdefault.jpg') center/cover no-repeat;border-radius:var(--r2)"></div>
+  <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;border-radius:var(--r2)">
+    <div style="width:60px;height:60px;background:rgba(255,255,255,.95);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 24px rgba(0,0,0,.3);transition:transform .2s" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="#1a3f78"><path d="M8 5v14l11-7z"/></svg>
     </div>
   </div>
 </div>
-
-<!-- PAGE BODY -->
-<div class="page">
-
-  <!-- WORK -->
-  <div class="scard" id="work">
-    <div class="ey rv">For work</div>
-    <h2 class="st rv">What I do professionally</h2>
-    <div class="work-grid">
-      <div class="wcard rv" data-snd="hover">
-        <div class="wcard-top"><span class="wcard-num">01</span><span class="wcard-dot"></span></div>
-        <span class="wcard-tag">Knowledge Management</span>
-        <h3 class="wcard-title">Systems that think for you</h3>
-        <p class="wcard-desc">Designing frameworks that help organizations capture, connect, and act on information — turning scattered data into institutional intelligence.</p>
-      </div>
-      <div class="wcard rv d1" data-snd="hover">
-        <div class="wcard-top"><span class="wcard-num">02</span><span class="wcard-dot"></span></div>
-        <span class="wcard-tag">Content Strategy</span>
-        <h3 class="wcard-title">Story as infrastructure</h3>
-        <p class="wcard-desc">Content is architecture. Building systems that scale — from taxonomy and metadata to narrative arc and distribution strategy.</p>
-      </div>
-      <div class="wcard rv d1" data-snd="hover">
-        <div class="wcard-top"><span class="wcard-num">03</span><span class="wcard-dot"></span></div>
-        <span class="wcard-tag">Information Architecture</span>
-        <h3 class="wcard-title">Structure creates clarity</h3>
-        <p class="wcard-desc">Whether implicit or explicit, good information architecture is the storyline connecting everything. The collection builds the narrative.</p>
-      </div>
-      <div class="wcard rv d2" data-snd="hover">
-        <div class="wcard-top"><span class="wcard-num">04</span><span class="wcard-dot"></span></div>
-        <span class="wcard-tag">LinkedIn</span>
-        <h3 class="wcard-title">Let's connect professionally</h3>
-        <p class="wcard-desc">Find me on LinkedIn for my professional work, experience, and current thinking on knowledge and content systems.</p>
-      </div>
-    </div>
-    <div style="margin-top:2rem">
-      <a href="https://www.linkedin.com/in/brockbrownorg/" class="btn btn-g rv d2" target="_blank" rel="noopener" data-snd="click">View LinkedIn ↗</a>
-    </div>
-  </div>
-
-  <!-- ENJOYMENT -->
-  <div class="scard" id="fun" style="scroll-margin-top:5rem">
-    <div class="ey rv">For enjoyment</div>
-    <h2 class="st rv">DayOneJourneys</h2>
-    <div class="fun-inner">
-      <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" rel="noopener" class="yt-wrap rv" style="display:block;position:relative;text-decoration:none;cursor:none" data-snd="click">
-        <img src="https://i.ytimg.com/vi/OJ3zgnum0f8/hqdefault.jpg" alt="Back Where It Counts" style="width:100%;height:100%;object-fit:cover;display:block;border-radius:var(--r2)" onerror="this.src='https://i.ytimg.com/vi/OJ3zgnum0f8/mqdefault.jpg'">
-        <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(12,25,41,.25);border-radius:var(--r2);transition:background .2s">
-          <div style="width:56px;height:56px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(0,0,0,.25)">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="#1a3f78"><path d="M8 5v14l11-7z"/></svg>
-          </div>
-        </div>
-      </a>
       <div class="fun-body rv d1">
         <p>Flying FPV drones over the Midwest is how I decompress. It's not work — it's pure <strong>curiosity from altitude</strong>.</p>
         <p>Every flight shows a familiar place differently. Bridges, parks, neighborhoods, hidden geometry. Short edits, regularly uploaded.</p>
