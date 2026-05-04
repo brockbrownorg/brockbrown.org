@@ -158,7 +158,7 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
 </nav>
 
 <!-- FEATURED VIDEO HERO -->
-<section class="hero" id="featured" style="background-image:url('https://i.ytimg.com/vi/OJ3zgnum0f8/maxresdefault.jpg');background-size:cover;background-position:center">
+<section class="hero" id="featured" style="background-image:url('https://i.ytimg.com/vi/OJ3zgnum0f8/hqdefault.jpg');background-size:cover;background-position:center top">
   <div class="hero-overlay"></div>
   <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" class="hero-play-btn" id="play-btn" data-snd="click">
     <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
@@ -176,6 +176,32 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
     </div>
   </div>
 </section>
+<script>
+// Upgrade hero thumbnail: try sddefault, then mqdefault, then hqdefault
+(function() {
+  var vid = 'OJ3zgnum0f8';
+  var hero = document.getElementById('featured');
+  var sizes = ['maxresdefault','sddefault','mqdefault','hqdefault'];
+  var idx = 0;
+  function tryNext() {
+    if (idx >= sizes.length) return;
+    var img = new Image();
+    img.onload = function() {
+      // hqdefault always returns a 120x90 placeholder if video doesn't have it
+      // sddefault/maxresdefault return 404 if unavailable
+      if (img.width > 120) {
+        hero.style.backgroundImage = "url('https://i.ytimg.com/vi/" + vid + "/" + sizes[idx] + ".jpg')";
+      } else {
+        idx++; tryNext();
+      }
+    };
+    img.onerror = function() { idx++; tryNext(); };
+    img.src = 'https://i.ytimg.com/vi/' + vid + '/' + sizes[idx] + '.jpg';
+    idx++;
+  }
+  tryNext();
+})();
+</script>
 
 <div class="page">
 
