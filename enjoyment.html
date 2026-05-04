@@ -65,7 +65,7 @@ nav{position:fixed;top:1rem;left:1rem;right:1rem;z-index:100;display:flex;align-
 .btn-ghost-w:hover{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.7);transform:translateY(-2px)}
 
 /* PLAY BUTTON OVERLAY on hero */
-.hero-play-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-60%);z-index:3;width:72px;height:72px;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:1.5px solid rgba(255,255,255,.4);border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:none;transition:all .3s var(--ease)}
+.hero-play-btn{position:absolute;top:50%;left:50%;transform:translate(-50%,-60%);z-index:3;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:1.5px solid rgba(255,255,255,.4);border-radius:50%;width:72px;height:72px;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:1.5px solid rgba(255,255,255,.4);border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:none;transition:all .3s var(--ease)}
 .hero-play-btn:hover{background:rgba(255,255,255,.25);transform:translate(-50%,-60%) scale(1.1)}
 .hero-play-btn svg{width:24px;height:24px;fill:#fff;margin-left:3px}
 
@@ -164,15 +164,27 @@ footer p{font-size:.7rem;color:var(--muted);letter-spacing:.06em}
        style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;z-index:0;display:block"
        onerror="this.style.display='none'">
   <div class="hero-overlay"></div>
-  <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" class="hero-play-btn" id="play-btn" data-snd="click">
+  <button class="hero-play-btn" id="play-btn" data-snd="click" onclick="(function(){
+  var hero=document.getElementById('featured');
+  var iframe=document.createElement('iframe');
+  iframe.src='https://www.youtube.com/embed/OJ3zgnum0f8?autoplay=1&rel=0&modestbranding=1';
+  iframe.allow='accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture';
+  iframe.allowFullscreen=true;
+  iframe.style.cssText='position:absolute;inset:0;width:100%;height:100%;border:none;z-index:10;border-radius:inherit';
+  hero.appendChild(iframe);
+  document.getElementById('play-btn').style.display='none';
+  hero.querySelector('.hero-overlay').style.display='none';
+  hero.querySelector('.hero-content').style.display='none';
+  hero.querySelector('img').style.display='none';
+})()" aria-label="Play video">
     <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-  </a>
+  </button>
   <div class="hero-content">
     <div class="hero-tag"><span class="dot"></span> DayOneJourneys &middot; Featured Flight</div>
     <h1 class="hero-title">Back Where<br>It Counts.</h1>
     <p class="hero-desc">Horse racing, brotherhood, and the kind of energy that only exists when everyone is chasing something meaningful. Midwest USA.</p>
     <div class="hero-actions">
-      <a href="https://www.youtube.com/watch?v=OJ3zgnum0f8" target="_blank" class="btn btn-w" data-snd="click">
+      <a href="#" class="btn btn-w" data-snd="click" onclick="document.getElementById('play-btn').click();return false;">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
         Watch Now
       </a>
