@@ -163,6 +163,8 @@
     .faith-copy .journey { font-family: "Manrope", sans-serif; font-size: .95rem; line-height: 1.6; font-weight: 600; }
     .places { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 28px; }
     .places span { padding: 7px 11px; border: 1px solid color-mix(in srgb, var(--faith-ink) 52%, transparent); border-radius: 999px; font-family: "DM Mono", monospace; font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; }
+    .faith-videos { position: relative; margin-top: 54px; }
+    .faith-videos .video-card { color: var(--on-night); }
 
     .contact { padding: 112px 0 34px; }
     .contact-top { display: grid; grid-template-columns: 1.2fr .8fr; gap: 60px; align-items: end; padding-bottom: 76px; }
@@ -223,9 +225,9 @@
       </a>
       <div class="nav-links">
         <a href="#main">Home</a>
+        <a href="#faith">Faith</a>
         <a href="#work">Videography</a>
         <a href="#career">Career</a>
-        <a href="#faith">Faith</a>
         <a class="contact-link" href="#contact">Contact</a>
       </div>
     </div>
@@ -247,6 +249,44 @@
         </div>
       </div>
     </header>
+
+    <section class="faith" id="faith">
+      <div class="wrap">
+        <div class="faith-grid">
+          <div>
+            <p class="eyebrow">Faith</p>
+            <h2>A faith made for the journey.</h2>
+          </div>
+          <div class="faith-copy">
+            <p>My faith is grounded in the Methodist tradition: grace that meets us where we are, then calls us to keep growing in love, purpose and service.</p>
+            <p class="journey">A Wesley heritage journey through England brought that story into view, from the places where John Wesley's life began to the communities where the Methodist movement took shape.</p>
+            <div class="places" aria-label="Wesley heritage journey locations">
+              <span>Epworth</span><span>Oxford</span><span>Bristol</span><span>Bath</span><span>London</span>
+            </div>
+          </div>
+        </div>
+        <div class="videos faith-videos" aria-label="Wesley heritage tour videos">
+          <article class="video-card featured">
+            <div class="player">
+              <iframe src="https://www.youtube.com/embed/Cz-LUH7goRU" title="St Andrew's Church, Epworth | FOUNDATIONS" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div class="video-copy"><h3>St Andrew's Church, Epworth | FOUNDATIONS</h3><p>Wesley heritage · Epworth</p></div>
+          </article>
+          <article class="video-card">
+            <div class="player">
+              <iframe src="https://www.youtube.com/embed/6F_qBipHTjk" title="John Wesley's New Room | A Faith That Refused to Stay Inside" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div class="video-copy"><h3>John Wesley's New Room | A Faith That Refused to Stay Inside</h3><p>Wesley heritage · Bristol</p></div>
+          </article>
+          <article class="video-card">
+            <div class="player">
+              <iframe src="https://www.youtube.com/embed/6DIK8zvvKUA" title="Wesley Memorial Church, Oxford | United in Christ" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div class="video-copy"><h3>Wesley Memorial Church, Oxford | United in Christ</h3><p>Wesley heritage · Oxford</p></div>
+          </article>
+        </div>
+      </div>
+    </section>
 
     <div class="thread-strip">
       <div class="wrap threads">
@@ -303,22 +343,6 @@
           <div class="capability"><span>02</span><div><h3>Content Strategy</h3><p>Giving complex information a clear structure, consistent voice and useful path.</p></div></div>
           <div class="capability"><span>03</span><div><h3>Instructional Design</h3><p>Building learning experiences around what people need to understand and do.</p></div></div>
           <div class="capability"><span>04</span><div><h3>Documentation & Enablement</h3><p>Connecting documentation, training and feedback so knowledge improves with use.</p></div></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="faith" id="faith">
-      <div class="wrap faith-grid">
-        <div>
-          <p class="eyebrow">Faith</p>
-          <h2>A faith made for the journey.</h2>
-        </div>
-        <div class="faith-copy">
-          <p>My faith is grounded in the Methodist tradition: grace that meets us where we are, then calls us to keep growing in love, purpose and service.</p>
-          <p class="journey">A Wesley heritage journey through England brought that story into view, from the places where John Wesley's life began to the communities where the Methodist movement took shape.</p>
-          <div class="places" aria-label="Wesley heritage journey locations">
-            <span>Epworth</span><span>Oxford</span><span>Bristol</span><span>Bath</span><span>London</span>
-          </div>
         </div>
       </div>
     </section>
