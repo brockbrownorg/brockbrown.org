@@ -131,11 +131,13 @@
     .work .eyebrow { color: #8bd3f5; }
     .videos { display: grid; grid-template-columns: 1.4fr .8fr; gap: 18px; }
     .video-card { background: var(--night-2); border-radius: var(--radius-md); overflow: hidden; border: 1px solid rgba(255,255,255,.12); }
-    .video-card.featured { grid-row: span 3; display: flex; flex-direction: column; }
+    .video-card.featured { grid-column: 1; grid-row: 1 / span 3; display: flex; flex-direction: column; }
+    .videos > .video-card:not(.featured) { grid-column: 2; }
     .video-card.featured .player { flex: 1 1 auto; aspect-ratio: auto; min-height: 240px; }
     .player { position: relative; aspect-ratio: 16 / 9; background: #07100e; }
     .player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-copy { padding: 18px 20px 22px; }
+    .career-video { max-width: 760px; margin: 56px auto 0; }
     .video-copy h3 { margin-bottom: 7px; font-size: 1.02rem; line-height: 1.35; }
     .video-copy p { margin: 0; color: var(--on-night-muted); font-family: "DM Mono", monospace; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; }
     .work-footer { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-top: 30px; color: var(--on-night-muted); }
@@ -187,7 +189,8 @@
       .thread + .thread { border-left: 0; border-top: 1px solid var(--line); }
       .section-head { align-items: start; flex-direction: column; }
       .videos { grid-template-columns: 1fr; }
-      .video-card.featured { grid-row: auto; }
+      .video-card.featured { grid-row: auto; grid-column: auto; }
+      .videos > .video-card:not(.featured) { grid-column: auto; }
       .video-card.featured .player { flex: none; aspect-ratio: 16 / 9; min-height: 0; }
       .career-grid { gap: 55px; }
       .faith-grid { gap: 34px; }
@@ -357,6 +360,16 @@
           <div class="capability"><span>02</span><div><h3>Content Strategy</h3><p>Giving complex information a clear structure, consistent voice and useful path.</p></div></div>
           <div class="capability"><span>03</span><div><h3>Instructional Design</h3><p>Building learning experiences around what people need to understand and do.</p></div></div>
           <div class="capability"><span>04</span><div><h3>Documentation & Enablement</h3><p>Connecting documentation, training and feedback so knowledge improves with use.</p></div></div>
+        </div>
+      </div>
+          <div class="wrap">
+        <div class="career-video">
+          <article class="video-card">
+            <div class="player">
+              <iframe src="https://www.youtube.com/embed/fkNE6UK8QFE" title="Coming Full Circle at LavaCon" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+            <div class="video-copy"><h3>Coming Full Circle at LavaCon</h3><p>Speaking · LavaCon</p></div>
+          </article>
         </div>
       </div>
     </section>
