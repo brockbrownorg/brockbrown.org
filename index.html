@@ -129,11 +129,9 @@
     .section-head h2 { max-width: 720px; margin: 0; font-size: clamp(2.65rem, 5vw, 5rem); }
     .section-head p { max-width: 390px; margin: 0; color: var(--on-night-muted); }
     .work .eyebrow { color: #8bd3f5; }
-    .videos { display: grid; grid-template-columns: 1.4fr .8fr; gap: 18px; }
+    .videos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
     .video-card { background: var(--night-2); border-radius: var(--radius-md); overflow: hidden; border: 1px solid rgba(255,255,255,.12); }
-    .video-card.featured { grid-column: 1; grid-row: 1 / span 3; display: flex; flex-direction: column; }
-    .videos > .video-card:not(.featured) { grid-column: 2; }
-    .video-card.featured .player { flex: 1 1 auto; aspect-ratio: auto; min-height: 240px; }
+    .video-card.featured { grid-column: 1 / -1; }
     .player { position: relative; aspect-ratio: 16 / 9; background: #07100e; }
     .player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-copy { padding: 18px 20px 22px; }
