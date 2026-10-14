@@ -168,11 +168,11 @@
     .faith-videos .video-card { color: var(--on-night); }
 
     .contact { padding: 112px 0 34px; }
-    .contact-top { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: start; padding-bottom: 76px; }
+    .contact-top { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: stretch; padding-bottom: 76px; }
     .contact h2 { margin-bottom: 20px; }
     .contact p { max-width: 650px; color: var(--muted); }
     .email { display: inline-flex; align-items: center; gap: 10px; margin-top: 10px; color: var(--teal); font-size: clamp(1.05rem, 2vw, 1.35rem); font-weight: 700; text-underline-offset: 5px; }
-    .socials { display: grid; gap: 11px; justify-items: stretch; }
+    .socials { display: grid; gap: 11px; justify-items: stretch; height: 100%; grid-template-rows: auto auto auto repeat(5, 1fr); }
     .social-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 15px 0; border-bottom: 1px solid var(--line); }
     .social-row strong { font-size: .94rem; }
     .social-row span { color: var(--muted); font-family: "DM Mono", monospace; font-size: .76rem; }
