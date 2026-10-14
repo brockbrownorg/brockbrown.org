@@ -135,7 +135,7 @@
     .player { position: relative; aspect-ratio: 16 / 9; background: #07100e; }
     .player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-copy { padding: 18px 20px 22px; }
-    .career-cap-video { color: var(--on-night); margin-bottom: 28px; }
+    .career-wide-video { grid-column: 1 / -1; color: var(--on-night); }
     .video-copy h3 { margin-bottom: 7px; font-size: 1.02rem; line-height: 1.35; }
     .video-copy p { margin: 0; color: var(--on-night-muted); font-family: "DM Mono", monospace; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; }
     .work-footer { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-top: 30px; color: var(--on-night-muted); }
@@ -217,6 +217,33 @@
     @media (prefers-reduced-motion: reduce) {
       html { scroll-behavior: auto; }
     }
+  
+    .page-hero { padding: clamp(150px, 15vw, 190px) 0 84px; background: var(--night); color: var(--on-night); }
+    .page-hero h1 { font-size: clamp(2.65rem, 5vw, 4.6rem); margin: 0 0 18px; }
+    .page-lede { max-width: 660px; color: var(--on-night-muted); font-size: 1.08rem; }
+    .page-hero .places span { border-color: rgba(255,255,255,.38); }
+    .playlist { padding: 88px 0; }
+    .playlist.alt { background: var(--surface); }
+    .playlist h2 { font-size: clamp(2rem, 3.6vw, 3.2rem); margin: 0 0 34px; }
+    .video-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+    .video-grid .video-card, .playlist-feature { color: var(--on-night); }
+    .playlist-feature { margin-bottom: 18px; }
+    .playlist-cta { margin-top: 34px; }
+    .more-link { display: inline-block; margin-top: 28px; font-weight: 700; color: inherit; }
+    .work-footer .more-link { margin-top: 0; }
+    a.thread { color: inherit; text-decoration: none; }
+    a.thread:hover strong { color: var(--teal); }
+    .career-wide-video { grid-column: 1 / -1; color: var(--on-night); }
+    .site-footer { border-top: 1px solid var(--line); padding: 28px 0; }
+    .footer-inner { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+    @media (max-width: 860px) {
+      .video-grid { grid-template-columns: 1fr 1fr; }
+      .page-hero { padding: 128px 0 64px; }
+      .playlist { padding: 64px 0; }
+    }
+    @media (max-width: 640px) {
+      .video-grid { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
@@ -228,8 +255,8 @@
       </a>
       <div class="nav-links">
         <a href="#main">Home</a>
-        <a href="#faith">Faith</a>
-        <a href="#work">Videography</a>
+        <a href="faith.html">Faith</a>
+        <a href="videography.html">Videography</a>
         <a href="#career">Career</a>
         <a class="contact-link" href="#contact">Contact</a>
       </div>
@@ -244,7 +271,7 @@
           <h1>Clarity for complex ideas. <em>Motion</em> for meaningful stories.</h1>
           <p>I work where knowledge, technology and storytelling meet. From building useful content systems to flying cinematic FPV lines, I am always looking for a clearer way to help people see what matters.</p>
           <div class="actions">
-            <a class="button primary" href="#work">Watch the work
+            <a class="button primary" href="videography.html">Watch the work
               <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="button secondary" href="#career">Explore my career</a>
@@ -252,6 +279,13 @@
         </div>
       </div>
     </header>
+    <div class="thread-strip">
+      <div class="wrap threads">
+        <a class="thread" href="videography.html"><span>01</span><div><strong>Videography</strong><p>Aerial perspectives and immersive motion.</p></div></a>
+        <a class="thread" href="#career"><span>02</span><div><strong>Knowledge</strong><p>Content people can find, trust and use.</p></div></a>
+        <a class="thread" href="faith.html"><span>03</span><div><strong>Faith</strong><p>A journey shaped by grace and purpose.</p></div></a>
+      </div>
+    </div>
 
     <section class="faith" id="faith">
       <div class="wrap">
@@ -294,18 +328,11 @@
             <div class="video-copy"><h3>Wesley's House, London | When Faith Becomes a Way of Life</h3><p>Wesley heritage · London</p></div>
           </article>
         </div>
+        <a class="more-link" href="faith.html">Explore the full faith collection</a>
       </div>
     </section>
 
-    <div class="thread-strip">
-      <div class="wrap threads">
-        <div class="thread"><span>01</span><div><strong>Videography</strong><p>Aerial perspectives and immersive motion.</p></div></div>
-        <div class="thread"><span>02</span><div><strong>Knowledge</strong><p>Content people can find, trust and use.</p></div></div>
-        <div class="thread"><span>03</span><div><strong>Faith</strong><p>A journey shaped by grace and purpose.</p></div></div>
-      </div>
-    </div>
-
-    <section class="work" id="work">
+        <section class="work" id="work">
       <div class="wrap">
         <p class="eyebrow">Featured videography</p>
         <div class="section-head">
@@ -340,6 +367,7 @@
         </div>
         <div class="work-footer">
           <p>More travel, flight and everyday perspective on YouTube.</p>
+          <a class="more-link" href="videography.html">Browse the full videography library</a>
           <span class="channel-tag">@DayOneJourneys</span>
         </div>
       </div>
@@ -347,19 +375,19 @@
 
     <section class="career" id="career">
       <div class="wrap career-grid">
+        <article class="video-card career-wide-video">
+          <div class="player">
+            <iframe src="https://www.youtube.com/embed/fkNE6UK8QFE" title="Coming Full Circle at LavaCon" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+          <div class="video-copy"><h3>Coming Full Circle at LavaCon</h3><p>Speaking · LavaCon</p></div>
+        </article>
         <div>
           <p class="eyebrow">Career & craft</p>
           <h2>Knowledge should move people forward.</h2>
-          <p class="career-intro">I bring together knowledge management, instructional design and content strategy to turn scattered information into systems people can actually use.</p>
-          <div class="career-note"><strong>At LinkedIn,</strong> I helped build and scale knowledge management programs across KCS, documentation, training and knowledge base growth.</div>
+          <p class="career-intro">I am a knowledge management leader who brings together knowledge management, content strategy and instructional design to turn scattered information into systems people can find, trust and use, most recently leading knowledge and content programs at LinkedIn.</p>
+          <div class="career-note"><strong>At LinkedIn,</strong> I led knowledge and content programs for Trust &amp; Safety. A global Knowledge Centered Service program cut support contact volume by 25 to 30 percent and average handling time by 40 percent, and AI ready knowledge architecture lifted publishing velocity by 70 percent.</div>
         </div>
         <div class="capabilities" aria-label="Areas of expertise">
-          <article class="video-card career-cap-video">
-            <div class="player">
-              <iframe src="https://www.youtube.com/embed/fkNE6UK8QFE" title="Coming Full Circle at LavaCon" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-            <div class="video-copy"><h3>Coming Full Circle at LavaCon</h3><p>Speaking · LavaCon</p></div>
-          </article>
           <div class="capability"><span>01</span><div><h3>Knowledge Management</h3><p>Creating practical systems that make expertise easier to find, maintain and apply.</p></div></div>
           <div class="capability"><span>02</span><div><h3>Content Strategy</h3><p>Giving complex information a clear structure, consistent voice and useful path.</p></div></div>
           <div class="capability"><span>03</span><div><h3>Instructional Design</h3><p>Building learning experiences around what people need to understand and do.</p></div></div>
