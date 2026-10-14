@@ -265,22 +265,25 @@
     .contact-form button { justify-self: start; cursor: pointer; font: inherit; }
     .form-note { color: var(--muted); font-size: .9rem; margin: 0; min-height: 1.2em; }
   
-    .li-wrap { padding: clamp(120px, 12vw, 152px) 0 84px; }
-    .li-card { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 28px; margin-bottom: 20px; }
+    .li-wrap { padding: clamp(120px, 12vw, 152px) 0 84px; background: var(--night); color: var(--on-night); }
+    .li-card { background: rgba(255, 255, 255, .05); border: 1px solid rgba(255, 255, 255, .13); border-radius: 14px; padding: 28px; margin-bottom: 20px; }
     .li-card h2 { font-size: 1.35rem; margin: 0 0 16px; }
     .li-profile { padding: 0 28px 28px; overflow: hidden; }
     .li-banner { height: 148px; margin: 0 -28px 0; background: linear-gradient(115deg, var(--night) 10%, var(--teal) 58%, var(--coral) 130%); }
     .li-avatar { width: 148px; height: 148px; border-radius: 50%; border: 4px solid #fff; object-fit: cover; margin-top: -74px; background: var(--surface-2); }
     .li-profile h1 { font-size: clamp(1.7rem, 3vw, 2.3rem); margin: 14px 0 6px; }
     .li-headline { font-size: 1.02rem; max-width: 720px; margin: 0 0 6px; }
-    .li-meta { color: var(--muted); font-size: .9rem; margin: 0 0 18px; }
+    .li-meta { color: var(--on-night-muted); font-size: .9rem; margin: 0 0 18px; }
     .li-actions { display: flex; gap: 12px; flex-wrap: wrap; }
     .li-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; align-items: start; }
-    .li-card p { color: var(--muted); font-size: .98rem; }
-    .li-card ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: .95rem; }
+    .li-card p { color: var(--on-night-muted); font-size: .98rem; }
+    .li-card ul { margin: 0; padding-left: 18px; color: var(--on-night-muted); font-size: .95rem; }
     .li-card li { margin-bottom: 6px; }
     .li-card .xp:first-of-type { padding-top: 4px; }
     .li-card .xp:last-of-type { border-bottom: 0; padding-bottom: 0; }
+    .li-card .xp { border-bottom-color: rgba(255, 255, 255, .13); }
+    .li-card .xp p { color: var(--on-night-muted); }
+    .li-actions .button.secondary { color: var(--on-night); border-color: rgba(255, 255, 255, .35); }
     @media (max-width: 860px) { .li-grid { grid-template-columns: 1fr; } }
   </style>
 </head>
@@ -311,7 +314,7 @@
           <p class="li-meta">Omaha Metropolitan Area · Knowledge Management</p>
           <div class="li-actions">
             <a class="button primary" href="https://www.linkedin.com/in/brockbrownorg" target="_blank" rel="noopener">View on LinkedIn</a>
-            <a class="button secondary" href="index.html#contact">Contact</a>
+            <a class="button secondary" href="https://www.linkedin.com/messaging/compose/?recipient=brockbrownorg" target="_blank" rel="noopener">Message me on LinkedIn</a>
           </div>
         </div>
         <div class="li-grid">
@@ -362,11 +365,6 @@
             <p>Administered Microsoft 365, SharePoint Online, Azure Active Directory, and Windows Server environments, supporting identity and access management, role based permissions, and secure enterprise documentation across clinical and operational systems. Coordinated system deployments, documentation standards, and end user training initiatives while managing vendor and supplier integrations to ensure reliable system interoperability and compliant data exchange.</p>
             <p>Partnered with internal teams and external vendors on system integrations and supplier management workflows, supporting platform adoption and operational continuity. Assisted with technical marketing initiatives including website administration, content management systems, and email newsletter platforms, aligning digital content, communications, and campaigns with enterprise standards and business objectives.</p>
           </div>
-        </div>
-      </div>
-    
-      <div class="wrap">
-        <a class="more-link" href="https://www.linkedin.com/in/brockbrownorg" target="_blank" rel="noopener">Connect with me on LinkedIn</a>
             </div>
           </div>
           <div>
