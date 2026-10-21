@@ -56,19 +56,21 @@
 
   <a class="btn dark" href="#intro"><span class="k">🎤 30-Second Intro</span><span class="d">Open with this. Plus the Closing Statement at the bottom.</span></a>
 
-  <a class="btn" href="#a"><span class="k">A — LinkedIn: Agile</span><span class="d">Changing requirements / scope changed / Agile delivery — Backlog, sprint, acceptance criteria</span></a>
+  <a class="btn" href="#a"><span class="k">A — LinkedIn: Agile</span><span class="d">Problem: Compliance adds an approval step after development starts · Solution: Acceptance criteria, backlog reprioritized, required control launches first and refinements phase in</span></a>
 
-  <a class="btn alt" href="#b"><span class="k">B — Dell: Waterfall</span><span class="d">Milestone or dependency at risk — Critical path, baseline, recovery plan</span></a>
+  <a class="btn alt" href="#b"><span class="k">B — Dell: Waterfall</span><span class="d">Problem: Workstation shipment delayed two weeks before a readiness checkpoint · Solution: Critical path mapped, unaffected sites resequenced, recovery plan with owners and dates</span></a>
 
-  <a class="btn alt2" href="#c"><span class="k">C — Cessna: Hybrid / UAT</span><span class="d">Critical defect / release quality / go-no-go — UAT, triage, retest</span></a>
+  <a class="btn alt2" href="#c"><span class="k">C — Cessna: Hybrid / UAT</span><span class="d">Problem: UAT finds approval requests routing to the wrong department near the release gate · Solution: Defect triaged by severity, fix retested with regression, business signs off before the release decision</span></a>
 
-  <a class="btn alt3" href="#d"><span class="k">D — Konica Minolta: Print</span><span class="d">Production / customer troubleshooting — Root cause, output integrity, workflow</span></a>
+  <a class="btn alt3" href="#d"><span class="k">D — Konica Minolta: Print</span><span class="d">Problem: Intermittent output inconsistencies somewhere in the print workflow · Solution: Good and failed runs compared, failure point isolated, correction validated against customer quality criteria</span></a>
 
-  <a class="btn alt4" href="#e"><span class="k">E — LinkedIn: Stakeholder Conflict</span><span class="d">Competing priorities / leadership / influence — Governance, decision owner, trade-offs</span></a>
+  <a class="btn alt4" href="#e"><span class="k">E — LinkedIn: Stakeholder Conflict</span><span class="d">Problem: Operations wants speed, compliance wants controls, tech wants stable scope · Solution: One shared definition of success, decisions and owners documented, leaders decide the trade offs</span></a>
 
   <a class="btn gold" href="#methods"><span class="k">Methods — Agile / Waterfall / Hybrid / Six Sigma</span><span class="d">“Which do you prefer?” plus Six Sigma as the overarching mindset</span></a>
 
   <a class="btn" href="#testing" style="background:#be185d"><span class="k">🧪 Testing — SIT / UAT / Quality</span><span class="d">How they fit together, the difference between SIT and UAT, and which A–E stories show each one</span></a>
+
+  <a class="btn alt3" href="#printsdlc"><span class="k">🖨 Print Domain — SDLC</span><span class="d">How the software life cycle runs when the deliverable is physical mail — requirements, composition, testing, release, production</span></a>
 
   <a class="btn dark" href="#questions"><span class="k">❓ Questions to Ask the Panel</span><span class="d">Plus Closing Statement — use at the end</span></a>
 </nav>
@@ -223,6 +225,27 @@
   </ul>
   <h2 style="margin-top:24px">Closing Statement</h2>
   <div class="say"><p>“I bring the ability to connect technical delivery with operational outcomes. I’m comfortable coordinating iterative work, managing structured milestones, making risks and dependencies visible, and ensuring the business is ready before we move into production.”</p></div>
+  <a class="back" href="#top">↑ Back to Buttons</a>
+</section>
+
+<section id="printsdlc">
+  <h2>🖨 Print Domain — Software Development Life Cycle</h2>
+  <p class="use"><strong>Use when asked:</strong> How the life cycle works in a print environment, or how your print background connects to software delivery.</p>
+  <div class="say"><h3>Say this:</h3><p>“In the print domain the life cycle looks familiar, but the deliverable is different. The end product is a physical, auditable piece of mail, so every phase has to protect output integrity. Acceptance is not proven on a screen. It is proven on real output, with page counts, barcode reads and samples the business can hold.”</p></div>
+  <h3>1 — Requirements and discovery</h3>
+  <p>Volumes, run windows, service levels and mail dates are defined up front, along with the data coming in, the compliance rules on the content, and the finishing and postal requirements. In print, a requirement missed here becomes a physical defect later, so discovery includes the mail piece itself: stock, envelopes, inserts and how it will be produced.</p>
+  <h3>2 — Design</h3>
+  <p>Document design and composition rules: templates, variable data logic, and the output format the devices need. Design also covers the control marks that drive inserting and finishing, address and barcode placement, and proofs the business can review before anything is built.</p>
+  <h3>3 — Build</h3>
+  <p>Composition and data work: mapping and transforming the input data, building the templates, generating print ready files, and configuring the workflow that moves jobs from file receipt to press to finishing, including how reprints and exceptions are handled.</p>
+  <h3>4 — Testing</h3>
+  <p>Proofing first, then integration testing that the data, composition and output hold together end to end. Acceptance is done on real output: print quality, barcode readability, page and piece counts, correct inserts. Volume testing matters because peak cycles behave differently from quiet days, and every template change goes back through regression.</p>
+  <h3>5 — Release and deployment</h3>
+  <p>Cutover is planned around the production calendar, never on top of a peak mailing date. A parallel run compares old and new output piece by piece, the go or no go decision uses physical samples as evidence, and rollback means holding the prior approved version ready to run.</p>
+  <h3>6 — Production operations</h3>
+  <p>Every run is monitored: files received, pages and pieces accounted for, spoilage and reprints tracked, service levels and mail dates watched. The audit trail has to show what was printed, when, and from which version, because regulated mail has to be provable after the fact.</p>
+  <h3>7 — Maintenance and change</h3>
+  <p>Template changes, postal rate cases and regulatory notices arrive on a fixed calendar and go through the same cycle: impact assessed, tested, accepted on output, then released. Defect and reprint trends feed continuous improvement, which is where the Six Sigma mindset earns its keep.</p>
   <a class="back" href="#top">↑ Back to Buttons</a>
 </section>
 
