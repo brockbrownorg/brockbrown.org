@@ -57,6 +57,11 @@
   .tile .v{font-family:"IBM Plex Mono",monospace;font-size:18px;font-weight:600;margin-top:2px}
   .tile .v span{font-size:12px;color:#8a9196;font-weight:400}
   .hero-updated{margin-top:8px;font-size:12px;color:#8a9196}
+  .update-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+  .update-btn{border:1px solid var(--accent-bright);background:var(--accent);color:#fff;border-radius:999px;padding:8px 14px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;min-height:36px}
+  .update-btn:hover{background:#007c2e}
+  .update-btn:disabled{opacity:.65;cursor:wait}
+  .update-note{font-size:12px;color:#8a9196}
   /* ── Notes block ── */
   .notes{margin-top:12px;border:1px solid var(--border);background:var(--surface2);border-radius:12px;padding:12px 14px}
   .notes .n-lbl{display:flex;align-items:center;gap:6px;font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
@@ -153,6 +158,10 @@
             <div class="tile"><p class="k">Fan</p><p class="v" id="d-fan">—</p></div>
           </div>
           <p class="hero-updated" id="d-updated">Last updated Nov 13, 12:01 PM · Live from the Mac bridge — this page refreshes itself every 15 minutes</p>
+          <div class="update-row">
+            <button type="button" class="update-btn" id="d-update-btn">Update status</button>
+            <span class="update-note" id="d-update-note" aria-live="polite">Loads the newest published status and photo.</span>
+          </div>
         </div>
       </div>
     </div>
@@ -318,7 +327,7 @@
     jobs.forEach(function(j){ box.appendChild(jobCard(j)); });
   }
   var lastCam=null;
-  function render(d){
+  function render(d, forceCamera){
     if(!d) return;
     txt('d-state', 'Bambu Lab A1 · '+(d.stateLabel||''));
     txt('d-title', d.title || d.currentFile || '');
@@ -338,9 +347,9 @@
       else { fan.appendChild(document.createTextNode(String(Math.round(d.fanPercent))));
         var fs=document.createElement('span'); fs.textContent='%'; fan.appendChild(fs); } }
     txt('d-updated', 'Last updated '+(d.updatedLabel||'')+' · Live from the Mac bridge — this page refreshes itself every 15 minutes');
-    if(d.cameraUpdatedAt && d.cameraUpdatedAt!==lastCam){
+    if(d.cameraUpdatedAt && (forceCamera || d.cameraUpdatedAt!==lastCam)){
       lastCam=d.cameraUpdatedAt;
-      var img=el('d-cam'); if(img) img.src='camera.jpg?t='+encodeURIComponent(d.cameraUpdatedAt);
+      var img=el('d-cam'); if(img) img.src='camera.jpg?t='+encodeURIComponent(forceCamera ? Date.now() : d.cameraUpdatedAt);
       txt('d-camcap', 'Printer camera · '+(d.cameraLabel||'')+' — snapshot from the Mac bridge, refreshed while printing.');
     }
     var up=el('d-upnext');
@@ -398,14 +407,35 @@
       });
     }
   }
-  function poll(){
+  var updateBusy=false;
+  function poll(manual){
+    var btn=el('d-update-btn'), note=el('d-update-note');
+    if(manual){
+      if(updateBusy) return;
+      updateBusy=true;
+      if(btn){ btn.disabled=true; btn.textContent='Updating…'; }
+      if(note) note.textContent='Checking for the newest published status and photo…';
+    }
     fetch('status.json?t='+Date.now(), {cache:'no-store'})
-      .then(function(r){ return r.json(); })
-      .then(render)
-      .catch(function(){});
+      .then(function(r){ if(!r.ok) throw new Error('status unavailable'); return r.json(); })
+      .then(function(d){
+        render(d, !!manual);
+        if(manual && note) note.textContent='Updated just now.';
+      })
+      .catch(function(){
+        if(manual && note) note.textContent='Could not load a newer update. Showing the last published status.';
+      })
+      .finally(function(){
+        if(manual){
+          updateBusy=false;
+          if(btn){ btn.disabled=false; btn.textContent='Update status'; }
+        }
+      });
   }
-  poll();
-  setInterval(poll, 900000);
+  var updateBtn=el('d-update-btn');
+  if(updateBtn) updateBtn.addEventListener('click', function(){ poll(true); });
+  poll(false);
+  setInterval(function(){ poll(false); }, 900000);
 })();
 </script>
 </body>
