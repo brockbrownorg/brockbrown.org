@@ -1,22 +1,22 @@
 {
-    "updatedAt": "2026-11-13T12:51:47-06:00",
-    "updatedLabel": "Nov 13, 12:51 PM",
+    "updatedAt": "2026-11-13T13:07:16-06:00",
+    "updatedLabel": "Nov 13, 1:07 PM",
     "state": "printing",
     "stateLabel": "Printing",
     "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
     "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-    "progressPercent": 40,
-    "layerCurrent": 269,
+    "progressPercent": 43,
+    "layerCurrent": 304,
     "layerTotal": 919,
-    "remainingMinutes": 374,
-    "estimatedFinish": "7:05 PM",
+    "remainingMinutes": 352,
+    "estimatedFinish": "6:59 PM",
     "nozzleTemp": 220,
     "nozzleTarget": 220,
     "bedTemp": 55,
     "bedTarget": 55,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-13T12:49:07-06:00",
-    "cameraLabel": "Fri, Nov 13, 2026 at 12:49 PM CT",
+    "cameraUpdatedAt": "2026-11-13T13:04:10-06:00",
+    "cameraLabel": "Fri, Nov 13, 2026 at 1:04 PM CT",
     "queue": [
         {
             "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
@@ -55,6 +55,10 @@
     ],
     "log": [
         {
+            "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 43% · Layer 304/919 · 5h 52min left · ETA 6:59 PM",
+            "meta": "manual · Nov 13, 1:07 PM"
+        },
+        {
             "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 40% · Layer 269/919 · 6h 14min left · ETA 7:05 PM",
             "meta": "manual · Nov 13, 12:52 PM"
         },
@@ -80,10 +84,6 @@
         },
         {
             "sum": "Command relayed to bridge — Light on · Relaying to the Mac bridge now",
-            "meta": "command · Nov 13, 12:27 PM"
-        },
-        {
-            "sum": "Command requested — Light on · Queued for relay via the Mac bridge · The bridge did not answer within 25 seconds — it may not be running, so the request stays queued.",
             "meta": "command · Nov 13, 12:27 PM"
         }
     ]
