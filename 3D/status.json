@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-13T17:21:45-06:00",
-  "updatedLabel": "Nov 13, 5:21 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-13T17:37:26-06:00",
+  "updatedLabel": "Nov 13, 5:37 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
   "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-  "progressPercent": 99,
-  "layerCurrent": 912,
+  "progressPercent": 100,
+  "layerCurrent": 919,
   "layerTotal": 919,
-  "remainingMinutes": 4,
-  "estimatedFinish": "5:25 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 55,
-  "bedTarget": 55,
+  "remainingMinutes": 0,
+  "estimatedFinish": "5:37 PM",
+  "nozzleTemp": 39,
+  "nozzleTarget": 0,
+  "bedTemp": 37,
+  "bedTarget": 0,
   "fanPercent": null,
   "cameraUpdatedAt": "2026-11-13T17:20:02-06:00",
   "cameraLabel": "Fri, Nov 13, 2026 at 5:20 PM CT",
@@ -24,16 +24,24 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 1,
+    "finished": 2,
     "filamentUsed": "—"
   },
   "history": [
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
     {
       "title": "Cigar Case 23mm x 150mm",
       "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
@@ -54,6 +62,14 @@
     }
   ],
   "log": [
+    {
+      "sum": "Print finished — Rugged Cigar Tube _ Case with Airtight TPU Seal finished at 5:23 PM on Nov 13, 100%, layer 919/919, no errors.",
+      "meta": "note · Nov 13, 5:38 PM"
+    },
+    {
+      "sum": "Finished — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 100% · Layer 919/919 · — · ETA 5:37 PM",
+      "meta": "manual · Nov 13, 5:37 PM"
+    },
     {
       "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 99% · Layer 912/919 · 4 min left · ETA 5:25 PM",
       "meta": "manual · Nov 13, 5:21 PM"
@@ -77,14 +93,6 @@
     {
       "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 82% · Layer 708/919 · 1h 50min left · ETA 5:56 PM",
       "meta": "manual · Nov 13, 4:07 PM"
-    },
-    {
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 79% · Layer 673/919 · 2h 10min left · ETA 6:01 PM",
-      "meta": "manual · Nov 13, 3:52 PM"
-    },
-    {
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 76% · Layer 639/919 · 2h 30min left · ETA 6:06 PM",
-      "meta": "manual · Nov 13, 3:37 PM"
     }
   ]
 }
