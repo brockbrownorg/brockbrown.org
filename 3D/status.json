@@ -1,90 +1,90 @@
 {
-  "updatedAt": "2026-11-13T12:21:45-06:00",
-  "updatedLabel": "Nov 13, 12:21 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
-  "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
-  "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-  "progressPercent": 33,
-  "layerCurrent": 200,
-  "layerTotal": 919,
-  "remainingMinutes": 414,
-  "estimatedFinish": "7:15 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 55,
-  "bedTarget": 55,
-  "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-13T12:19:03-06:00",
-  "cameraLabel": "Fri, Nov 13, 2026 at 12:19 PM CT",
-  "queue": [
-    {
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
-      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-      "meta": "",
-      "notes": "",
-      "thumb": null,
-      "pill": "printing"
-    }
-  ],
-  "upNext": null,
-  "stats": {
-    "inQueue": 1,
-    "finished": 1,
-    "filamentUsed": "—"
-  },
-  "history": [
-    {
-      "title": "Cigar Case 23mm x 150mm",
-      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
-      "meta": "Finished Nov 12, 11:07 PM",
-      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-      "thumb": null,
-      "pill": "done"
-    }
-  ],
-  "filaments": [
-    {
-      "slot": "External spool",
-      "material": "PLA",
-      "colorName": "Blue",
-      "colorHex": "#2850E0",
-      "remainingPercent": null,
-      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
-    }
-  ],
-  "log": [
-    {
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 33% · Layer 200/919 · 6h 54min left · ETA 7:15 PM",
-      "meta": "manual · Nov 13, 12:22 PM"
+    "bedTarget": 55,
+    "bedTemp": 55,
+    "cameraLabel": "Fri, Nov 13, 2026 at 12:34 PM CT",
+    "cameraUpdatedAt": "2026-11-13T12:34:05-06:00",
+    "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+    "estimatedFinish": "7:10 PM",
+    "fanPercent": null,
+    "filaments": [
+        {
+            "colorHex": "#2850E0",
+            "colorName": "Blue",
+            "material": "PLA",
+            "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+            "remainingPercent": null,
+            "slot": "External spool"
+        }
+    ],
+    "history": [
+        {
+            "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+            "meta": "Finished Nov 12, 11:07 PM",
+            "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+            "pill": "done",
+            "thumb": null,
+            "title": "Cigar Case 23mm x 150mm"
+        }
+    ],
+    "layerCurrent": 235,
+    "layerTotal": 919,
+    "log": [
+        {
+            "meta": "manual \u00b7 Nov 13, 12:37 PM",
+            "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 37% \u00b7 Layer 235/919 \u00b7 6h 34min left \u00b7 ETA 7:10 PM"
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:30 PM",
+            "sum": "Command completed \u2014 Light off \u00b7 Bridge sent light_off to the printer at 12:29 PM"
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:29 PM",
+            "sum": "Command relayed to bridge \u2014 Light off"
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:28 PM",
+            "sum": "Command completed \u2014 Light on \u00b7 Bridge sent light_on to the printer at 12:27 PM"
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:27 PM",
+            "sum": "Command requested \u2014 Light off \u00b7 Queued for relay via the Mac bridge \u00b7 The bridge did not answer within 25 seconds \u2014 it may not be running, so the request stays queued."
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:27 PM",
+            "sum": "Command relayed to bridge \u2014 Light on \u00b7 Relaying to the Mac bridge now"
+        },
+        {
+            "meta": "command \u00b7 Nov 13, 12:27 PM",
+            "sum": "Command requested \u2014 Light on \u00b7 Queued for relay via the Mac bridge \u00b7 The bridge did not answer within 25 seconds \u2014 it may not be running, so the request stays queued."
+        },
+        {
+            "meta": "manual \u00b7 Nov 13, 12:22 PM",
+            "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 33% \u00b7 Layer 200/919 \u00b7 6h 54min left \u00b7 ETA 7:15 PM"
+        }
+    ],
+    "nozzleTarget": 220,
+    "nozzleTemp": 220,
+    "progressPercent": 37,
+    "queue": [
+        {
+            "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+            "meta": "",
+            "notes": "",
+            "pill": "printing",
+            "thumb": null,
+            "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+        }
+    ],
+    "remainingMinutes": 394,
+    "state": "printing",
+    "stateLabel": "Printing",
+    "stats": {
+        "filamentUsed": "\u2014",
+        "finished": 1,
+        "inQueue": 1
     },
-    {
-      "sum": "Command completed — Resume · Bridge sent resume to the printer at 12:17 PM",
-      "meta": "command · Nov 13, 12:18 PM"
-    },
-    {
-      "sum": "Command relayed to bridge — Resume · Relaying to the Mac bridge now",
-      "meta": "command · Nov 13, 12:17 PM"
-    },
-    {
-      "sum": "Command completed — Pause · Bridge sent pause to the printer at 12:16 PM",
-      "meta": "command · Nov 13, 12:17 PM"
-    },
-    {
-      "sum": "Command relayed to bridge — Pause · Relaying to the Mac bridge now",
-      "meta": "command · Nov 13, 12:17 PM"
-    },
-    {
-      "sum": "Command completed — Light off · Bridge sent light_off to the printer at 12:16 PM",
-      "meta": "command · Nov 13, 12:16 PM"
-    },
-    {
-      "sum": "Command relayed to bridge — Light off · Relaying to the Mac bridge now",
-      "meta": "command · Nov 13, 12:16 PM"
-    },
-    {
-      "sum": "Command completed — Light on · Bridge sent light_on to the printer at 12:15 PM",
-      "meta": "command · Nov 13, 12:16 PM"
-    }
-  ]
+    "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+    "upNext": null,
+    "updatedAt": "2026-11-13T12:37:37-06:00",
+    "updatedLabel": "Nov 13, 12:37 PM"
 }
