@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-11-13T12:01:57-06:00",
-  "updatedLabel": "Nov 13, 12:01 PM",
+  "updatedAt": "2026-11-13T12:06:49-06:00",
+  "updatedLabel": "Nov 13, 12:06 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
   "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-  "progressPercent": 29,
-  "layerCurrent": 156,
+  "progressPercent": 30,
+  "layerCurrent": 167,
   "layerTotal": 919,
-  "remainingMinutes": 442,
-  "estimatedFinish": "7:24 PM",
+  "remainingMinutes": 434,
+  "estimatedFinish": "7:20 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 55,
   "bedTarget": 55,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-13T11:59:00-06:00",
-  "cameraLabel": "Fri, Nov 13, 2026 at 11:59 AM CT",
-  "upNext": {
-    "title": "Statue on Oval Base",
-    "file": "Statue_On_Oval_Base.stl",
-    "est": "No time estimate yet",
-    "notes": "The settled final file from Nov 12: Brock's bust exactly as uploaded on a stepped oval pedestal, 216 x 168 mm footprint, 168.5 mm tall.",
-    "thumb": "statue.png"
-  },
+  "cameraUpdatedAt": "2026-11-13T12:04:02-06:00",
+  "cameraLabel": "Fri, Nov 13, 2026 at 12:04 PM CT",
+  "upNext": null,
   "stats": {
-    "inQueue": 2,
+    "inQueue": 1,
     "finished": 1,
     "filamentUsed": "\u2014"
   },
@@ -37,20 +31,12 @@
       "notes": "",
       "thumb": null,
       "pill": "printing"
-    },
-    {
-      "title": "Statue on Oval Base",
-      "file": "Statue_On_Oval_Base.stl",
-      "meta": "Added Nov 12, 9:13 PM",
-      "notes": "The settled final file from Nov 12: Brock's bust exactly as uploaded on a stepped oval pedestal, 216 x 168 mm footprint, 168.5 mm tall.",
-      "thumb": "statue.png",
-      "pill": "queued"
     }
   ],
   "history": [
     {
       "title": "Cigar Case 23mm x 150mm",
-      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf \u00b7 PLA, external spool",
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
       "meta": "Finished Nov 12, 11:07 PM",
       "notes": "",
       "thumb": null,
@@ -64,13 +50,13 @@
       "colorName": "Blue",
       "colorHex": "#2850E0",
       "remainingPercent": null,
-      "notes": "The printer does not report remaining filament for the external spool."
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
     }
   ],
   "log": [
     {
-      "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 29% \u00b7 Layer 156/919 \u00b7 7h 22min left \u00b7 ETA 7:24 PM",
-      "meta": "bridge \u00b7 Nov 13, 12:01 PM"
+      "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 30% \u00b7 Layer 167/919 \u00b7 7h 14min left \u00b7 ETA 7:20 PM",
+      "meta": "manual \u00b7 Nov 13, 12:07 PM"
     },
     {
       "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 27% \u00b7 Layer 132/919 \u00b7 7h 36min left \u00b7 ETA 7:27 PM",
@@ -93,12 +79,12 @@
       "meta": "manual \u00b7 Nov 13, 10:52 AM"
     },
     {
-      "sum": "Print started \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal started at 10:13 AM on Nov 13, layer 7/919, 3%, no errors.",
-      "meta": "note \u00b7 Nov 13, 10:22 AM"
+      "sum": "Printing \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf \u00b7 8% \u00b7 Layer 29/919 \u00b7 4h 48min left \u00b7 ETA 3:24 PM",
+      "meta": "manual \u00b7 Nov 13, 10:37 AM"
     },
     {
-      "sum": "Finished \u2014 Cigar Case 23mm x 150mm \u00b7 100% \u00b7 Layer 919/919",
-      "meta": "manual \u00b7 Nov 13, 10:08 AM"
+      "sum": "Print started \u2014 Rugged Cigar Tube _ Case with Airtight TPU Seal started at 10:13 AM on Nov 13, layer 7/919, 3%, 303 min left, ETA 3:24 PM, no errors.",
+      "meta": "note \u00b7 Nov 13, 10:22 AM"
     }
   ]
 }
