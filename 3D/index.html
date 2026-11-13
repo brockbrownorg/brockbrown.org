@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Bambu Lab A1 · Print Center Snapshot</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: #101014; color: #eceaf2; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 40px 22px 64px; }
+  .kicker { color: #e8a33d; letter-spacing: .18em; text-transform: uppercase; font-size: 12px; font-weight: 700; }
+  h1 { font-size: 34px; margin: 8px 0 6px; }
+  h2 { font-size: 20px; margin: 34px 0 10px; color: #ffffff; }
+  p, li { line-height: 1.6; color: #cfccd9; }
+  .sub { color: #a5a1b5; margin-top: 0; }
+  .card { background: #1c1c23; border: 1px solid #2b2b35; border-radius: 18px; padding: 22px; margin-top: 20px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin-top: 14px; }
+  .stat { background: #14141a; border: 1px solid #2b2b35; border-radius: 14px; padding: 14px; }
+  .stat .label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #a5a1b5; }
+  .stat .value { font-size: 24px; font-weight: 700; margin-top: 4px; color: #ffffff; }
+  .bar { height: 10px; background: #2b2b35; border-radius: 6px; margin-top: 16px; overflow: hidden; }
+  .bar span { display: block; height: 100%; width: 71%; background: #e8a33d; }
+  table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+  td { padding: 8px 6px; border-bottom: 1px solid #2b2b35; color: #cfccd9; vertical-align: top; }
+  td:first-child { color: #a5a1b5; white-space: nowrap; width: 180px; }
+  .note { font-size: 14px; color: #a5a1b5; }
+  footer { margin-top: 40px; font-size: 13px; color: #77738a; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="kicker">Bambu Lab A1 · Print Center</div>
+  <h1>The little printer that could, watched from the couch</h1>
+  <p class="sub">A snapshot from Thursday, November 12, 2026 at 9:01 PM CT, read live from the printer by a small bridge program running on a Mac at home.</p>
+
+  <div class="card">
+    <div class="kicker">Now printing</div>
+    <h2 style="margin-top:6px;">Cigar Case, 23mm x 150mm</h2>
+    <div class="bar"><span></span></div>
+    <div class="stats">
+      <div class="stat"><div class="label">Progress</div><div class="value">71%</div></div>
+      <div class="stat"><div class="label">Layer</div><div class="value">591 / 919</div></div>
+      <div class="stat"><div class="label">Time left</div><div class="value">2h 44m</div></div>
+      <div class="stat"><div class="label">Estimated finish</div><div class="value">11:45 PM</div></div>
+      <div class="stat"><div class="label">Nozzle</div><div class="value">220°C</div></div>
+      <div class="stat"><div class="label">Bed</div><div class="value">65°C</div></div>
+    </div>
+    <p class="note" style="margin-top:14px;">Errors: none. Filament: PLA on the external spool. Read from the printer itself, not typed in by hand.</p>
+  </div>
+
+  <h2>How the reading got here</h2>
+  <p>3D printers talk constantly on the home network, they just do it in a language phone apps usually keep to themselves. A small bridge program on the home Mac listens to the A1 directly, writes down what the printer says (state, layer, temperatures, errors, and every start, pause, finish, and failure), and hands those notes to Juno, the assistant who helps run things. That is how the numbers above were read at 9:01 PM without anyone opening an app or taking a screenshot.</p>
+
+  <h2>What the bridge can do</h2>
+  <table>
+    <tr><td>Live status</td><td>Progress, current layer, time remaining, nozzle and bed temperatures, fan speeds, filament state.</td></tr>
+    <tr><td>Print log</td><td>Every print event recorded with the time it happened: started, paused, finished, failed.</td></tr>
+    <tr><td>Alerts</td><td>A note when a print finishes or fails, instead of checking an app all evening.</td></tr>
+    <tr><td>Commands</td><td>Pause, resume, stop, and the printer light, sent through the same channel (with one tradeoff, below).</td></tr>
+  </table>
+
+  <h2>The honest limits of an A1</h2>
+  <table>
+    <tr><td>Camera</td><td>A snapshot camera, roughly a frame every second or two. Fine for a check in, not a video feed.</td></tr>
+    <tr><td>Failure detection</td><td>No spaghetti detection like the X1 has. The A1 catches filament runout and tangles itself; the rest is a human or an assistant eyeballing the camera.</td></tr>
+    <tr><td>Commands</td><td>On current firmware, sending commands may require the printer's LAN only Developer Mode, which turns off Bambu Handy cloud access. Monitoring needs no such change.</td></tr>
+    <tr><td>Hands</td><td>Nothing physical. Loading filament, clearing a jam, and pulling a finished print off the plate stay with the human.</td></tr>
+  </table>
+
+  <h2>On the evening's list</h2>
+  <table>
+    <tr><td>Printing</td><td>Cigar Case, 23mm x 150mm, PLA. Started before the bridge went live; the bridge picked it up at 71%.</td></tr>
+    <tr><td>Next up</td><td>The statue on its oval base: 216 x 168 mm footprint, 168.5 mm tall, the file settled on November 12.</td></tr>
+    <tr><td>Also in progress</td><td>DJI Avata 2 bottom shell replacement, and cut files for a GEPRC Vapor D6 frame.</td></tr>
+  </table>
+
+  <footer>Standalone snapshot page. Fixed at the 9:01 PM reading on November 12, 2026; it does not update itself.</footer>
+</div>
+</body>
+</html>
