@@ -152,7 +152,7 @@
             <div class="tile"><p class="k">Bed</p><p class="v" id="d-bed">55°<span> / 55°C</span></p></div>
             <div class="tile"><p class="k">Fan</p><p class="v" id="d-fan">—</p></div>
           </div>
-          <p class="hero-updated" id="d-updated">Last updated Nov 13, 12:01 PM · Live from the Mac bridge — this page refreshes itself every minute</p>
+          <p class="hero-updated" id="d-updated">Last updated Nov 13, 12:01 PM · Live from the Mac bridge — this page refreshes itself every 15 minutes</p>
         </div>
       </div>
     </div>
@@ -337,7 +337,7 @@
     if(fan){ fan.textContent=''; if(d.fanPercent==null){ fan.textContent='—'; }
       else { fan.appendChild(document.createTextNode(String(Math.round(d.fanPercent))));
         var fs=document.createElement('span'); fs.textContent='%'; fan.appendChild(fs); } }
-    txt('d-updated', 'Last updated '+(d.updatedLabel||'')+' · Live from the Mac bridge — this page refreshes itself every minute');
+    txt('d-updated', 'Last updated '+(d.updatedLabel||'')+' · Live from the Mac bridge — this page refreshes itself every 15 minutes');
     if(d.cameraUpdatedAt && d.cameraUpdatedAt!==lastCam){
       lastCam=d.cameraUpdatedAt;
       var img=el('d-cam'); if(img) img.src='camera.jpg?t='+encodeURIComponent(d.cameraUpdatedAt);
@@ -405,7 +405,7 @@
       .catch(function(){});
   }
   poll();
-  setInterval(poll, 60000);
+  setInterval(poll, 900000);
 })();
 </script>
 </body>
