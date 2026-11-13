@@ -1,90 +1,90 @@
 {
-  "bedTarget": 55,
-  "bedTemp": 55,
-  "cameraLabel": "Fri, Nov 13, 2026 at 5:05 PM CT",
-  "cameraUpdatedAt": "2026-11-13T17:05:00-06:00",
+  "updatedAt": "2026-11-13T17:21:45-06:00",
+  "updatedLabel": "Nov 13, 5:21 PM",
+  "state": "printing",
+  "stateLabel": "Printing",
+  "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
   "currentFile": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
-  "estimatedFinish": "5:34 PM",
-  "fanPercent": null,
-  "filaments": [
-    {
-      "colorHex": "#000000",
-      "colorName": "Black",
-      "material": "PLA",
-      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
-      "remainingPercent": null,
-      "slot": "External Spool"
-    }
-  ],
-  "history": [
-    {
-      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
-      "meta": "Finished Nov 12, 11:07 PM",
-      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-      "pill": "done",
-      "thumb": null,
-      "title": "Cigar Case 23mm x 150mm"
-    }
-  ],
-  "layerCurrent": 843,
+  "progressPercent": 99,
+  "layerCurrent": 912,
   "layerTotal": 919,
-  "log": [
-    {
-      "meta": "manual · Nov 13, 5:06 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 95% · Layer 843/919 · 28 min left · ETA 5:34 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 4:51 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 92% · Layer 809/919 · 48 min left · ETA 5:39 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 4:37 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 89% · Layer 776/919 · 1h 8min left · ETA 5:44 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 4:22 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 85% · Layer 742/919 · 1h 28min left · ETA 5:49 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 4:07 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 82% · Layer 708/919 · 1h 50min left · ETA 5:56 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 3:52 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 79% · Layer 673/919 · 2h 10min left · ETA 6:01 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 3:37 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 76% · Layer 639/919 · 2h 30min left · ETA 6:06 PM"
-    },
-    {
-      "meta": "manual · Nov 13, 3:25 PM",
-      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 73% · Layer 608/919 · 2h 48min left · ETA 6:11 PM"
-    }
-  ],
-  "nozzleTarget": 220,
+  "remainingMinutes": 4,
+  "estimatedFinish": "5:25 PM",
   "nozzleTemp": 220,
-  "progressPercent": 95,
+  "nozzleTarget": 220,
+  "bedTemp": 55,
+  "bedTarget": 55,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-13T17:20:02-06:00",
+  "cameraLabel": "Fri, Nov 13, 2026 at 5:20 PM CT",
   "queue": [
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "",
       "notes": "",
-      "pill": "printing",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "printing"
     }
   ],
-  "remainingMinutes": 28,
-  "state": "printing",
-  "stateLabel": "Printing",
-  "stats": {
-    "filamentUsed": "—",
-    "finished": 1,
-    "inQueue": 1
-  },
-  "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
   "upNext": null,
-  "updatedAt": "2026-11-13T17:06:42-06:00",
-  "updatedLabel": "Nov 13, 5:06 PM"
+  "stats": {
+    "inQueue": 1,
+    "finished": 1,
+    "filamentUsed": "—"
+  },
+  "history": [
+    {
+      "title": "Cigar Case 23mm x 150mm",
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "thumb": null,
+      "pill": "done"
+    }
+  ],
+  "filaments": [
+    {
+      "slot": "External Spool",
+      "material": "PLA",
+      "colorName": "Black",
+      "colorHex": "#000000",
+      "remainingPercent": null,
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
+    }
+  ],
+  "log": [
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 99% · Layer 912/919 · 4 min left · ETA 5:25 PM",
+      "meta": "manual · Nov 13, 5:21 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 95% · Layer 843/919 · 28 min left · ETA 5:34 PM",
+      "meta": "manual · Nov 13, 5:06 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 92% · Layer 809/919 · 48 min left · ETA 5:39 PM",
+      "meta": "manual · Nov 13, 4:51 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 89% · Layer 776/919 · 1h 8min left · ETA 5:44 PM",
+      "meta": "manual · Nov 13, 4:37 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 85% · Layer 742/919 · 1h 28min left · ETA 5:49 PM",
+      "meta": "manual · Nov 13, 4:22 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 82% · Layer 708/919 · 1h 50min left · ETA 5:56 PM",
+      "meta": "manual · Nov 13, 4:07 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 79% · Layer 673/919 · 2h 10min left · ETA 6:01 PM",
+      "meta": "manual · Nov 13, 3:52 PM"
+    },
+    {
+      "sum": "Printing — Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf · 76% · Layer 639/919 · 2h 30min left · ETA 6:06 PM",
+      "meta": "manual · Nov 13, 3:37 PM"
+    }
+  ]
 }
