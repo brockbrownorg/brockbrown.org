@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T23:54:57-06:00",
-  "updatedLabel": "Nov 14, 11:54 PM",
+  "updatedAt": "2026-11-15T00:12:09-06:00",
+  "updatedLabel": "Nov 15, 12:12 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Airpods_5_case",
@@ -9,14 +9,14 @@
   "layerCurrent": 168,
   "layerTotal": 168,
   "remainingMinutes": 0,
-  "estimatedFinish": "11:53 PM",
-  "nozzleTemp": 27,
+  "estimatedFinish": "12:10 AM",
+  "nozzleTemp": 26,
   "nozzleTarget": 0,
-  "bedTemp": 27,
+  "bedTemp": 26,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-14T23:52:55-06:00",
-  "cameraLabel": "Sat, Nov 14, 2026 at 11:52 PM CT",
+  "cameraUpdatedAt": "2026-11-15T00:09:33-06:00",
+  "cameraLabel": "Sun, Nov 15, 2026 at 12:09 AM CT",
   "queue": [
     {
       "title": "Airpods_5_case",
@@ -71,36 +71,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 12:10 AM",
+      "meta": "manual · Nov 15, 12:10 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 12:08 AM",
+      "meta": "manual · Nov 15, 12:09 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 12:06 AM",
+      "meta": "manual · Nov 15, 12:06 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 12:04 AM",
+      "meta": "manual · Nov 15, 12:04 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 12:02 AM",
+      "meta": "manual · Nov 15, 12:02 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:59 PM",
+      "meta": "manual · Nov 14, 11:59 PM"
+    },
+    {
       "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:53 PM",
       "meta": "manual · Nov 14, 11:53 PM"
     },
     {
       "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:50 PM",
       "meta": "manual · Nov 14, 11:51 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:48 PM",
-      "meta": "manual · Nov 14, 11:49 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:46 PM",
-      "meta": "manual · Nov 14, 11:46 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:44 PM",
-      "meta": "manual · Nov 14, 11:44 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:41 PM",
-      "meta": "manual · Nov 14, 11:42 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:36 PM",
-      "meta": "manual · Nov 14, 11:37 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 168/168 · — · ETA 11:34 PM",
-      "meta": "manual · Nov 14, 11:35 PM"
     }
   ]
 }
