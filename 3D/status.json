@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-14T20:33:07-06:00",
-  "updatedLabel": "Nov 14, 8:33 PM",
+  "updatedAt": "2026-11-14T20:49:31-06:00",
+  "updatedLabel": "Nov 14, 8:49 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "Airpods_5_case",
   "currentFile": "Airpods_5_case.3mf",
-  "progressPercent": 25,
-  "layerCurrent": 27,
+  "progressPercent": 35,
+  "layerCurrent": 41,
   "layerTotal": 168,
-  "remainingMinutes": 144,
-  "estimatedFinish": "10:55 PM",
+  "remainingMinutes": 124,
+  "estimatedFinish": "10:50 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 65,
   "bedTarget": 65,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-14T20:30:31-06:00",
-  "cameraLabel": "Sat, Nov 14, 2026 at 8:30 PM CT",
+  "cameraUpdatedAt": "2026-11-14T20:45:46-06:00",
+  "cameraLabel": "Sat, Nov 14, 2026 at 8:45 PM CT",
   "queue": [
     {
       "title": "Airpods_5_case",
@@ -63,36 +63,36 @@
   ],
   "log": [
     {
-      "sum": "Printing — Airpods_5_case.3mf · 25% · Layer 27/168 · 2h 24min left · ETA 10:55 PM",
-      "meta": "manual · Nov 14, 8:32 PM"
+      "sum": "Printing — Airpods_5_case.3mf · 35% · Layer 41/168 · 2h 4min left · ETA 10:50 PM",
+      "meta": "manual · Nov 14, 8:47 PM"
     },
     {
-      "sum": "Print started: Airpods_5_case (Airpods_5_case.3mf) at 8:18 PM CT on Nov 14 — 18% · Layer 18/168 · ETA 10:57 PM",
-      "meta": "note · Nov 14, 8:22 PM"
+      "sum": "Printing — Airpods_5_case.3mf · 33% · Layer 38/168 · 2h 8min left · ETA 10:51 PM",
+      "meta": "manual · Nov 14, 8:43 PM"
     },
     {
-      "sum": "Printing — Airpods_5_case.3mf · 18% · Layer 18/168 · 2h 36min left · ETA 10:57 PM",
-      "meta": "manual · Nov 14, 8:22 PM"
+      "sum": "Command completed — Light off · Bridge sent light_off to the printer at 8:41 PM",
+      "meta": "command · Nov 14, 8:42 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 8:06 PM",
-      "meta": "manual · Nov 14, 8:07 PM"
+      "sum": "Command completed — Light off · Bridge sent light_off to the printer at 8:41 PM",
+      "meta": "command · Nov 14, 8:42 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:51 PM",
-      "meta": "manual · Nov 14, 7:52 PM"
+      "sum": "Command relayed to bridge — Light off",
+      "meta": "command · Nov 14, 8:41 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:37 PM",
-      "meta": "manual · Nov 14, 7:37 PM"
+      "sum": "Command relayed to bridge — Light off · Relayed light_off to Mac bridge at 8:41 PM",
+      "meta": "command · Nov 14, 8:41 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:21 PM",
-      "meta": "manual · Nov 14, 7:22 PM"
+      "sum": "Command requested — Light off · Queued for relay via the Mac bridge · The bridge did not answer within 25 seconds — it may not be running, so the request stays queued.",
+      "meta": "command · Nov 14, 8:41 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:07 PM",
-      "meta": "manual · Nov 14, 7:08 PM"
+      "sum": "Printing — Airpods_5_case.3mf · 31% · Layer 36/168 · 2h 12min left · ETA 10:52 PM",
+      "meta": "manual · Nov 14, 8:41 PM"
     }
   ]
 }
