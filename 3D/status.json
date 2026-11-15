@@ -1,39 +1,47 @@
 {
-  "updatedAt": "2026-11-14T22:13:57-06:00",
-  "updatedLabel": "Nov 14, 10:13 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-14T22:29:47-06:00",
+  "updatedLabel": "Nov 14, 10:29 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "Airpods_5_case",
-  "currentFile": "Airpods_5_case.3mf",
-  "progressPercent": 93,
-  "layerCurrent": 150,
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 168,
   "layerTotal": 168,
-  "remainingMinutes": 12,
-  "estimatedFinish": "10:25 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 65,
-  "bedTarget": 65,
+  "remainingMinutes": 0,
+  "estimatedFinish": "10:27 PM",
+  "nozzleTemp": 79,
+  "nozzleTarget": 0,
+  "bedTemp": 51,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-14T22:13:04-06:00",
-  "cameraLabel": "Sat, Nov 14, 2026 at 10:13 PM CT",
+  "cameraUpdatedAt": "2026-11-14T22:27:00-06:00",
+  "cameraLabel": "Sat, Nov 14, 2026 at 10:27 PM CT",
   "queue": [
     {
       "title": "Airpods_5_case",
-      "file": "Airpods_5_case.3mf",
+      "file": "",
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 2,
+    "finished": 3,
     "filamentUsed": "—"
   },
   "history": [
+    {
+      "title": "Airpods_5_case",
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
     {
       "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
@@ -63,36 +71,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 10:27 PM",
+      "meta": "manual · Nov 14, 10:28 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 10:26 PM",
+      "meta": "manual · Nov 14, 10:27 PM"
+    },
+    {
+      "sum": "Print finished — Airpods_5_case completed at 10:22 PM CT on Nov 14, 2026 (100%, layer 168/168, no error reported by the bridge).",
+      "meta": "note · Nov 14, 10:25 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 168/168 · — · ETA 10:23 PM",
+      "meta": "manual · Nov 14, 10:24 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 99% · Layer 167/168 · — · ETA 10:21 PM",
+      "meta": "manual · Nov 14, 10:21 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 97% · Layer 162/168 · 4 min left · ETA 10:23 PM",
+      "meta": "manual · Nov 14, 10:19 PM"
+    },
+    {
       "sum": "Printing — Airpods_5_case.3mf · 93% · Layer 150/168 · 12 min left · ETA 10:25 PM",
       "meta": "manual · Nov 14, 10:13 PM"
     },
     {
       "sum": "Printing — Airpods_5_case.3mf · 91% · Layer 145/168 · 16 min left · ETA 10:26 PM",
       "meta": "manual · Nov 14, 10:11 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 90% · Layer 142/168 · 18 min left · ETA 10:27 PM",
-      "meta": "manual · Nov 14, 10:09 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 88% · Layer 138/168 · 22 min left · ETA 10:28 PM",
-      "meta": "manual · Nov 14, 10:06 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 87% · Layer 134/168 · 24 min left · ETA 10:28 PM",
-      "meta": "manual · Nov 14, 10:04 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 86% · Layer 131/168 · 26 min left · ETA 10:28 PM",
-      "meta": "manual · Nov 14, 10:03 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 84% · Layer 127/168 · 30 min left · ETA 10:30 PM",
-      "meta": "manual · Nov 14, 10:00 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 81% · Layer 119/168 · 36 min left · ETA 10:31 PM",
-      "meta": "manual · Nov 14, 9:56 PM"
     }
   ]
 }
