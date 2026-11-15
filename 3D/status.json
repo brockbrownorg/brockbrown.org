@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T01:07:03-06:00",
-  "updatedLabel": "Nov 14, 1:07 AM",
+  "updatedAt": "2026-11-14T18:37:24-06:00",
+  "updatedLabel": "Nov 14, 6:37 PM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
@@ -9,8 +9,8 @@
   "layerCurrent": 919,
   "layerTotal": 919,
   "remainingMinutes": 0,
-  "estimatedFinish": "1:07 AM",
-  "nozzleTemp": 26,
+  "estimatedFinish": "6:37 PM",
+  "nozzleTemp": 24,
   "nozzleTarget": 0,
   "bedTemp": 24,
   "bedTarget": 0,
@@ -63,36 +63,36 @@
   ],
   "log": [
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 1:07 AM",
-      "meta": "manual · Nov 14, 1:07 AM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 6:37 PM",
+      "meta": "manual · Nov 14, 6:37 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 12:52 AM",
-      "meta": "manual · Nov 14, 12:53 AM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 6:21 PM",
+      "meta": "manual · Nov 14, 6:22 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 12:36 AM",
-      "meta": "manual · Nov 14, 12:37 AM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 6:06 PM",
+      "meta": "manual · Nov 14, 6:07 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 12:22 AM",
-      "meta": "manual · Nov 14, 12:22 AM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 5:51 PM",
+      "meta": "manual · Nov 14, 5:51 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 12:06 AM",
-      "meta": "manual · Nov 14, 12:07 AM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 5:36 PM",
+      "meta": "manual · Nov 14, 5:36 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 11:51 PM",
-      "meta": "manual · Nov 13, 11:52 PM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 5:22 PM",
+      "meta": "manual · Nov 14, 5:22 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 11:36 PM",
-      "meta": "manual · Nov 13, 11:36 PM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 5:07 PM",
+      "meta": "manual · Nov 14, 5:07 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 11:22 PM",
-      "meta": "manual · Nov 13, 11:23 PM"
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 4:51 PM",
+      "meta": "manual · Nov 14, 4:51 PM"
     }
   ]
 }
