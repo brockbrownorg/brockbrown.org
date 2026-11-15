@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-14T21:40:55-06:00",
-  "updatedLabel": "Nov 14, 9:40 PM",
+  "updatedAt": "2026-11-14T21:57:24-06:00",
+  "updatedLabel": "Nov 14, 9:57 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "Airpods_5_case",
   "currentFile": "Airpods_5_case.3mf",
-  "progressPercent": 69,
-  "layerCurrent": 90,
+  "progressPercent": 81,
+  "layerCurrent": 119,
   "layerTotal": 168,
-  "remainingMinutes": 58,
-  "estimatedFinish": "10:37 PM",
+  "remainingMinutes": 36,
+  "estimatedFinish": "10:31 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 65,
   "bedTarget": 65,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-14T21:38:44-06:00",
-  "cameraLabel": "Sat, Nov 14, 2026 at 9:38 PM CT",
+  "cameraUpdatedAt": "2026-11-14T21:55:44-06:00",
+  "cameraLabel": "Sat, Nov 14, 2026 at 9:55 PM CT",
   "queue": [
     {
       "title": "Airpods_5_case",
@@ -63,36 +63,36 @@
   ],
   "log": [
     {
+      "sum": "Printing — Airpods_5_case.3mf · 81% · Layer 119/168 · 36 min left · ETA 10:31 PM",
+      "meta": "manual · Nov 14, 9:56 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 80% · Layer 117/168 · 38 min left · ETA 10:32 PM",
+      "meta": "manual · Nov 14, 9:55 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 78% · Layer 112/168 · 40 min left · ETA 10:31 PM",
+      "meta": "manual · Nov 14, 9:52 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 77% · Layer 109/168 · 44 min left · ETA 10:33 PM",
+      "meta": "manual · Nov 14, 9:50 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 75% · Layer 105/168 · 46 min left · ETA 10:33 PM",
+      "meta": "manual · Nov 14, 9:48 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 75% · Layer 104/168 · 48 min left · ETA 10:35 PM",
+      "meta": "manual · Nov 14, 9:47 PM"
+    },
+    {
+      "sum": "Printing — Airpods_5_case.3mf · 73% · Layer 100/168 · 50 min left · ETA 10:35 PM",
+      "meta": "manual · Nov 14, 9:45 PM"
+    },
+    {
       "sum": "Printing — Airpods_5_case.3mf · 69% · Layer 90/168 · 58 min left · ETA 10:37 PM",
       "meta": "manual · Nov 14, 9:39 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 68% · Layer 86/168 · 1h 0min left · ETA 10:37 PM",
-      "meta": "manual · Nov 14, 9:37 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 67% · Layer 84/168 · 1h 2min left · ETA 10:37 PM",
-      "meta": "manual · Nov 14, 9:35 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 66% · Layer 83/168 · 1h 4min left · ETA 10:38 PM",
-      "meta": "manual · Nov 14, 9:34 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 64% · Layer 81/168 · 1h 8min left · ETA 10:40 PM",
-      "meta": "manual · Nov 14, 9:32 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 63% · Layer 79/168 · 1h 10min left · ETA 10:40 PM",
-      "meta": "manual · Nov 14, 9:30 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 62% · Layer 78/168 · 1h 12min left · ETA 10:40 PM",
-      "meta": "manual · Nov 14, 9:28 PM"
-    },
-    {
-      "sum": "Printing — Airpods_5_case.3mf · 59% · Layer 73/168 · 1h 18min left · ETA 10:40 PM",
-      "meta": "manual · Nov 14, 9:23 PM"
     }
   ]
 }
