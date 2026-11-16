@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-16T12:34:06-06:00",
-  "updatedLabel": "Nov 16, 12:34 PM",
+  "updatedAt": "2026-11-16T12:51:18-06:00",
+  "updatedLabel": "Nov 16, 12:51 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "MatchBox_2Compartment+-+Version+4",
   "currentFile": "MatchBox_2Compartment+-+Version+4.3mf",
-  "progressPercent": 83,
-  "layerCurrent": 366,
+  "progressPercent": 94,
+  "layerCurrent": 421,
   "layerTotal": 444,
-  "remainingMinutes": 30,
-  "estimatedFinish": "1:02 PM",
+  "remainingMinutes": 8,
+  "estimatedFinish": "12:57 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 65,
   "bedTarget": 65,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T12:32:52-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 12:32 PM CT",
+  "cameraUpdatedAt": "2026-11-16T12:48:19-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 12:48 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -31,7 +31,7 @@
   "stats": {
     "inQueue": 1,
     "finished": 4,
-    "filamentUsed": "\u2014"
+    "filamentUsed": "—"
   },
   "history": [
     {
@@ -79,36 +79,36 @@
   ],
   "log": [
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 83% \u00b7 Layer 366/444 \u00b7 30 min left \u00b7 ETA 1:02 PM",
-      "meta": "manual \u00b7 Nov 16, 12:32 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 94% · Layer 421/444 · 8 min left · ETA 12:57 PM",
+      "meta": "manual · Nov 16, 12:49 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 82% \u00b7 Layer 362/444 \u00b7 32 min left \u00b7 ETA 1:02 PM",
-      "meta": "manual \u00b7 Nov 16, 12:31 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 93% · Layer 413/444 · 12 min left · ETA 12:58 PM",
+      "meta": "manual · Nov 16, 12:46 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 81% \u00b7 Layer 354/444 \u00b7 36 min left \u00b7 ETA 1:04 PM",
-      "meta": "manual \u00b7 Nov 16, 12:28 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 91% · Layer 406/444 · 14 min left · ETA 12:58 PM",
+      "meta": "manual · Nov 16, 12:44 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 80% \u00b7 Layer 348/444 \u00b7 38 min left \u00b7 ETA 1:04 PM",
-      "meta": "manual \u00b7 Nov 16, 12:26 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 90% · Layer 400/444 · 18 min left · ETA 1:00 PM",
+      "meta": "manual · Nov 16, 12:42 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 78% \u00b7 Layer 340/444 \u00b7 40 min left \u00b7 ETA 1:04 PM",
-      "meta": "manual \u00b7 Nov 16, 12:24 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 89% · Layer 393/444 · 20 min left · ETA 1:00 PM",
+      "meta": "manual · Nov 16, 12:40 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 76% \u00b7 Layer 332/444 \u00b7 44 min left \u00b7 ETA 1:05 PM",
-      "meta": "manual \u00b7 Nov 16, 12:22 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 87% · Layer 386/444 · 22 min left · ETA 1:00 PM",
+      "meta": "manual · Nov 16, 12:38 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 73% \u00b7 Layer 316/444 \u00b7 50 min left \u00b7 ETA 1:07 PM",
-      "meta": "manual \u00b7 Nov 16, 12:17 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 83% · Layer 366/444 · 30 min left · ETA 1:02 PM",
+      "meta": "manual · Nov 16, 12:32 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 72% \u00b7 Layer 311/444 \u00b7 52 min left \u00b7 ETA 1:07 PM",
-      "meta": "manual \u00b7 Nov 16, 12:15 PM"
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 82% · Layer 362/444 · 32 min left · ETA 1:02 PM",
+      "meta": "manual · Nov 16, 12:31 PM"
     }
   ]
 }
