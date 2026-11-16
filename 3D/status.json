@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T07:08:49-06:00",
-  "updatedLabel": "Nov 16, 7:08 AM",
+  "updatedAt": "2026-11-16T07:26:52-06:00",
+  "updatedLabel": "Nov 16, 7:26 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
@@ -9,10 +9,10 @@
   "layerCurrent": 919,
   "layerTotal": 919,
   "remainingMinutes": 0,
-  "estimatedFinish": "7:07 AM",
+  "estimatedFinish": "7:26 AM",
   "nozzleTemp": 21,
   "nozzleTarget": 0,
-  "bedTemp": 22,
+  "bedTemp": 21,
   "bedTarget": 0,
   "fanPercent": null,
   "cameraUpdatedAt": "2026-11-15T16:43:18-06:00",
@@ -79,6 +79,18 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:26 AM",
+      "meta": "manual · Nov 16, 7:26 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:15 AM",
+      "meta": "manual · Nov 16, 7:24 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:13 AM",
+      "meta": "manual · Nov 16, 7:13 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:07 AM",
       "meta": "manual · Nov 16, 7:08 AM"
     },
@@ -97,18 +109,6 @@
     {
       "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:02 AM",
       "meta": "manual · Nov 16, 7:02 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 7:01 AM",
-      "meta": "manual · Nov 16, 7:01 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 6:59 AM",
-      "meta": "manual · Nov 16, 6:59 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 919/919 · — · ETA 6:58 AM",
-      "meta": "manual · Nov 16, 6:58 AM"
     }
   ]
 }
