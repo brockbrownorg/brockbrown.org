@@ -1,1 +1,114 @@
-{"bedTarget":0,"bedTemp":24,"cameraLabel":"Sun, Nov 15, 2026 at 4:43 PM CT","cameraUpdatedAt":"2026-11-15T16:43:18-06:00","currentFile":"","estimatedFinish":"2:41 AM","fanPercent":null,"filaments":[{"colorHex":"#000000","colorName":"Black","material":"PLA","notes":"Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.","remainingPercent":null,"slot":"External Spool"}],"history":[{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 15, 11:50 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"Airpods_5_case.3mf","meta":"Finished Nov 14, 10:24 PM","notes":"","pill":"done","thumb":null,"title":"Airpods_5_case"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 13, 5:38 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"CigCase_150x23_Cigar Case 23mm x 150mm.3mf","meta":"Finished Nov 12, 11:07 PM","notes":"Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.","pill":"done","thumb":null,"title":"Cigar Case 23mm x 150mm"}],"layerCurrent":919,"layerTotal":919,"log":[{"meta":"manual · Nov 16, 2:41 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:41 AM"},{"meta":"manual · Nov 16, 2:40 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:40 AM"},{"meta":"manual · Nov 16, 2:39 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:39 AM"},{"meta":"manual · Nov 16, 2:38 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:38 AM"},{"meta":"manual · Nov 16, 2:37 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:37 AM"},{"meta":"manual · Nov 16, 2:36 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:36 AM"},{"meta":"manual · Nov 16, 2:35 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:35 AM"},{"meta":"manual · Nov 16, 2:34 AM","sum":"Finished · 100% · Layer 919/919 · — · ETA 2:34 AM"}],"nozzleTarget":0,"nozzleTemp":23,"progressPercent":100,"queue":[{"file":"","meta":"","notes":"","pill":"finished","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"}],"remainingMinutes":0,"state":"finished","stateLabel":"Finished","stats":{"filamentUsed":"—","finished":4,"inQueue":1},"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal","upNext":null,"updatedAt":"2026-11-16T02:42:10-06:00","updatedLabel":"Nov 16, 2:42 AM"}
+{
+  "updatedAt": "2026-11-16T02:58:22-06:00",
+  "updatedLabel": "Nov 16, 2:58 AM",
+  "state": "finished",
+  "stateLabel": "Finished",
+  "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 919,
+  "layerTotal": 919,
+  "remainingMinutes": 0,
+  "estimatedFinish": "2:57 AM",
+  "nozzleTemp": 23,
+  "nozzleTarget": 0,
+  "bedTemp": 24,
+  "bedTarget": 0,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-15T16:43:18-06:00",
+  "cameraLabel": "Sun, Nov 15, 2026 at 4:43 PM CT",
+  "queue": [
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "",
+      "meta": "",
+      "notes": "",
+      "thumb": null,
+      "pill": "finished"
+    }
+  ],
+  "upNext": null,
+  "stats": {
+    "inQueue": 1,
+    "finished": 4,
+    "filamentUsed": "\u2014"
+  },
+  "history": [
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Airpods_5_case",
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Cigar Case 23mm x 150mm",
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "thumb": null,
+      "pill": "done"
+    }
+  ],
+  "filaments": [
+    {
+      "slot": "External Spool",
+      "material": "PLA",
+      "colorName": "Black",
+      "colorHex": "#000000",
+      "remainingPercent": null,
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
+    }
+  ],
+  "log": [
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:57 AM",
+      "meta": "manual \u00b7 Nov 16, 2:57 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:56 AM",
+      "meta": "manual \u00b7 Nov 16, 2:56 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:54 AM",
+      "meta": "manual \u00b7 Nov 16, 2:54 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:53 AM",
+      "meta": "manual \u00b7 Nov 16, 2:53 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:52 AM",
+      "meta": "manual \u00b7 Nov 16, 2:52 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:51 AM",
+      "meta": "manual \u00b7 Nov 16, 2:51 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:50 AM",
+      "meta": "manual \u00b7 Nov 16, 2:50 AM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 919/919 \u00b7 \u2014 \u00b7 ETA 2:48 AM",
+      "meta": "manual \u00b7 Nov 16, 2:49 AM"
+    }
+  ]
+}
