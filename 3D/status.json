@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T13:06:52-06:00",
-  "updatedLabel": "Nov 16, 1:06 PM",
+  "updatedAt": "2026-11-16T13:23:43-06:00",
+  "updatedLabel": "Nov 16, 1:23 PM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "MatchBox_2Compartment+-+Version+4",
@@ -9,14 +9,14 @@
   "layerCurrent": 444,
   "layerTotal": 444,
   "remainingMinutes": 0,
-  "estimatedFinish": "1:04 PM",
-  "nozzleTemp": 54,
+  "estimatedFinish": "1:21 PM",
+  "nozzleTemp": 30,
   "nozzleTarget": 0,
-  "bedTemp": 45,
+  "bedTemp": 34,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T13:04:14-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 1:04 PM CT",
+  "cameraUpdatedAt": "2026-11-16T13:21:12-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 1:21 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -87,6 +87,26 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:21 PM",
+      "meta": "manual · Nov 16, 1:21 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:19 PM",
+      "meta": "manual · Nov 16, 1:19 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:17 PM",
+      "meta": "manual · Nov 16, 1:17 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:14 PM",
+      "meta": "manual · Nov 16, 1:15 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:11 PM",
+      "meta": "manual · Nov 16, 1:11 PM"
+    },
+    {
       "sum": "Finished · 100% · Layer 444/444 · — · ETA 1:04 PM",
       "meta": "manual · Nov 16, 1:04 PM"
     },
@@ -97,26 +117,6 @@
     {
       "sum": "Finished — MatchBox_2Compartment+-+Version+4.3mf · 100% · Layer 444/444 · — · ETA 1:00 PM",
       "meta": "manual · Nov 16, 1:00 PM"
-    },
-    {
-      "sum": "Print finished: MatchBox_2Compartment+-+Version+4 at 12:56 PM CT on Nov 16, 2026 (bridge prints.jsonl finished event, 100%, layer 444/444, print_error 0).",
-      "meta": "note · Nov 16, 12:57 PM"
-    },
-    {
-      "sum": "Finished — MatchBox_2Compartment+-+Version+4.3mf · 100% · Layer 444/444 · — · ETA 12:56 PM",
-      "meta": "manual · Nov 16, 12:57 PM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 98% · Layer 441/444 · — · ETA 12:54 PM",
-      "meta": "manual · Nov 16, 12:55 PM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 94% · Layer 421/444 · 8 min left · ETA 12:57 PM",
-      "meta": "manual · Nov 16, 12:49 PM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 93% · Layer 413/444 · 12 min left · ETA 12:58 PM",
-      "meta": "manual · Nov 16, 12:46 PM"
     }
   ]
 }
