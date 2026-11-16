@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-16T15:21:01-06:00",
-  "updatedLabel": "Nov 16, 3:21 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-16T15:36:33-06:00",
+  "updatedLabel": "Nov 16, 3:36 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "SPINRING",
   "currentFile": "SPINRING.3mf",
-  "progressPercent": 97,
-  "layerCurrent": 40,
+  "progressPercent": 100,
+  "layerCurrent": 41,
   "layerTotal": 41,
   "remainingMinutes": 0,
-  "estimatedFinish": "3:18 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 65,
-  "bedTarget": 65,
+  "estimatedFinish": "3:36 PM",
+  "nozzleTemp": 36,
+  "nozzleTarget": 0,
+  "bedTemp": 37,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T15:18:42-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 3:18 PM CT",
+  "cameraUpdatedAt": "2026-11-16T15:32:55-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 3:32 PM CT",
   "queue": [
     {
       "title": "SPINRING",
@@ -24,16 +24,24 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 7,
+    "finished": 8,
     "filamentUsed": "—"
   },
   "history": [
+    {
+      "title": "SPINRING",
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
     {
       "title": "Ring_Size 11",
       "file": "Ring_Size 11.3mf",
@@ -103,36 +111,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:35 PM",
+      "meta": "manual · Nov 16, 3:35 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:33 PM",
+      "meta": "manual · Nov 16, 3:33 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:31 PM",
+      "meta": "manual · Nov 16, 3:31 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:29 PM",
+      "meta": "manual · Nov 16, 3:29 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:26 PM",
+      "meta": "manual · Nov 16, 3:27 PM"
+    },
+    {
+      "sum": "Print finished: SPINRING at 3:19 PM CT on Nov 16, 2026 (bridge prints.jsonl finished event, 100%, layer 41/41, print_error 0).",
+      "meta": "note · Nov 16, 3:24 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 41/41 · — · ETA 3:24 PM",
+      "meta": "manual · Nov 16, 3:24 PM"
+    },
+    {
       "sum": "Printing — SPINRING.3mf · 97% · Layer 40/41 · — · ETA 3:18 PM",
       "meta": "manual · Nov 16, 3:19 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 90% · Layer 33/41 · 2 min left · ETA 3:19 PM",
-      "meta": "manual · Nov 16, 3:17 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 84% · Layer 28/41 · 4 min left · ETA 3:19 PM",
-      "meta": "manual · Nov 16, 3:15 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 78% · Layer 24/41 · 8 min left · ETA 3:21 PM",
-      "meta": "manual · Nov 16, 3:13 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 70% · Layer 20/41 · 10 min left · ETA 3:20 PM",
-      "meta": "manual · Nov 16, 3:11 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 64% · Layer 17/41 · 12 min left · ETA 3:20 PM",
-      "meta": "manual · Nov 16, 3:09 PM"
-    },
-    {
-      "sum": "Printing — SPINRING.3mf · 43% · Layer 5/41 · 20 min left · ETA 3:21 PM",
-      "meta": "manual · Nov 16, 3:02 PM"
-    },
-    {
-      "sum": "Print started: SPINRING at 2:56 PM CT on Nov 16, 2026 (bridge prints.jsonl started event, restart after 2:54 PM failure, 0%, layer 0/41, print_error 0).",
-      "meta": "note · Nov 16, 2:59 PM"
     }
   ]
 }
