@@ -1,1 +1,146 @@
-{"bedTarget": 0, "bedTemp": 24, "cameraLabel": "Mon, Nov 16, 2026 at 5:32 PM CT", "cameraUpdatedAt": "2026-11-16T17:32:17-06:00", "currentFile": "SPINRING.3mf", "estimatedFinish": "5:36 PM", "fanPercent": null, "filaments": [{"colorHex": "#000000", "colorName": "Black", "material": "PLA", "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.", "remainingPercent": null, "slot": "External Spool"}], "history": [{"file": "SPINRING.3mf", "meta": "Finished Nov 16, 3:24 PM", "notes": "", "pill": "done", "thumb": null, "title": "SPINRING"}, {"file": "Ring_Size 11.3mf", "meta": "Finished Nov 16, 2:44 PM", "notes": "", "pill": "done", "thumb": null, "title": "Ring_Size 11"}, {"file": "Fidget-Ring_21,3mm Innendurchmesser.3mf", "meta": "Finished Nov 16, 2:11 PM", "notes": "", "pill": "done", "thumb": null, "title": "Fidget-Ring_21,3mm Innendurchmesser"}, {"file": "MatchBox_2Compartment+-+Version+4.3mf", "meta": "Finished Nov 16, 12:57 PM", "notes": "", "pill": "done", "thumb": null, "title": "MatchBox_2Compartment+-+Version+4"}, {"file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf", "meta": "Finished Nov 15, 11:50 PM", "notes": "", "pill": "done", "thumb": null, "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"}, {"file": "Airpods_5_case.3mf", "meta": "Finished Nov 14, 10:24 PM", "notes": "", "pill": "done", "thumb": null, "title": "Airpods_5_case"}, {"file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf", "meta": "Finished Nov 13, 5:38 PM", "notes": "", "pill": "done", "thumb": null, "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"}, {"file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf", "meta": "Finished Nov 12, 11:07 PM", "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.", "pill": "done", "thumb": null, "title": "Cigar Case 23mm x 150mm"}], "layerCurrent": 41, "layerTotal": 41, "log": [{"meta": "manual · Nov 16, 5:34 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:34 PM"}, {"meta": "manual · Nov 16, 5:30 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:30 PM"}, {"meta": "manual · Nov 16, 5:27 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:26 PM"}, {"meta": "manual · Nov 16, 5:23 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:23 PM"}, {"meta": "manual · Nov 16, 5:17 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:17 PM"}, {"meta": "manual · Nov 16, 5:16 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:15 PM"}, {"meta": "manual · Nov 16, 5:13 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:12 PM"}, {"meta": "manual · Nov 16, 5:11 PM", "sum": "Finished · 100% · Layer 41/41 · — · ETA 5:11 PM"}], "nozzleTarget": 0, "nozzleTemp": 23, "progressPercent": 100, "queue": [{"file": "SPINRING.3mf", "meta": "", "notes": "", "pill": "finished", "thumb": null, "title": "SPINRING"}], "remainingMinutes": 0, "state": "finished", "stateLabel": "Finished", "stats": {"filamentUsed": "—", "finished": 8, "inQueue": 1}, "title": "SPINRING", "upNext": null, "updatedAt": "2026-11-16T17:36:20-06:00", "updatedLabel": "Nov 16, 5:36 PM"}
+{
+  "updatedAt": "2026-11-16T17:52:49-06:00",
+  "updatedLabel": "Nov 16, 5:52 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
+  "title": "SPINRING",
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 41,
+  "layerTotal": 41,
+  "remainingMinutes": 0,
+  "estimatedFinish": "5:50 PM",
+  "nozzleTemp": 22,
+  "nozzleTarget": 0,
+  "bedTemp": 23,
+  "bedTarget": 0,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-16T17:49:43-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 5:49 PM CT",
+  "queue": [
+    {
+      "title": "SPINRING",
+      "file": "",
+      "meta": "",
+      "notes": "",
+      "thumb": null,
+      "pill": "finished"
+    }
+  ],
+  "upNext": null,
+  "stats": {
+    "inQueue": 1,
+    "finished": 8,
+    "filamentUsed": "\u2014"
+  },
+  "history": [
+    {
+      "title": "SPINRING",
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Ring_Size 11",
+      "file": "Ring_Size 11.3mf",
+      "meta": "Finished Nov 16, 2:44 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Fidget-Ring_21,3mm Innendurchmesser",
+      "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
+      "meta": "Finished Nov 16, 2:11 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "MatchBox_2Compartment+-+Version+4",
+      "file": "MatchBox_2Compartment+-+Version+4.3mf",
+      "meta": "Finished Nov 16, 12:57 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Airpods_5_case",
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Cigar Case 23mm x 150mm",
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "thumb": null,
+      "pill": "done"
+    }
+  ],
+  "filaments": [
+    {
+      "slot": "External Spool",
+      "material": "PLA",
+      "colorName": "Black",
+      "colorHex": "#000000",
+      "remainingPercent": null,
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
+    }
+  ],
+  "log": [
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:50 PM",
+      "meta": "manual \u00b7 Nov 16, 5:50 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:47 PM",
+      "meta": "manual \u00b7 Nov 16, 5:48 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:45 PM",
+      "meta": "manual \u00b7 Nov 16, 5:45 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:43 PM",
+      "meta": "manual \u00b7 Nov 16, 5:44 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:41 PM",
+      "meta": "manual \u00b7 Nov 16, 5:41 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:34 PM",
+      "meta": "manual \u00b7 Nov 16, 5:34 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:30 PM",
+      "meta": "manual \u00b7 Nov 16, 5:30 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 41/41 \u00b7 \u2014 \u00b7 ETA 5:26 PM",
+      "meta": "manual \u00b7 Nov 16, 5:27 PM"
+    }
+  ]
+}
