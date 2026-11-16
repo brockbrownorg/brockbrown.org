@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-16T11:27:58-06:00",
-  "updatedLabel": "Nov 16, 11:27 AM",
+  "updatedAt": "2026-11-16T11:45:13-06:00",
+  "updatedLabel": "Nov 16, 11:45 AM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "MatchBox_2Compartment+-+Version+4",
   "currentFile": "MatchBox_2Compartment+-+Version+4.3mf",
-  "progressPercent": 38,
-  "layerCurrent": 149,
+  "progressPercent": 50,
+  "layerCurrent": 202,
   "layerTotal": 444,
-  "remainingMinutes": 118,
-  "estimatedFinish": "1:24 PM",
+  "remainingMinutes": 94,
+  "estimatedFinish": "1:16 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 65,
   "bedTarget": 65,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T11:26:01-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 11:26 AM CT",
+  "cameraUpdatedAt": "2026-11-16T11:43:50-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 11:43 AM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -79,36 +79,36 @@
   ],
   "log": [
     {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 50% · Layer 202/444 · 1h 34min left · ETA 1:16 PM",
+      "meta": "manual · Nov 16, 11:43 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 49% · Layer 194/444 · 1h 38min left · ETA 1:18 PM",
+      "meta": "manual · Nov 16, 11:40 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 47% · Layer 185/444 · 1h 40min left · ETA 1:17 PM",
+      "meta": "manual · Nov 16, 11:38 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 46% · Layer 180/444 · 1h 42min left · ETA 1:18 PM",
+      "meta": "manual · Nov 16, 11:37 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 45% · Layer 176/444 · 1h 44min left · ETA 1:19 PM",
+      "meta": "manual · Nov 16, 11:35 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 44% · Layer 172/444 · 1h 46min left · ETA 1:19 PM",
+      "meta": "manual · Nov 16, 11:33 AM"
+    },
+    {
+      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 43% · Layer 168/444 · 1h 48min left · ETA 1:20 PM",
+      "meta": "manual · Nov 16, 11:32 AM"
+    },
+    {
       "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 38% · Layer 149/444 · 1h 58min left · ETA 1:24 PM",
       "meta": "manual · Nov 16, 11:26 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 36% · Layer 142/444 · 2h 2min left · ETA 1:25 PM",
-      "meta": "manual · Nov 16, 11:24 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 35% · Layer 138/444 · 2h 4min left · ETA 1:26 PM",
-      "meta": "manual · Nov 16, 11:22 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 34% · Layer 130/444 · 2h 6min left · ETA 1:26 PM",
-      "meta": "manual · Nov 16, 11:20 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 32% · Layer 121/444 · 2h 10min left · ETA 1:27 PM",
-      "meta": "manual · Nov 16, 11:17 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 27% · Layer 99/444 · 2h 18min left · ETA 1:29 PM",
-      "meta": "manual · Nov 16, 11:11 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 26% · Layer 90/444 · 2h 22min left · ETA 1:30 PM",
-      "meta": "manual · Nov 16, 11:09 AM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 24% · Layer 83/444 · 2h 24min left · ETA 1:30 PM",
-      "meta": "manual · Nov 16, 11:07 AM"
     }
   ]
 }
