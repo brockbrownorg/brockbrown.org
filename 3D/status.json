@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-16T11:45:13-06:00",
-  "updatedLabel": "Nov 16, 11:45 AM",
+  "updatedAt": "2026-11-16T12:01:43-06:00",
+  "updatedLabel": "Nov 16, 12:01 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "MatchBox_2Compartment+-+Version+4",
   "currentFile": "MatchBox_2Compartment+-+Version+4.3mf",
-  "progressPercent": 50,
-  "layerCurrent": 202,
+  "progressPercent": 61,
+  "layerCurrent": 254,
   "layerTotal": 444,
-  "remainingMinutes": 94,
-  "estimatedFinish": "1:16 PM",
+  "remainingMinutes": 74,
+  "estimatedFinish": "1:12 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 65,
   "bedTarget": 65,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T11:43:50-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 11:43 AM CT",
+  "cameraUpdatedAt": "2026-11-16T11:53:52-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 11:53 AM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -31,7 +31,7 @@
   "stats": {
     "inQueue": 1,
     "finished": 4,
-    "filamentUsed": "—"
+    "filamentUsed": "\u2014"
   },
   "history": [
     {
@@ -79,36 +79,36 @@
   ],
   "log": [
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 50% · Layer 202/444 · 1h 34min left · ETA 1:16 PM",
-      "meta": "manual · Nov 16, 11:43 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 61% \u00b7 Layer 254/444 \u00b7 1h 14min left \u00b7 ETA 1:12 PM",
+      "meta": "manual \u00b7 Nov 16, 11:59 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 49% · Layer 194/444 · 1h 38min left · ETA 1:18 PM",
-      "meta": "manual · Nov 16, 11:40 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 58% \u00b7 Layer 240/444 \u00b7 1h 20min left \u00b7 ETA 1:13 PM",
+      "meta": "manual \u00b7 Nov 16, 11:55 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 47% · Layer 185/444 · 1h 40min left · ETA 1:17 PM",
-      "meta": "manual · Nov 16, 11:38 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 56% \u00b7 Layer 229/444 \u00b7 1h 24min left \u00b7 ETA 1:14 PM",
+      "meta": "manual \u00b7 Nov 16, 11:51 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 46% · Layer 180/444 · 1h 42min left · ETA 1:18 PM",
-      "meta": "manual · Nov 16, 11:37 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 50% \u00b7 Layer 202/444 \u00b7 1h 34min left \u00b7 ETA 1:16 PM",
+      "meta": "manual \u00b7 Nov 16, 11:43 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 45% · Layer 176/444 · 1h 44min left · ETA 1:19 PM",
-      "meta": "manual · Nov 16, 11:35 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 49% \u00b7 Layer 194/444 \u00b7 1h 38min left \u00b7 ETA 1:18 PM",
+      "meta": "manual \u00b7 Nov 16, 11:40 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 44% · Layer 172/444 · 1h 46min left · ETA 1:19 PM",
-      "meta": "manual · Nov 16, 11:33 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 47% \u00b7 Layer 185/444 \u00b7 1h 40min left \u00b7 ETA 1:17 PM",
+      "meta": "manual \u00b7 Nov 16, 11:38 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 43% · Layer 168/444 · 1h 48min left · ETA 1:20 PM",
-      "meta": "manual · Nov 16, 11:32 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 46% \u00b7 Layer 180/444 \u00b7 1h 42min left \u00b7 ETA 1:18 PM",
+      "meta": "manual \u00b7 Nov 16, 11:37 AM"
     },
     {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 38% · Layer 149/444 · 1h 58min left · ETA 1:24 PM",
-      "meta": "manual · Nov 16, 11:26 AM"
+      "sum": "Printing \u2014 MatchBox_2Compartment+-+Version+4.3mf \u00b7 45% \u00b7 Layer 176/444 \u00b7 1h 44min left \u00b7 ETA 1:19 PM",
+      "meta": "manual \u00b7 Nov 16, 11:35 AM"
     }
   ]
 }
