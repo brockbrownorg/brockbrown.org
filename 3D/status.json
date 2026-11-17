@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T18:45:08-06:00",
-  "updatedLabel": "Nov 16, 6:45 PM",
+  "updatedAt": "2026-11-16T19:02:23-06:00",
+  "updatedLabel": "Nov 16, 7:02 PM",
   "state": "error",
   "stateLabel": "Error",
   "title": "MatchBox_2Compartment+-+Version+4",
@@ -9,14 +9,14 @@
   "layerCurrent": 10,
   "layerTotal": 140,
   "remainingMinutes": 52,
-  "estimatedFinish": "7:35 PM",
-  "nozzleTemp": 207,
+  "estimatedFinish": "7:52 PM",
+  "nozzleTemp": 35,
   "nozzleTarget": 0,
-  "bedTemp": 35,
+  "bedTemp": 28,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-16T18:41:55-06:00",
-  "cameraLabel": "Mon, Nov 16, 2026 at 6:41 PM CT",
+  "cameraUpdatedAt": "2026-11-16T18:58:08-06:00",
+  "cameraLabel": "Mon, Nov 16, 2026 at 6:58 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -111,36 +111,36 @@
   ],
   "log": [
     {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:52 PM",
+      "meta": "manual · Nov 16, 7:01 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:50 PM",
+      "meta": "manual · Nov 16, 6:59 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:48 PM",
+      "meta": "manual · Nov 16, 6:57 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:46 PM",
+      "meta": "manual · Nov 16, 6:54 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:44 PM",
+      "meta": "manual · Nov 16, 6:52 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:43 PM",
+      "meta": "manual · Nov 16, 6:51 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:40 PM",
+      "meta": "manual · Nov 16, 6:49 PM"
+    },
+    {
       "sum": "Print failed: MatchBox_2Compartment+-+Version+4 failed at 6:43 PM CT on Nov 16, 2026 (prints.jsonl paused event 6:43:27 PM then failed event 6:43:30 PM, print_error 50348044, bridge gcode_state FAILED). It was at 23%, layer 10 of 140, 52 min left when it paused, then failed.",
       "meta": "note · Nov 16, 6:44 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 7:35 PM",
-      "meta": "manual · Nov 16, 6:44 PM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 19% · Layer 2/140 · 54 min left · ETA 7:35 PM",
-      "meta": "manual · Nov 16, 6:41 PM"
-    },
-    {
-      "sum": "Print started: MatchBox_2Compartment+-+Version+4 started at 6:37 PM CT on Nov 16, 2026 (prints.jsonl started event 6:37:13 PM), now printing at 17%, layer 0 of 140, 28 min left, ETA 7:06 PM.",
-      "meta": "note · Nov 16, 6:39 PM"
-    },
-    {
-      "sum": "Printing — MatchBox_2Compartment+-+Version+4.3mf · 17% · Layer 0/140 · 28 min left · ETA 7:06 PM",
-      "meta": "manual · Nov 16, 6:39 PM"
-    },
-    {
-      "sum": "Print failed: MatchBox_2Compartment+-+Version+4 failed at 6:35 PM CT on Nov 16, 2026 (prints.jsonl failed event 6:35:47 PM, print_error 50348044, bridge gcode_state FAILED with HMS code 131075 present). Started 6:34 PM, paused 6:35 PM, then failed at 0%, layer 0 of 141.",
-      "meta": "note · Nov 16, 6:37 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 0/141 · 24 min left · ETA 7:00 PM",
-      "meta": "manual · Nov 16, 6:36 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 41/41 · — · ETA 6:34 PM",
-      "meta": "manual · Nov 16, 6:34 PM"
     }
   ]
 }
