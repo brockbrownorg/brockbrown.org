@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T05:23:58.645888-06:00",
-  "updatedLabel": "Nov 17, 5:23 AM",
+  "updatedAt": "2026-11-17T05:40:03.228423-06:00",
+  "updatedLabel": "Nov 17, 5:40 AM",
   "state": "error",
   "stateLabel": "Error",
   "title": "MatchBox_2Compartment+-+Version+4",
@@ -9,14 +9,14 @@
   "layerCurrent": 10,
   "layerTotal": 140,
   "remainingMinutes": 52,
-  "estimatedFinish": "6:14 AM",
+  "estimatedFinish": "6:30 AM",
   "nozzleTemp": 24,
   "nozzleTarget": 0,
   "bedTemp": 24,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-17T05:22:32-06:00",
-  "cameraLabel": "Tue, Nov 17, 2026 at 5:22 AM CT",
+  "cameraUpdatedAt": "2026-11-17T05:38:20-06:00",
+  "cameraLabel": "Tue, Nov 17, 2026 at 5:38 AM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment+-+Version+4",
@@ -111,36 +111,36 @@
   ],
   "log": [
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:14 AM",
-      "meta": "manual · Nov 17, 5:22 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:30 AM",
+      "meta": "manual · Nov 17, 5:39 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:14 AM",
-      "meta": "manual · Nov 17, 5:22 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:28 AM",
+      "meta": "manual · Nov 17, 5:37 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:12 AM",
-      "meta": "manual · Nov 17, 5:20 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:27 AM",
+      "meta": "manual · Nov 17, 5:35 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:11 AM",
-      "meta": "manual · Nov 17, 5:19 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:25 AM",
+      "meta": "manual · Nov 17, 5:33 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:09 AM",
-      "meta": "manual · Nov 17, 5:17 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:24 AM",
+      "meta": "manual · Nov 17, 5:33 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:08 AM",
-      "meta": "manual · Nov 17, 5:17 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:24 AM",
+      "meta": "manual · Nov 17, 5:32 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:07 AM",
-      "meta": "manual · Nov 17, 5:15 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:22 AM",
+      "meta": "manual · Nov 17, 5:30 AM"
     },
     {
-      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:06 AM",
-      "meta": "manual · Nov 17, 5:14 AM"
+      "sum": "Error · 0% · Layer 10/140 · 52 min left · ETA 6:20 AM",
+      "meta": "manual · Nov 17, 5:29 AM"
     }
   ]
 }
