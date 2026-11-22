@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T02:48:53.109409-06:00",
-  "updatedLabel": "Nov 22, 2:48 AM",
+  "updatedAt": "2026-11-22T03:06:40.702729-06:00",
+  "updatedLabel": "Nov 22, 3:06 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
@@ -9,14 +9,14 @@
   "layerCurrent": 150,
   "layerTotal": 150,
   "remainingMinutes": 0,
-  "estimatedFinish": "2:46 AM",
+  "estimatedFinish": "3:04 AM",
   "nozzleTemp": 27,
   "nozzleTarget": 0,
   "bedTemp": 27,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-22T02:46:18-06:00",
-  "cameraLabel": "Sun, Nov 22, 2026 at 2:46 AM CT",
+  "cameraUpdatedAt": "2026-11-22T03:03:27-06:00",
+  "cameraLabel": "Sun, Nov 22, 2026 at 3:03 AM CT",
   "queue": [
     {
       "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
@@ -35,76 +35,76 @@
   },
   "history": [
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
       "meta": "Finished Nov 22, 1:16 AM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+      "pill": "done"
     },
     {
+      "title": "SPINRING",
       "file": "SPINRING.3mf",
       "meta": "Finished Nov 16, 3:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "SPINRING"
+      "pill": "done"
     },
     {
+      "title": "Ring_Size 11",
       "file": "Ring_Size 11.3mf",
       "meta": "Finished Nov 16, 2:44 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Ring_Size 11"
+      "pill": "done"
     },
     {
+      "title": "Fidget-Ring_21,3mm Innendurchmesser",
       "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
       "meta": "Finished Nov 16, 2:11 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+      "pill": "done"
     },
     {
+      "title": "MatchBox_2Compartment+-+Version+4",
       "file": "MatchBox_2Compartment+-+Version+4.3mf",
       "meta": "Finished Nov 16, 12:57 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "MatchBox_2Compartment+-+Version+4"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 15, 11:50 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Airpods_5_case",
       "file": "Airpods_5_case.3mf",
       "meta": "Finished Nov 14, 10:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Airpods_5_case"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 13, 5:38 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Cigar Case 23mm x 150mm",
       "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
       "meta": "Finished Nov 12, 11:07 PM",
       "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-      "pill": "done",
       "thumb": null,
-      "title": "Cigar Case 23mm x 150mm"
+      "pill": "done"
     }
   ],
   "filaments": [
@@ -119,36 +119,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 3:04 AM",
+      "meta": "manual · Nov 22, 3:04 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 3:02 AM",
+      "meta": "manual · Nov 22, 3:02 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 3:01 AM",
+      "meta": "manual · Nov 22, 3:01 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:58 AM",
+      "meta": "manual · Nov 22, 2:59 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:56 AM",
+      "meta": "manual · Nov 22, 2:57 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:54 AM",
+      "meta": "manual · Nov 22, 2:55 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:52 AM",
+      "meta": "manual · Nov 22, 2:52 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:46 AM",
       "meta": "manual · Nov 22, 2:47 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:44 AM",
-      "meta": "manual · Nov 22, 2:44 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:41 AM",
-      "meta": "manual · Nov 22, 2:42 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:39 AM",
-      "meta": "manual · Nov 22, 2:39 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:38 AM",
-      "meta": "manual · Nov 22, 2:38 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:35 AM",
-      "meta": "manual · Nov 22, 2:35 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:29 AM",
-      "meta": "manual · Nov 22, 2:29 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:27 AM",
-      "meta": "manual · Nov 22, 2:28 AM"
     }
   ]
 }
