@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T01:58:10-06:00",
-  "updatedLabel": "Nov 22, 1:58 AM",
+  "updatedAt": "2026-11-22T02:14:05-06:00",
+  "updatedLabel": "Nov 22, 2:14 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
@@ -9,14 +9,14 @@
   "layerCurrent": 150,
   "layerTotal": 150,
   "remainingMinutes": 0,
-  "estimatedFinish": "1:56 AM",
-  "nozzleTemp": 30,
+  "estimatedFinish": "2:12 AM",
+  "nozzleTemp": 29,
   "nozzleTarget": 0,
-  "bedTemp": 32,
+  "bedTemp": 29,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-22T01:55:13-06:00",
-  "cameraLabel": "Sun, Nov 22, 2026 at 1:55 AM CT",
+  "cameraUpdatedAt": "2026-11-22T02:11:54-06:00",
+  "cameraLabel": "Sun, Nov 22, 2026 at 2:11 AM CT",
   "queue": [
     {
       "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
@@ -119,36 +119,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:12 AM",
+      "meta": "manual · Nov 22, 2:12 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:10 AM",
+      "meta": "manual · Nov 22, 2:10 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:08 AM",
+      "meta": "manual · Nov 22, 2:08 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:05 AM",
+      "meta": "manual · Nov 22, 2:06 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:03 AM",
+      "meta": "manual · Nov 22, 2:04 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 150/150 · — · ETA 2:01 AM",
+      "meta": "manual · Nov 22, 2:02 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:56 AM",
       "meta": "manual · Nov 22, 1:56 AM"
     },
     {
       "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:53 AM",
       "meta": "manual · Nov 22, 1:53 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:51 AM",
-      "meta": "manual · Nov 22, 1:52 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:49 AM",
-      "meta": "manual · Nov 22, 1:49 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:47 AM",
-      "meta": "manual · Nov 22, 1:47 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:44 AM",
-      "meta": "manual · Nov 22, 1:45 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:39 AM",
-      "meta": "manual · Nov 22, 1:39 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 150/150 · — · ETA 1:38 AM",
-      "meta": "manual · Nov 22, 1:38 AM"
     }
   ]
 }
