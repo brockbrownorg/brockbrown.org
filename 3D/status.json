@@ -1,21 +1,38 @@
 {
- "bedTarget": 75,
- "bedTemp": 75,
- "cameraLabel": "Mon, Nov 23, 2026 at 2:26 PM CT",
- "cameraUpdatedAt": "2026-11-23T14:26:12-06:00",
+ "updatedAt": "2026-11-23T14:46:55-06:00",
+ "updatedLabel": "Nov 23, 2:46 PM",
+ "state": "printing",
+ "stateLabel": "Printing",
+ "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
  "currentFile": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
- "estimatedFinish": "3:22 PM",
+ "progressPercent": 93,
+ "layerCurrent": 22,
+ "layerTotal": 51,
+ "remainingMinutes": 30,
+ "estimatedFinish": "3:15 PM",
+ "nozzleTemp": 225,
+ "nozzleTarget": 225,
+ "bedTemp": 75,
+ "bedTarget": 75,
  "fanPercent": null,
- "filaments": [
+ "cameraUpdatedAt": "2026-11-23T14:44:29-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 2:44 PM CT",
+ "queue": [
   {
-   "colorHex": "#000000",
-   "colorName": "Black",
-   "material": "PLA",
-   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
-   "remainingPercent": null,
-   "slot": "External Spool"
+   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
+   "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
+   "meta": "",
+   "notes": "",
+   "thumb": null,
+   "pill": "printing"
   }
  ],
+ "upNext": null,
+ "stats": {
+  "inQueue": 1,
+  "finished": 10,
+  "filamentUsed": "—"
+ },
  "history": [
   {
    "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
@@ -98,65 +115,48 @@
    "title": "Cigar Case 23mm x 150mm"
   }
  ],
- "layerCurrent": 12,
- "layerTotal": 51,
+ "filaments": [
+  {
+   "colorHex": "#000000",
+   "colorName": "Black",
+   "material": "PLA",
+   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+   "remainingPercent": null,
+   "slot": "External Spool"
+  }
+ ],
  "log": [
   {
-   "meta": "manual \u00b7 Nov 23, 2:29 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 88% \u00b7 Layer 12/51 \u00b7 54 min left \u00b7 ETA 3:22 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 93% · Layer 22/51 · 30 min left · ETA 3:15 PM",
+   "meta": "manual · Nov 23, 2:45 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:27 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 87% \u00b7 Layer 10/51 \u00b7 56 min left \u00b7 ETA 3:22 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 92% · Layer 21/51 · 32 min left · ETA 3:15 PM",
+   "meta": "manual · Nov 23, 2:44 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:24 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 86% \u00b7 Layer 10/51 \u00b7 1h 0min left \u00b7 ETA 3:24 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 92% · Layer 20/51 · 36 min left · ETA 3:17 PM",
+   "meta": "manual · Nov 23, 2:42 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:22 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 86% \u00b7 Layer 10/51 \u00b7 1h 4min left \u00b7 ETA 3:26 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 91% · Layer 19/51 · 38 min left · ETA 3:17 PM",
+   "meta": "manual · Nov 23, 2:40 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:20 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 85% \u00b7 Layer 10/51 \u00b7 1h 6min left \u00b7 ETA 3:26 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 91% · Layer 17/51 · 40 min left · ETA 3:17 PM",
+   "meta": "manual · Nov 23, 2:38 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:18 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 85% \u00b7 Layer 10/51 \u00b7 1h 8min left \u00b7 ETA 3:26 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 90% · Layer 16/51 · 44 min left · ETA 3:19 PM",
+   "meta": "manual · Nov 23, 2:35 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:16 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 84% \u00b7 Layer 10/51 \u00b7 1h 12min left \u00b7 ETA 3:27 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 89% · Layer 15/51 · 48 min left · ETA 3:21 PM",
+   "meta": "manual · Nov 23, 2:33 PM"
   },
   {
-   "meta": "manual \u00b7 Nov 23, 2:10 PM",
-   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf \u00b7 82% \u00b7 Layer 10/51 \u00b7 1h 20min left \u00b7 ETA 3:30 PM"
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 88% · Layer 12/51 · 54 min left · ETA 3:22 PM",
+   "meta": "manual · Nov 23, 2:29 PM"
   }
- ],
- "nozzleTarget": 225,
- "nozzleTemp": 225,
- "progressPercent": 88,
- "queue": [
-  {
-   "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
-   "meta": "",
-   "notes": "",
-   "pill": "printing",
-   "thumb": null,
-   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
-  }
- ],
- "remainingMinutes": 54,
- "state": "printing",
- "stateLabel": "Printing",
- "stats": {
-  "filamentUsed": "\u2014",
-  "finished": 10,
-  "inQueue": 1
- },
- "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
- "upNext": null,
- "updatedAt": "2026-11-23T14:30:13-06:00",
- "updatedLabel": "Nov 23, 2:30 PM"
+ ]
 }
