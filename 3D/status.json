@@ -1,21 +1,29 @@
 {
- "bedTarget": 0,
- "bedTemp": 22,
- "cameraLabel": "Mon, Nov 23, 2026 at 4:53 AM CT",
- "cameraUpdatedAt": "2026-11-23T04:53:43-06:00",
+ "updatedAt": "2026-11-23T05:10:41-06:00",
+ "updatedLabel": "Nov 23, 5:10 AM",
+ "state": "finished",
+ "stateLabel": "Finished",
+ "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
  "currentFile": "",
- "estimatedFinish": "4:54 AM",
+ "progressPercent": 100,
+ "layerCurrent": 140,
+ "layerTotal": 140,
+ "remainingMinutes": 0,
+ "estimatedFinish": "5:10 AM",
+ "nozzleTemp": 21,
+ "nozzleTarget": 0,
+ "bedTemp": 22,
+ "bedTarget": 0,
  "fanPercent": null,
- "filaments": [
-  {
-   "colorHex": "#000000",
-   "colorName": "Black",
-   "material": "PLA",
-   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
-   "remainingPercent": null,
-   "slot": "External Spool"
-  }
- ],
+ "cameraUpdatedAt": "2026-11-23T05:08:41-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 5:08 AM CT",
+ "queue": [],
+ "upNext": null,
+ "stats": {
+  "inQueue": 0,
+  "finished": 10,
+  "filamentUsed": "\u2014"
+ },
  "history": [
   {
    "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
@@ -98,56 +106,48 @@
    "title": "Cigar Case 23mm x 150mm"
   }
  ],
- "layerCurrent": 140,
- "layerTotal": 140,
- "log": [
+ "filaments": [
   {
-   "meta": "manual · Nov 23, 4:54 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:54 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:51 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:51 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:50 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:50 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:48 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:48 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:46 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:46 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:45 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:45 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:44 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:44 AM"
-  },
-  {
-   "meta": "manual · Nov 23, 4:42 AM",
-   "sum": "Finished · 100% · Layer 140/140 · — · ETA 4:42 AM"
+   "colorHex": "#000000",
+   "colorName": "Black",
+   "material": "PLA",
+   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+   "remainingPercent": null,
+   "slot": "External Spool"
   }
  ],
- "nozzleTarget": 0,
- "nozzleTemp": 21,
- "progressPercent": 100,
- "queue": [],
- "remainingMinutes": 0,
- "state": "finished",
- "stateLabel": "Finished",
- "stats": {
-  "filamentUsed": "—",
-  "finished": 10,
-  "inQueue": 0
- },
- "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
- "upNext": null,
- "updatedAt": "2026-11-23T04:55:23-06:00",
- "updatedLabel": "Nov 23, 4:55 AM"
+ "log": [
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:09 AM",
+   "meta": "manual \u00b7 Nov 23, 5:09 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:07 AM",
+   "meta": "manual \u00b7 Nov 23, 5:07 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:05 AM",
+   "meta": "manual \u00b7 Nov 23, 5:06 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:03 AM",
+   "meta": "manual \u00b7 Nov 23, 5:04 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:01 AM",
+   "meta": "manual \u00b7 Nov 23, 5:02 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 5:00 AM",
+   "meta": "manual \u00b7 Nov 23, 5:00 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 4:58 AM",
+   "meta": "manual \u00b7 Nov 23, 4:58 AM"
+  },
+  {
+   "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 4:54 AM",
+   "meta": "manual \u00b7 Nov 23, 4:54 AM"
+  }
+ ]
 }
