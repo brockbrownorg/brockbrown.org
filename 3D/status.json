@@ -1,1 +1,153 @@
-{"bedTarget":0,"bedTemp":30,"cameraLabel":"Sun, Nov 22, 2026 at 11:36 PM CT","cameraUpdatedAt":"2026-11-22T23:36:48-06:00","currentFile":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf","estimatedFinish":"11:40 PM","fanPercent":null,"filaments":[{"colorHex":"#000000","colorName":"Black","material":"PLA","notes":"Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.","remainingPercent":null,"slot":"External Spool"}],"history":[{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf","meta":"Finished Nov 22, 11:03 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf","meta":"Finished Nov 22, 1:16 AM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"},{"file":"SPINRING.3mf","meta":"Finished Nov 16, 3:24 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING"},{"file":"Ring_Size 11.3mf","meta":"Finished Nov 16, 2:44 PM","notes":"","pill":"done","thumb":null,"title":"Ring_Size 11"},{"file":"Fidget-Ring_21,3mm Innendurchmesser.3mf","meta":"Finished Nov 16, 2:11 PM","notes":"","pill":"done","thumb":null,"title":"Fidget-Ring_21,3mm Innendurchmesser"},{"file":"MatchBox_2Compartment+-+Version+4.3mf","meta":"Finished Nov 16, 12:57 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment+-+Version+4"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 15, 11:50 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"Airpods_5_case.3mf","meta":"Finished Nov 14, 10:24 PM","notes":"","pill":"done","thumb":null,"title":"Airpods_5_case"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 13, 5:38 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"CigCase_150x23_Cigar Case 23mm x 150mm.3mf","meta":"Finished Nov 12, 11:07 PM","notes":"Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.","pill":"done","thumb":null,"title":"Cigar Case 23mm x 150mm"}],"layerCurrent":140,"layerTotal":140,"log":[{"meta":"manual · Nov 22, 11:40 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:40 PM"},{"meta":"manual · Nov 22, 11:38 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:38 PM"},{"meta":"manual · Nov 22, 11:37 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:37 PM"},{"meta":"manual · Nov 22, 11:35 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:34 PM"},{"meta":"manual · Nov 22, 11:32 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:31 PM"},{"meta":"manual · Nov 22, 11:30 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:30 PM"},{"meta":"manual · Nov 22, 11:25 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:24 PM"},{"meta":"manual · Nov 22, 11:22 PM","sum":"Finished · 100% · Layer 140/140 · — · ETA 11:22 PM"}],"nozzleTarget":0,"nozzleTemp":28,"progressPercent":100,"queue":[],"remainingMinutes":0,"state":"finished","stateLabel":"Finished","stats":{"filamentUsed":"—","finished":10,"inQueue":0},"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts","upNext":null,"updatedAt":"2026-11-22T23:41:26-06:00","updatedLabel":"Nov 22, 11:41 PM"}
+{
+  "updatedAt": "2026-11-22T23:57:36-06:00",
+  "updatedLabel": "Nov 22, 11:57 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
+  "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 140,
+  "layerTotal": 140,
+  "remainingMinutes": 0,
+  "estimatedFinish": "11:55 PM",
+  "nozzleTemp": 27,
+  "nozzleTarget": 0,
+  "bedTemp": 28,
+  "bedTarget": 0,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-22T23:55:25-06:00",
+  "cameraLabel": "Sun, Nov 22, 2026 at 11:55 PM CT",
+  "queue": [],
+  "upNext": null,
+  "stats": {
+    "inQueue": 0,
+    "finished": 10,
+    "filamentUsed": "\u2014"
+  },
+  "history": [
+    {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
+      "meta": "Finished Nov 22, 11:03 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
+      "meta": "Finished Nov 22, 1:16 AM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "SPINRING",
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Ring_Size 11",
+      "file": "Ring_Size 11.3mf",
+      "meta": "Finished Nov 16, 2:44 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Fidget-Ring_21,3mm Innendurchmesser",
+      "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
+      "meta": "Finished Nov 16, 2:11 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "MatchBox_2Compartment+-+Version+4",
+      "file": "MatchBox_2Compartment+-+Version+4.3mf",
+      "meta": "Finished Nov 16, 12:57 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Airpods_5_case",
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "Cigar Case 23mm x 150mm",
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "thumb": null,
+      "pill": "done"
+    }
+  ],
+  "filaments": [
+    {
+      "slot": "External Spool",
+      "material": "PLA",
+      "colorName": "Black",
+      "colorHex": "#000000",
+      "remainingPercent": null,
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
+    }
+  ],
+  "log": [
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:55 PM",
+      "meta": "manual \u00b7 Nov 22, 11:56 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:53 PM",
+      "meta": "manual \u00b7 Nov 22, 11:54 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:51 PM",
+      "meta": "manual \u00b7 Nov 22, 11:51 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:48 PM",
+      "meta": "manual \u00b7 Nov 22, 11:49 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:47 PM",
+      "meta": "manual \u00b7 Nov 22, 11:47 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:45 PM",
+      "meta": "manual \u00b7 Nov 22, 11:45 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:40 PM",
+      "meta": "manual \u00b7 Nov 22, 11:40 PM"
+    },
+    {
+      "sum": "Finished \u00b7 100% \u00b7 Layer 140/140 \u00b7 \u2014 \u00b7 ETA 11:38 PM",
+      "meta": "manual \u00b7 Nov 22, 11:38 PM"
+    }
+  ]
+}
