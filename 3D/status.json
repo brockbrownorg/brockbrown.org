@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-23T14:46:55-06:00",
- "updatedLabel": "Nov 23, 2:46 PM",
+ "updatedAt": "2026-11-23T15:03:34-06:00",
+ "updatedLabel": "Nov 23, 3:03 PM",
  "state": "printing",
  "stateLabel": "Printing",
  "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
  "currentFile": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
- "progressPercent": 93,
- "layerCurrent": 22,
+ "progressPercent": 98,
+ "layerCurrent": 35,
  "layerTotal": 51,
- "remainingMinutes": 30,
- "estimatedFinish": "3:15 PM",
+ "remainingMinutes": 8,
+ "estimatedFinish": "3:09 PM",
  "nozzleTemp": 225,
  "nozzleTarget": 225,
  "bedTemp": 75,
  "bedTarget": 75,
  "fanPercent": null,
- "cameraUpdatedAt": "2026-11-23T14:44:29-06:00",
- "cameraLabel": "Mon, Nov 23, 2026 at 2:44 PM CT",
+ "cameraUpdatedAt": "2026-11-23T15:01:19-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 3:01 PM CT",
  "queue": [
   {
    "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
@@ -35,97 +35,121 @@
  },
  "history": [
   {
+   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
    "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
    "meta": "Finished Nov 22, 11:03 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+   "pill": "done"
   },
   {
+   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
    "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
    "meta": "Finished Nov 22, 1:16 AM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+   "pill": "done"
   },
   {
+   "title": "SPINRING",
    "file": "SPINRING.3mf",
    "meta": "Finished Nov 16, 3:24 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "SPINRING"
+   "pill": "done"
   },
   {
+   "title": "Ring_Size 11",
    "file": "Ring_Size 11.3mf",
    "meta": "Finished Nov 16, 2:44 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Ring_Size 11"
+   "pill": "done"
   },
   {
+   "title": "Fidget-Ring_21,3mm Innendurchmesser",
    "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
    "meta": "Finished Nov 16, 2:11 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Fidget-Ring_21,3mm Innendurchmesser"
+   "pill": "done"
   },
   {
+   "title": "MatchBox_2Compartment+-+Version+4",
    "file": "MatchBox_2Compartment+-+Version+4.3mf",
    "meta": "Finished Nov 16, 12:57 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "MatchBox_2Compartment+-+Version+4"
+   "pill": "done"
   },
   {
+   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
    "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
    "meta": "Finished Nov 15, 11:50 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+   "pill": "done"
   },
   {
+   "title": "Airpods_5_case",
    "file": "Airpods_5_case.3mf",
    "meta": "Finished Nov 14, 10:24 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Airpods_5_case"
+   "pill": "done"
   },
   {
+   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
    "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
    "meta": "Finished Nov 13, 5:38 PM",
    "notes": "",
-   "pill": "done",
    "thumb": null,
-   "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+   "pill": "done"
   },
   {
+   "title": "Cigar Case 23mm x 150mm",
    "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
    "meta": "Finished Nov 12, 11:07 PM",
    "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-   "pill": "done",
    "thumb": null,
-   "title": "Cigar Case 23mm x 150mm"
+   "pill": "done"
   }
  ],
  "filaments": [
   {
-   "colorHex": "#000000",
-   "colorName": "Black",
+   "slot": "External Spool",
    "material": "PLA",
-   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+   "colorName": "Black",
+   "colorHex": "#000000",
    "remainingPercent": null,
-   "slot": "External Spool"
+   "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading."
   }
  ],
  "log": [
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 98% · Layer 35/51 · 8 min left · ETA 3:09 PM",
+   "meta": "manual · Nov 23, 3:02 PM"
+  },
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 97% · Layer 32/51 · 10 min left · ETA 3:09 PM",
+   "meta": "manual · Nov 23, 2:59 PM"
+  },
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 96% · Layer 30/51 · 14 min left · ETA 3:11 PM",
+   "meta": "manual · Nov 23, 2:57 PM"
+  },
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 96% · Layer 28/51 · 18 min left · ETA 3:12 PM",
+   "meta": "manual · Nov 23, 2:55 PM"
+  },
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 95% · Layer 27/51 · 18 min left · ETA 3:11 PM",
+   "meta": "manual · Nov 23, 2:53 PM"
+  },
+  {
+   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 95% · Layer 25/51 · 22 min left · ETA 3:12 PM",
+   "meta": "manual · Nov 23, 2:51 PM"
+  },
   {
    "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 93% · Layer 22/51 · 30 min left · ETA 3:15 PM",
    "meta": "manual · Nov 23, 2:45 PM"
@@ -133,30 +157,6 @@
   {
    "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 92% · Layer 21/51 · 32 min left · ETA 3:15 PM",
    "meta": "manual · Nov 23, 2:44 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 92% · Layer 20/51 · 36 min left · ETA 3:17 PM",
-   "meta": "manual · Nov 23, 2:42 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 91% · Layer 19/51 · 38 min left · ETA 3:17 PM",
-   "meta": "manual · Nov 23, 2:40 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 91% · Layer 17/51 · 40 min left · ETA 3:17 PM",
-   "meta": "manual · Nov 23, 2:38 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 90% · Layer 16/51 · 44 min left · ETA 3:19 PM",
-   "meta": "manual · Nov 23, 2:35 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 89% · Layer 15/51 · 48 min left · ETA 3:21 PM",
-   "meta": "manual · Nov 23, 2:33 PM"
-  },
-  {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf · 88% · Layer 12/51 · 54 min left · ETA 3:22 PM",
-   "meta": "manual · Nov 23, 2:29 PM"
   }
  ]
 }
