@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T16:59:36-06:00",
- "updatedLabel": "Nov 23, 4:59 PM",
+ "updatedAt": "2026-11-23T17:16:52-06:00",
+ "updatedLabel": "Nov 23, 5:16 PM",
  "state": "finished",
  "stateLabel": "Finished",
  "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
@@ -9,14 +9,14 @@
  "layerCurrent": 51,
  "layerTotal": 51,
  "remainingMinutes": 0,
- "estimatedFinish": "4:57 PM",
+ "estimatedFinish": "5:15 PM",
  "nozzleTemp": 21,
  "nozzleTarget": 0,
  "bedTemp": 22,
  "bedTarget": 0,
  "fanPercent": null,
- "cameraUpdatedAt": "2026-11-23T16:55:17-06:00",
- "cameraLabel": "Mon, Nov 23, 2026 at 4:55 PM CT",
+ "cameraUpdatedAt": "2026-11-23T17:13:34-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 5:13 PM CT",
  "queue": [
   {
    "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
@@ -135,36 +135,36 @@
  ],
  "log": [
   {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:15 PM",
+   "meta": "manual · Nov 23, 5:15 PM"
+  },
+  {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:12 PM",
+   "meta": "manual · Nov 23, 5:12 PM"
+  },
+  {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:10 PM",
+   "meta": "manual · Nov 23, 5:11 PM"
+  },
+  {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:08 PM",
+   "meta": "manual · Nov 23, 5:08 PM"
+  },
+  {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:07 PM",
+   "meta": "manual · Nov 23, 5:07 PM"
+  },
+  {
+   "sum": "Finished · 100% · Layer 51/51 · — · ETA 5:04 PM",
+   "meta": "manual · Nov 23, 5:04 PM"
+  },
+  {
    "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:57 PM",
    "meta": "manual · Nov 23, 4:57 PM"
   },
   {
    "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:55 PM",
    "meta": "manual · Nov 23, 4:55 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:53 PM",
-   "meta": "manual · Nov 23, 4:54 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:51 PM",
-   "meta": "manual · Nov 23, 4:51 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:49 PM",
-   "meta": "manual · Nov 23, 4:49 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:47 PM",
-   "meta": "manual · Nov 23, 4:47 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:41 PM",
-   "meta": "manual · Nov 23, 4:41 PM"
-  },
-  {
-   "sum": "Finished · 100% · Layer 51/51 · — · ETA 4:40 PM",
-   "meta": "manual · Nov 23, 4:40 PM"
   }
  ]
 }
