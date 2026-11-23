@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-11-22T23:10:35-06:00",
-    "updatedLabel": "Nov 22, 11:10 PM",
+    "updatedAt": "2026-11-22T23:26:22-06:00",
+    "updatedLabel": "Nov 22, 11:26 PM",
     "state": "finished",
     "stateLabel": "Finished",
     "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
@@ -9,14 +9,14 @@
     "layerCurrent": 140,
     "layerTotal": 140,
     "remainingMinutes": 0,
-    "estimatedFinish": "11:06 PM",
-    "nozzleTemp": 69,
+    "estimatedFinish": "11:24 PM",
+    "nozzleTemp": 32,
     "nozzleTarget": 0,
-    "bedTemp": 52,
+    "bedTemp": 35,
     "bedTarget": 0,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-22T23:05:38-06:00",
-    "cameraLabel": "Sun, Nov 22, 2026 at 11:05 PM CT",
+    "cameraUpdatedAt": "2026-11-22T23:24:30-06:00",
+    "cameraLabel": "Sun, Nov 22, 2026 at 11:24 PM CT",
     "queue": [],
     "upNext": null,
     "stats": {
@@ -118,36 +118,36 @@
     ],
     "log": [
         {
+            "sum": "Finished · 100% · Layer 140/140 · — · ETA 11:24 PM",
+            "meta": "manual · Nov 22, 11:25 PM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 140/140 · — · ETA 11:22 PM",
+            "meta": "manual · Nov 22, 11:22 PM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 140/140 · — · ETA 11:20 PM",
+            "meta": "manual · Nov 22, 11:20 PM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 140/140 · — · ETA 11:17 PM",
+            "meta": "manual · Nov 22, 11:18 PM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 140/140 · — · ETA 11:16 PM",
+            "meta": "manual · Nov 22, 11:16 PM"
+        },
+        {
+            "sum": "Finished — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 100% · Layer 140/140 · — · ETA 11:13 PM",
+            "meta": "manual · Nov 22, 11:14 PM"
+        },
+        {
             "sum": "Finished — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 100% · Layer 140/140 · — · ETA 11:06 PM",
             "meta": "manual · Nov 22, 11:07 PM"
         },
         {
             "sum": "Print finished — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts finished at 10:59 PM CT on Nov 22, 2026 (100%, layer 140/140) per Mac bridge prints log.",
             "meta": "note · Nov 22, 11:03 PM"
-        },
-        {
-            "sum": "Finished — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 100% · Layer 140/140 · — · ETA 11:01 PM",
-            "meta": "manual · Nov 22, 11:03 PM"
-        },
-        {
-            "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 99% · Layer 140/140 · — · ETA 10:59 PM",
-            "meta": "manual · Nov 22, 11:00 PM"
-        },
-        {
-            "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 99% · Layer 139/140 · 2 min left · ETA 10:59 PM",
-            "meta": "manual · Nov 22, 10:57 PM"
-        },
-        {
-            "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 98% · Layer 136/140 · 10 min left · ETA 11:01 PM",
-            "meta": "manual · Nov 22, 10:51 PM"
-        },
-        {
-            "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 98% · Layer 135/140 · 12 min left · ETA 11:01 PM",
-            "meta": "manual · Nov 22, 10:50 PM"
-        },
-        {
-            "sum": "Printing — Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf · 98% · Layer 135/140 · 14 min left · ETA 11:01 PM",
-            "meta": "manual · Nov 22, 10:47 PM"
         }
     ]
 }
