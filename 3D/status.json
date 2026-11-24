@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-23T20:05:49-06:00",
- "updatedLabel": "Nov 23, 8:05 PM",
+ "updatedAt": "2026-11-23T20:22:43-06:00",
+ "updatedLabel": "Nov 23, 8:22 PM",
  "state": "printing",
  "stateLabel": "Printing",
  "title": "MatchBox_2Compartment_-_Version_2",
  "currentFile": "MatchBox_2Compartment_-_Version_2.3mf",
- "progressPercent": 6,
- "layerCurrent": 1,
+ "progressPercent": 15,
+ "layerCurrent": 13,
  "layerTotal": 319,
- "remainingMinutes": 248,
- "estimatedFinish": "12:11 AM",
+ "remainingMinutes": 224,
+ "estimatedFinish": "12:05 AM",
  "nozzleTemp": 220,
  "nozzleTarget": 220,
- "bedTemp": 74,
+ "bedTemp": 75,
  "bedTarget": 75,
  "fanPercent": null,
- "cameraUpdatedAt": "2026-11-23T20:02:42-06:00",
- "cameraLabel": "Mon, Nov 23, 2026 at 8:02 PM CT",
+ "cameraUpdatedAt": "2026-11-23T20:19:23-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 8:19 PM CT",
  "queue": [
   {
    "title": "MatchBox_2Compartment_-_Version_2",
@@ -151,36 +151,36 @@
  ],
  "log": [
   {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 15% · Layer 13/319 · 3h 44min left · ETA 12:05 AM",
+   "meta": "manual · Nov 23, 8:21 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 14% · Layer 11/319 · 3h 46min left · ETA 12:04 AM",
+   "meta": "manual · Nov 23, 8:19 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 13% · Layer 10/319 · 3h 50min left · ETA 12:06 AM",
+   "meta": "manual · Nov 23, 8:17 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 11% · Layer 7/319 · 3h 52min left · ETA 12:06 AM",
+   "meta": "manual · Nov 23, 8:15 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 10% · Layer 5/319 · 3h 56min left · ETA 12:08 AM",
+   "meta": "manual · Nov 23, 8:13 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 10% · Layer 4/319 · 3h 58min left · ETA 12:09 AM",
+   "meta": "manual · Nov 23, 8:11 PM"
+  },
+  {
+   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 9% · Layer 3/319 · 4h 0min left · ETA 12:09 AM",
+   "meta": "manual · Nov 23, 8:09 PM"
+  },
+  {
    "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 6% · Layer 1/319 · 4h 8min left · ETA 12:11 AM",
    "meta": "manual · Nov 23, 8:04 PM"
-  },
-  {
-   "sum": "Print paused — MatchBox_2Compartment_-_Version_2 paused at 7:59 PM CT on Nov 23, 2026 per the Mac bridge prints log (4%, layer 0/319, 126 min left); bridge status at 8:01 PM reported RUNNING again at 5%, layer 1/319.",
-   "meta": "note · Nov 23, 8:02 PM"
-  },
-  {
-   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 5% · Layer 1/319 · 4h 10min left · ETA 12:11 AM",
-   "meta": "manual · Nov 23, 8:01 PM"
-  },
-  {
-   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 4% · Layer 0/319 · 2h 6min left · ETA 10:04 PM",
-   "meta": "manual · Nov 23, 7:59 PM"
-  },
-  {
-   "sum": "Print started — MatchBox_2Compartment_-_Version_2 started / preparing at 7:55 PM CT on Nov 23, 2026 per the Mac bridge status (gcode_state PREPARE, file MatchBox_2Compartment_-_Version_2.3mf, layer 41/41, print_error 0, no HMS entries).",
-   "meta": "note · Nov 23, 7:57 PM"
-  },
-  {
-   "sum": "Printing — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 41/41 · — · ETA 7:56 PM",
-   "meta": "manual · Nov 23, 7:57 PM"
-  },
-  {
-   "sum": "Error — MatchBox_2Compartment+-+Version+4.3mf · 100% · Layer 41/41 · — · ETA 7:53 PM",
-   "meta": "manual · Nov 23, 7:54 PM"
-  },
-  {
-   "sum": "Error — MatchBox_2Compartment+-+Version+4.3mf · 100% · Layer 41/41 · — · ETA 7:47 PM",
-   "meta": "manual · Nov 23, 7:47 PM"
   }
  ]
 }
