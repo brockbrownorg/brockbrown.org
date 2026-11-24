@@ -1,22 +1,22 @@
 {
- "updatedAt": "2026-11-23T17:49:28-06:00",
- "updatedLabel": "Nov 23, 5:49 PM",
- "state": "printing",
- "stateLabel": "Printing",
+ "updatedAt": "2026-11-23T18:08:46-06:00",
+ "updatedLabel": "Nov 23, 6:08 PM",
+ "state": "finished",
+ "stateLabel": "Finished",
  "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS",
  "currentFile": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
- "progressPercent": 67,
- "layerCurrent": 39,
+ "progressPercent": 100,
+ "layerCurrent": 70,
  "layerTotal": 70,
- "remainingMinutes": 20,
+ "remainingMinutes": 0,
  "estimatedFinish": "6:08 PM",
- "nozzleTemp": 225,
- "nozzleTarget": 225,
- "bedTemp": 75,
- "bedTarget": 75,
+ "nozzleTemp": 138,
+ "nozzleTarget": 0,
+ "bedTemp": 67,
+ "bedTarget": 0,
  "fanPercent": null,
- "cameraUpdatedAt": "2026-11-23T17:46:34-06:00",
- "cameraLabel": "Mon, Nov 23, 2026 at 5:46 PM CT",
+ "cameraUpdatedAt": "2026-11-23T18:05:03-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 6:05 PM CT",
  "queue": [
   {
    "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS",
@@ -24,16 +24,24 @@
    "meta": "",
    "notes": "",
    "thumb": null,
-   "pill": "printing"
+   "pill": "finished"
   }
  ],
  "upNext": null,
  "stats": {
   "inQueue": 1,
-  "finished": 11,
-  "filamentUsed": "—"
+  "finished": 12,
+  "filamentUsed": "\u2014"
  },
  "history": [
+  {
+   "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS",
+   "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
+   "meta": "Finished Nov 23, 6:05 PM",
+   "notes": "",
+   "thumb": null,
+   "pill": "done"
+  },
   {
    "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
    "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
@@ -135,36 +143,36 @@
  ],
  "log": [
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 67% · Layer 39/70 · 20 min left · ETA 6:08 PM",
-   "meta": "manual · Nov 23, 5:49 PM"
+   "sum": "Print finished \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS finished at 6:03 PM CT on Nov 23, 2026 per the Mac bridge prints log (100%, layer 70/70).",
+   "meta": "note \u00b7 Nov 23, 6:05 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 64% · Layer 37/70 · 22 min left · ETA 6:09 PM",
-   "meta": "manual · Nov 23, 5:47 PM"
+   "sum": "Finished \u00b7 100% \u00b7 Layer 70/70 \u00b7 \u2014 \u00b7 ETA 6:05 PM",
+   "meta": "manual \u00b7 Nov 23, 6:05 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 60% · Layer 33/70 · 26 min left · ETA 6:11 PM",
-   "meta": "manual · Nov 23, 5:45 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 98% \u00b7 Layer 70/70 \u00b7 \u2014 \u00b7 ETA 6:02 PM",
+   "meta": "manual \u00b7 Nov 23, 6:03 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 58% · Layer 30/70 · 26 min left · ETA 6:10 PM",
-   "meta": "manual · Nov 23, 5:44 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 93% \u00b7 Layer 61/70 \u00b7 4 min left \u00b7 ETA 6:04 PM",
+   "meta": "manual \u00b7 Nov 23, 6:00 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 56% · Layer 28/70 · 28 min left · ETA 6:11 PM",
-   "meta": "manual · Nov 23, 5:43 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 86% \u00b7 Layer 51/70 \u00b7 8 min left \u00b7 ETA 6:05 PM",
+   "meta": "manual \u00b7 Nov 23, 5:58 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 51% · Layer 23/70 · 30 min left · ETA 6:11 PM",
-   "meta": "manual · Nov 23, 5:42 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 82% \u00b7 Layer 49/70 \u00b7 10 min left \u00b7 ETA 6:05 PM",
+   "meta": "manual \u00b7 Nov 23, 5:56 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 48% · Layer 19/70 · 34 min left · ETA 6:14 PM",
-   "meta": "manual · Nov 23, 5:40 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 80% \u00b7 Layer 47/70 \u00b7 12 min left \u00b7 ETA 6:06 PM",
+   "meta": "manual \u00b7 Nov 23, 5:54 PM"
   },
   {
-   "sum": "Printing — Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf · 45% · Layer 17/70 · 34 min left · ETA 6:13 PM",
-   "meta": "manual · Nov 23, 5:39 PM"
+   "sum": "Printing \u2014 Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf \u00b7 75% \u00b7 Layer 45/70 \u00b7 16 min left \u00b7 ETA 6:08 PM",
+   "meta": "manual \u00b7 Nov 23, 5:52 PM"
   }
  ]
 }
