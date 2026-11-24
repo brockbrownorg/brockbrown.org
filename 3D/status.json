@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-24T14:07:28-06:00",
-  "updatedLabel": "Nov 24, 2:07 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-24T14:25:01-06:00",
+  "updatedLabel": "Nov 24, 2:25 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "CARD_PIP",
-  "currentFile": "CARD_PIP.3mf",
-  "progressPercent": 91,
-  "layerCurrent": 26,
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 39,
   "layerTotal": 39,
-  "remainingMinutes": 10,
-  "estimatedFinish": "2:15 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 75,
-  "bedTarget": 75,
+  "remainingMinutes": 0,
+  "estimatedFinish": "2:22 PM",
+  "nozzleTemp": 54,
+  "nozzleTarget": 0,
+  "bedTemp": 50,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-24T14:05:44-06:00",
-  "cameraLabel": "Tue, Nov 24, 2026 at 2:05 PM CT",
+  "cameraUpdatedAt": "2026-11-24T14:21:56-06:00",
+  "cameraLabel": "Tue, Nov 24, 2026 at 2:21 PM CT",
   "queue": [
     {
       "title": "CARD_PIP",
@@ -24,16 +24,24 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 14,
-    "filamentUsed": "\u2014"
+    "finished": 15,
+    "filamentUsed": "—"
   },
   "history": [
+    {
+      "title": "CARD_PIP",
+      "file": "CARD_PIP.3mf",
+      "meta": "Finished Nov 24, 2:16 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
     {
       "title": "MatchBox_2Compartment_-_Version_2",
       "file": "MatchBox_2Compartment_-_Version_2.3mf",
@@ -159,36 +167,36 @@
   ],
   "log": [
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 91% \u00b7 Layer 26/39 \u00b7 10 min left \u00b7 ETA 2:15 PM",
-      "meta": "manual \u00b7 Nov 24, 2:06 PM"
+      "sum": "Finished · 100% · Layer 39/39 · — · ETA 2:22 PM",
+      "meta": "manual · Nov 24, 2:23 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 89% \u00b7 Layer 24/39 \u00b7 14 min left \u00b7 ETA 2:17 PM",
-      "meta": "manual \u00b7 Nov 24, 2:04 PM"
+      "sum": "Finished · 100% · Layer 39/39 · — · ETA 2:21 PM",
+      "meta": "manual · Nov 24, 2:21 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 87% \u00b7 Layer 23/39 \u00b7 16 min left \u00b7 ETA 2:17 PM",
-      "meta": "manual \u00b7 Nov 24, 2:02 PM"
+      "sum": "Finished · 100% · Layer 39/39 · — · ETA 2:19 PM",
+      "meta": "manual · Nov 24, 2:20 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 85% \u00b7 Layer 22/39 \u00b7 20 min left \u00b7 ETA 2:18 PM",
-      "meta": "manual \u00b7 Nov 24, 1:59 PM"
+      "sum": "Finished · 100% · Layer 39/39 · — · ETA 2:17 PM",
+      "meta": "manual · Nov 24, 2:18 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 83% \u00b7 Layer 21/39 \u00b7 22 min left \u00b7 ETA 2:18 PM",
-      "meta": "manual \u00b7 Nov 24, 1:57 PM"
+      "sum": "Print finished: CARD_PIP (CARD_PIP.3mf) finished at 2:14 PM CT on Nov 24, at 100%, layer 39/39, per the Mac bridge prints log. Bridge now reports gcode_state FINISH.",
+      "meta": "note · Nov 24, 2:16 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 81% \u00b7 Layer 20/39 \u00b7 26 min left \u00b7 ETA 2:20 PM",
-      "meta": "manual \u00b7 Nov 24, 1:55 PM"
+      "sum": "Finished · 100% · Layer 39/39 · — · ETA 2:15 PM",
+      "meta": "manual · Nov 24, 2:15 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 76% \u00b7 Layer 18/39 \u00b7 34 min left \u00b7 ETA 2:22 PM",
-      "meta": "manual \u00b7 Nov 24, 1:49 PM"
+      "sum": "Printing — CARD_PIP.3mf · 99% · Layer 39/39 · — · ETA 2:13 PM",
+      "meta": "manual · Nov 24, 2:14 PM"
     },
     {
-      "sum": "Printing \u2014 CARD_PIP.3mf \u00b7 73% \u00b7 Layer 17/39 \u00b7 36 min left \u00b7 ETA 2:22 PM",
-      "meta": "manual \u00b7 Nov 24, 1:47 PM"
+      "sum": "Printing — CARD_PIP.3mf · 97% · Layer 29/39 · 4 min left · ETA 2:15 PM",
+      "meta": "manual · Nov 24, 2:12 PM"
     }
   ]
 }
