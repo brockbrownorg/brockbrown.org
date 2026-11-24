@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T19:17:23-06:00",
- "updatedLabel": "Nov 23, 7:17 PM",
+ "updatedAt": "2026-11-23T19:34:25-06:00",
+ "updatedLabel": "Nov 23, 7:34 PM",
  "state": "finished",
  "stateLabel": "Finished",
  "title": "SPINRING(2)",
@@ -9,14 +9,14 @@
  "layerCurrent": 41,
  "layerTotal": 41,
  "remainingMinutes": 0,
- "estimatedFinish": "7:15 PM",
- "nozzleTemp": 29,
+ "estimatedFinish": "7:33 PM",
+ "nozzleTemp": 28,
  "nozzleTarget": 0,
- "bedTemp": 31,
+ "bedTemp": 28,
  "bedTarget": 0,
  "fanPercent": null,
- "cameraUpdatedAt": "2026-11-23T19:15:08-06:00",
- "cameraLabel": "Mon, Nov 23, 2026 at 7:15 PM CT",
+ "cameraUpdatedAt": "2026-11-23T19:29:17-06:00",
+ "cameraLabel": "Mon, Nov 23, 2026 at 7:29 PM CT",
  "queue": [
   {
    "title": "SPINRING(2)",
@@ -151,36 +151,36 @@
  ],
  "log": [
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:15 PM",
-   "meta": "manual · Nov 23, 7:15 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:33 PM",
+   "meta": "manual · Nov 23, 7:33 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:13 PM",
-   "meta": "manual · Nov 23, 7:13 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:30 PM",
+   "meta": "manual · Nov 23, 7:31 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:11 PM",
-   "meta": "manual · Nov 23, 7:11 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:29 PM",
+   "meta": "manual · Nov 23, 7:29 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:10 PM",
-   "meta": "manual · Nov 23, 7:10 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:27 PM",
+   "meta": "manual · Nov 23, 7:27 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:08 PM",
-   "meta": "manual · Nov 23, 7:08 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:26 PM",
+   "meta": "manual · Nov 23, 7:26 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:07 PM",
-   "meta": "manual · Nov 23, 7:07 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:24 PM",
+   "meta": "manual · Nov 23, 7:24 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:05 PM",
-   "meta": "manual · Nov 23, 7:06 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:22 PM",
+   "meta": "manual · Nov 23, 7:23 PM"
   },
   {
-   "sum": "Finished · 100% · Layer 41/41 · — · ETA 6:59 PM",
-   "meta": "manual · Nov 23, 6:59 PM"
+   "sum": "Finished · 100% · Layer 41/41 · — · ETA 7:20 PM",
+   "meta": "manual · Nov 23, 7:21 PM"
   }
  ]
 }
