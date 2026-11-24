@@ -1,10 +1,10 @@
 {
     "bedTarget": 0,
     "bedTemp": 24,
-    "cameraLabel": "Tue, Nov 24, 2026 at 1:57 AM CT",
-    "cameraUpdatedAt": "2026-11-24T01:57:48-06:00",
+    "cameraLabel": "Tue, Nov 24, 2026 at 2:15 AM CT",
+    "cameraUpdatedAt": "2026-11-24T02:15:29-06:00",
     "currentFile": "MatchBox_2Compartment_-_Version_2.3mf",
-    "estimatedFinish": "2:00 AM",
+    "estimatedFinish": "2:16 AM",
     "fanPercent": null,
     "filaments": [
         {
@@ -134,36 +134,36 @@
     "layerTotal": 319,
     "log": [
         {
-            "meta": "manual \u00b7 Nov 24, 2:00 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 2:00 AM"
+            "meta": "manual · Nov 24, 2:16 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:16 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:58 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:58 AM"
+            "meta": "manual · Nov 24, 2:14 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:14 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:56 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:56 AM"
+            "meta": "manual · Nov 24, 2:12 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:12 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:54 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:54 AM"
+            "meta": "manual · Nov 24, 2:10 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:10 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:53 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:52 AM"
+            "meta": "manual · Nov 24, 2:09 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:09 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:51 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:51 AM"
+            "meta": "manual · Nov 24, 2:08 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:08 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:50 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:49 AM"
+            "meta": "manual · Nov 24, 2:06 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:06 AM"
         },
         {
-            "meta": "manual \u00b7 Nov 24, 1:48 AM",
-            "sum": "Finished \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 1:48 AM"
+            "meta": "manual · Nov 24, 2:04 AM",
+            "sum": "Finished · 100% · Layer 319/319 · — · ETA 2:04 AM"
         }
     ],
     "nozzleTarget": 0,
@@ -183,12 +183,12 @@
     "state": "finished",
     "stateLabel": "Finished",
     "stats": {
-        "filamentUsed": "\u2014",
+        "filamentUsed": "—",
         "finished": 14,
         "inQueue": 1
     },
     "title": "MatchBox_2Compartment_-_Version_2",
     "upNext": null,
-    "updatedAt": "2026-11-24T02:00:56-06:00",
-    "updatedLabel": "Nov 24, 2:00 AM"
+    "updatedAt": "2026-11-24T02:17:56-06:00",
+    "updatedLabel": "Nov 24, 2:17 AM"
 }
