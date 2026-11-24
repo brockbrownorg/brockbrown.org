@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-23T22:12:35-06:00",
-  "updatedLabel": "Nov 23, 10:12 PM",
+  "updatedAt": "2026-11-23T22:28:54-06:00",
+  "updatedLabel": "Nov 23, 10:28 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "MatchBox_2Compartment_-_Version_2",
   "currentFile": "MatchBox_2Compartment_-_Version_2.3mf",
-  "progressPercent": 75,
-  "layerCurrent": 190,
+  "progressPercent": 84,
+  "layerCurrent": 231,
   "layerTotal": 319,
-  "remainingMinutes": 64,
-  "estimatedFinish": "11:15 PM",
+  "remainingMinutes": 40,
+  "estimatedFinish": "11:07 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 75,
   "bedTarget": 75,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-23T22:11:01-06:00",
-  "cameraLabel": "Mon, Nov 23, 2026 at 10:11 PM CT",
+  "cameraUpdatedAt": "2026-11-23T22:26:56-06:00",
+  "cameraLabel": "Mon, Nov 23, 2026 at 10:26 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment_-_Version_2",
@@ -151,36 +151,36 @@
   ],
   "log": [
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 75% \u00b7 Layer 190/319 \u00b7 1h 4min left \u00b7 ETA 11:15 PM",
-      "meta": "manual \u00b7 Nov 23, 10:11 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 84% \u00b7 Layer 231/319 \u00b7 40 min left \u00b7 ETA 11:07 PM",
+      "meta": "manual \u00b7 Nov 23, 10:27 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 74% \u00b7 Layer 187/319 \u00b7 1h 8min left \u00b7 ETA 11:17 PM",
-      "meta": "manual \u00b7 Nov 23, 10:09 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 83% \u00b7 Layer 225/319 \u00b7 44 min left \u00b7 ETA 11:09 PM",
+      "meta": "manual \u00b7 Nov 23, 10:26 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 73% \u00b7 Layer 185/319 \u00b7 1h 8min left \u00b7 ETA 11:16 PM",
-      "meta": "manual \u00b7 Nov 23, 10:09 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 82% \u00b7 Layer 221/319 \u00b7 46 min left \u00b7 ETA 11:10 PM",
+      "meta": "manual \u00b7 Nov 23, 10:24 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 72% \u00b7 Layer 181/319 \u00b7 1h 12min left \u00b7 ETA 11:18 PM",
-      "meta": "manual \u00b7 Nov 23, 10:07 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 81% \u00b7 Layer 216/319 \u00b7 48 min left \u00b7 ETA 11:10 PM",
+      "meta": "manual \u00b7 Nov 23, 10:23 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 72% \u00b7 Layer 178/319 \u00b7 1h 12min left \u00b7 ETA 11:17 PM",
-      "meta": "manual \u00b7 Nov 23, 10:06 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 80% \u00b7 Layer 212/319 \u00b7 50 min left \u00b7 ETA 11:11 PM",
+      "meta": "manual \u00b7 Nov 23, 10:21 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 71% \u00b7 Layer 174/319 \u00b7 1h 16min left \u00b7 ETA 11:20 PM",
-      "meta": "manual \u00b7 Nov 23, 10:04 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 79% \u00b7 Layer 208/319 \u00b7 52 min left \u00b7 ETA 11:11 PM",
+      "meta": "manual \u00b7 Nov 23, 10:19 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 70% \u00b7 Layer 170/319 \u00b7 1h 18min left \u00b7 ETA 11:20 PM",
-      "meta": "manual \u00b7 Nov 23, 10:02 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 79% \u00b7 Layer 205/319 \u00b7 54 min left \u00b7 ETA 11:12 PM",
+      "meta": "manual \u00b7 Nov 23, 10:18 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 66% \u00b7 Layer 157/319 \u00b7 1h 28min left \u00b7 ETA 11:23 PM",
-      "meta": "manual \u00b7 Nov 23, 9:56 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 78% \u00b7 Layer 202/319 \u00b7 56 min left \u00b7 ETA 11:12 PM",
+      "meta": "manual \u00b7 Nov 23, 10:17 PM"
     }
   ]
 }
