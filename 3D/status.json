@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T23:02:54-06:00",
-  "updatedLabel": "Nov 23, 11:02 PM",
+  "updatedAt": "2026-11-23T23:18:57-06:00",
+  "updatedLabel": "Nov 23, 11:18 PM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "MatchBox_2Compartment_-_Version_2",
@@ -9,14 +9,14 @@
   "layerCurrent": 319,
   "layerTotal": 319,
   "remainingMinutes": 0,
-  "estimatedFinish": "11:00 PM",
-  "nozzleTemp": 63,
+  "estimatedFinish": "11:17 PM",
+  "nozzleTemp": 32,
   "nozzleTarget": 0,
-  "bedTemp": 47,
+  "bedTemp": 35,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-23T23:00:04-06:00",
-  "cameraLabel": "Mon, Nov 23, 2026 at 11:00 PM CT",
+  "cameraUpdatedAt": "2026-11-23T23:16:16-06:00",
+  "cameraLabel": "Mon, Nov 23, 2026 at 11:16 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment_-_Version_2",
@@ -31,7 +31,7 @@
   "stats": {
     "inQueue": 1,
     "finished": 14,
-    "filamentUsed": "\u2014"
+    "filamentUsed": "—"
   },
   "history": [
     {
@@ -159,36 +159,36 @@
   ],
   "log": [
     {
-      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 11:00 PM",
-      "meta": "manual \u00b7 Nov 23, 11:01 PM"
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 11:17 PM",
+      "meta": "manual · Nov 23, 11:17 PM"
     },
     {
-      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:58 PM",
-      "meta": "manual \u00b7 Nov 23, 10:59 PM"
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 11:15 PM",
+      "meta": "manual · Nov 23, 11:16 PM"
     },
     {
-      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:57 PM",
-      "meta": "manual \u00b7 Nov 23, 10:57 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:14 PM",
+      "meta": "manual · Nov 23, 11:14 PM"
     },
     {
-      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:55 PM",
-      "meta": "manual \u00b7 Nov 23, 10:56 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:12 PM",
+      "meta": "manual · Nov 23, 11:13 PM"
     },
     {
-      "sum": "Print finished \u2014 MatchBox_2Compartment_-_Version_2 completed at 10:53 PM CT on Nov 23, 2026 (100%, layer 319/319).",
-      "meta": "note \u00b7 Nov 23, 10:54 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:10 PM",
+      "meta": "manual · Nov 23, 11:11 PM"
     },
     {
-      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:53 PM",
-      "meta": "manual \u00b7 Nov 23, 10:54 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:09 PM",
+      "meta": "manual · Nov 23, 11:09 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 98% \u00b7 Layer 315/319 \u00b7 2 min left \u00b7 ETA 10:54 PM",
-      "meta": "manual \u00b7 Nov 23, 10:52 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:08 PM",
+      "meta": "manual · Nov 23, 11:08 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 98% \u00b7 Layer 310/319 \u00b7 4 min left \u00b7 ETA 10:55 PM",
-      "meta": "manual \u00b7 Nov 23, 10:51 PM"
+      "sum": "Finished — MatchBox_2Compartment_-_Version_2.3mf · 100% · Layer 319/319 · — · ETA 11:06 PM",
+      "meta": "manual · Nov 23, 11:06 PM"
     }
   ]
 }
