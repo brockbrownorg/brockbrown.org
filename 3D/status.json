@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-23T22:45:30-06:00",
-  "updatedLabel": "Nov 23, 10:45 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-23T23:02:54-06:00",
+  "updatedLabel": "Nov 23, 11:02 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "MatchBox_2Compartment_-_Version_2",
   "currentFile": "MatchBox_2Compartment_-_Version_2.3mf",
-  "progressPercent": 94,
-  "layerCurrent": 287,
+  "progressPercent": 100,
+  "layerCurrent": 319,
   "layerTotal": 319,
-  "remainingMinutes": 14,
-  "estimatedFinish": "10:58 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 75,
-  "bedTarget": 75,
+  "remainingMinutes": 0,
+  "estimatedFinish": "11:00 PM",
+  "nozzleTemp": 63,
+  "nozzleTarget": 0,
+  "bedTemp": 47,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-23T22:43:21-06:00",
-  "cameraLabel": "Mon, Nov 23, 2026 at 10:43 PM CT",
+  "cameraUpdatedAt": "2026-11-23T23:00:04-06:00",
+  "cameraLabel": "Mon, Nov 23, 2026 at 11:00 PM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment_-_Version_2",
@@ -24,119 +24,127 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 13,
+    "finished": 14,
     "filamentUsed": "\u2014"
   },
   "history": [
     {
+      "title": "MatchBox_2Compartment_-_Version_2",
+      "file": "MatchBox_2Compartment_-_Version_2.3mf",
+      "meta": "Finished Nov 23, 10:54 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "SPINRING(2)",
       "file": "SPINRING(2).3mf",
       "meta": "Finished Nov 23, 6:40 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "SPINRING(2)"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS",
       "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
       "meta": "Finished Nov 23, 6:05 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
       "meta": "Finished Nov 23, 3:09 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
       "meta": "Finished Nov 22, 11:03 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
       "meta": "Finished Nov 22, 1:16 AM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+      "pill": "done"
     },
     {
+      "title": "SPINRING",
       "file": "SPINRING.3mf",
       "meta": "Finished Nov 16, 3:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "SPINRING"
+      "pill": "done"
     },
     {
+      "title": "Ring_Size 11",
       "file": "Ring_Size 11.3mf",
       "meta": "Finished Nov 16, 2:44 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Ring_Size 11"
+      "pill": "done"
     },
     {
+      "title": "Fidget-Ring_21,3mm Innendurchmesser",
       "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
       "meta": "Finished Nov 16, 2:11 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+      "pill": "done"
     },
     {
+      "title": "MatchBox_2Compartment+-+Version+4",
       "file": "MatchBox_2Compartment+-+Version+4.3mf",
       "meta": "Finished Nov 16, 12:57 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "MatchBox_2Compartment+-+Version+4"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 15, 11:50 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Airpods_5_case",
       "file": "Airpods_5_case.3mf",
       "meta": "Finished Nov 14, 10:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Airpods_5_case"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 13, 5:38 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Cigar Case 23mm x 150mm",
       "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
       "meta": "Finished Nov 12, 11:07 PM",
       "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-      "pill": "done",
       "thumb": null,
-      "title": "Cigar Case 23mm x 150mm"
+      "pill": "done"
     }
   ],
   "filaments": [
@@ -151,36 +159,36 @@
   ],
   "log": [
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 94% \u00b7 Layer 287/319 \u00b7 14 min left \u00b7 ETA 10:58 PM",
-      "meta": "manual \u00b7 Nov 23, 10:45 PM"
+      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 11:00 PM",
+      "meta": "manual \u00b7 Nov 23, 11:01 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 93% \u00b7 Layer 284/319 \u00b7 16 min left \u00b7 ETA 10:59 PM",
-      "meta": "manual \u00b7 Nov 23, 10:43 PM"
+      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:58 PM",
+      "meta": "manual \u00b7 Nov 23, 10:59 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 92% \u00b7 Layer 279/319 \u00b7 18 min left \u00b7 ETA 10:59 PM",
-      "meta": "manual \u00b7 Nov 23, 10:41 PM"
+      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:57 PM",
+      "meta": "manual \u00b7 Nov 23, 10:57 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 91% \u00b7 Layer 273/319 \u00b7 22 min left \u00b7 ETA 11:01 PM",
-      "meta": "manual \u00b7 Nov 23, 10:40 PM"
+      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:55 PM",
+      "meta": "manual \u00b7 Nov 23, 10:56 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 90% \u00b7 Layer 269/319 \u00b7 24 min left \u00b7 ETA 11:02 PM",
-      "meta": "manual \u00b7 Nov 23, 10:38 PM"
+      "sum": "Print finished \u2014 MatchBox_2Compartment_-_Version_2 completed at 10:53 PM CT on Nov 23, 2026 (100%, layer 319/319).",
+      "meta": "note \u00b7 Nov 23, 10:54 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 89% \u00b7 Layer 263/319 \u00b7 26 min left \u00b7 ETA 11:02 PM",
-      "meta": "manual \u00b7 Nov 23, 10:37 PM"
+      "sum": "Finished \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 100% \u00b7 Layer 319/319 \u00b7 \u2014 \u00b7 ETA 10:53 PM",
+      "meta": "manual \u00b7 Nov 23, 10:54 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 88% \u00b7 Layer 256/319 \u00b7 28 min left \u00b7 ETA 11:03 PM",
-      "meta": "manual \u00b7 Nov 23, 10:35 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 98% \u00b7 Layer 315/319 \u00b7 2 min left \u00b7 ETA 10:54 PM",
+      "meta": "manual \u00b7 Nov 23, 10:52 PM"
     },
     {
-      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 88% \u00b7 Layer 253/319 \u00b7 30 min left \u00b7 ETA 11:04 PM",
-      "meta": "manual \u00b7 Nov 23, 10:34 PM"
+      "sum": "Printing \u2014 MatchBox_2Compartment_-_Version_2.3mf \u00b7 98% \u00b7 Layer 310/319 \u00b7 4 min left \u00b7 ETA 10:55 PM",
+      "meta": "manual \u00b7 Nov 23, 10:51 PM"
     }
   ]
 }
