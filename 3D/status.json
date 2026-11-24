@@ -1,1 +1,202 @@
-{"bedTarget":75,"bedTemp":75,"cameraLabel":"Tue, Nov 24, 2026 at 4:00 PM CT","cameraUpdatedAt":"2026-11-24T16:00:17-06:00","currentFile":"action5收纳盒.3mf","estimatedFinish":"9:53 PM","fanPercent":null,"filaments":[{"colorHex":"#000000","colorName":"Black","material":"PLA","notes":"Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.","remainingPercent":null,"slot":"External Spool"}],"history":[{"file":"CARD_PIP.3mf","meta":"Finished Nov 24, 2:16 PM","notes":"","pill":"done","thumb":null,"title":"CARD_PIP"},{"file":"MatchBox_2Compartment_-_Version_2.3mf","meta":"Finished Nov 23, 10:54 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment_-_Version_2"},{"file":"SPINRING(2).3mf","meta":"Finished Nov 23, 6:40 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING(2)"},{"file":"Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf","meta":"Finished Nov 23, 6:05 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_insert labels no AMS"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf","meta":"Finished Nov 23, 3:09 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf","meta":"Finished Nov 22, 11:03 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf","meta":"Finished Nov 22, 1:16 AM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"},{"file":"SPINRING.3mf","meta":"Finished Nov 16, 3:24 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING"},{"file":"Ring_Size 11.3mf","meta":"Finished Nov 16, 2:44 PM","notes":"","pill":"done","thumb":null,"title":"Ring_Size 11"},{"file":"Fidget-Ring_21,3mm Innendurchmesser.3mf","meta":"Finished Nov 16, 2:11 PM","notes":"","pill":"done","thumb":null,"title":"Fidget-Ring_21,3mm Innendurchmesser"},{"file":"MatchBox_2Compartment+-+Version+4.3mf","meta":"Finished Nov 16, 12:57 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment+-+Version+4"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 15, 11:50 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"Airpods_5_case.3mf","meta":"Finished Nov 14, 10:24 PM","notes":"","pill":"done","thumb":null,"title":"Airpods_5_case"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 13, 5:38 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"CigCase_150x23_Cigar Case 23mm x 150mm.3mf","meta":"Finished Nov 12, 11:07 PM","notes":"","pill":"done","thumb":null,"title":"Cigar Case 23mm x 150mm"}],"layerCurrent":10,"layerTotal":165,"log":[{"meta":"manual · Nov 24, 4:03 PM","sum":"Printing — action5收纳盒.3mf · 17% · Layer 10/165 · 5h 51min left · ETA 9:53 PM"},{"meta":"manual · Nov 24, 4:01 PM","sum":"Printing — action5收纳盒.3mf · 17% · Layer 10/165 · 5h 53min left · ETA 9:53 PM"},{"meta":"manual · Nov 24, 3:58 PM","sum":"Printing — action5收纳盒.3mf · 16% · Layer 9/165 · 5h 55min left · ETA 9:53 PM"},{"meta":"manual · Nov 24, 3:57 PM","sum":"Printing — action5收纳盒.3mf · 16% · Layer 9/165 · 5h 57min left · ETA 9:54 PM"},{"meta":"manual · Nov 24, 3:55 PM","sum":"Printing — action5收纳盒.3mf · 15% · Layer 9/165 · 5h 59min left · ETA 9:54 PM"},{"meta":"manual · Nov 24, 3:53 PM","sum":"Printing — action5收纳盒.3mf · 15% · Layer 9/165 · 6h 0min left · ETA 9:53 PM"},{"meta":"manual · Nov 24, 3:52 PM","sum":"Printing — action5收纳盒.3mf · 15% · Layer 8/165 · 6h 1min left · ETA 9:53 PM"},{"meta":"manual · Nov 24, 3:50 PM","sum":"Printing — action5收纳盒.3mf · 14% · Layer 8/165 · 6h 4min left · ETA 9:54 PM"}],"nozzleTarget":225,"nozzleTemp":225,"progressPercent":17,"queue":[{"file":"action5收纳盒.3mf","meta":"","notes":"","pill":"printing","thumb":null,"title":"action5收纳盒"}],"remainingMinutes":351,"state":"printing","stateLabel":"Printing","stats":{"filamentUsed":"—","finished":15,"inQueue":1},"title":"action5收纳盒","upNext":null,"updatedAt":"2026-11-24T16:03:25-06:00","updatedLabel":"Nov 24, 4:03 PM"}
+{
+  "bedTarget": 75,
+  "bedTemp": 75,
+  "cameraLabel": "Tue, Nov 24, 2026 at 4:17 PM CT",
+  "cameraUpdatedAt": "2026-11-24T16:17:11-06:00",
+  "currentFile": "action5收纳盒.3mf",
+  "estimatedFinish": "9:53 PM",
+  "fanPercent": null,
+  "filaments": [
+    {
+      "colorHex": "#000000",
+      "colorName": "Black",
+      "material": "PLA",
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+      "remainingPercent": null,
+      "slot": "External Spool"
+    }
+  ],
+  "history": [
+    {
+      "file": "CARD_PIP.3mf",
+      "meta": "Finished Nov 24, 2:16 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "CARD_PIP"
+    },
+    {
+      "file": "MatchBox_2Compartment_-_Version_2.3mf",
+      "meta": "Finished Nov 23, 10:54 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment_-_Version_2"
+    },
+    {
+      "file": "SPINRING(2).3mf",
+      "meta": "Finished Nov 23, 6:40 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING(2)"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
+      "meta": "Finished Nov 23, 6:05 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
+      "meta": "Finished Nov 23, 3:09 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
+      "meta": "Finished Nov 22, 11:03 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
+      "meta": "Finished Nov 22, 1:16 AM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+    },
+    {
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING"
+    },
+    {
+      "file": "Ring_Size 11.3mf",
+      "meta": "Finished Nov 16, 2:44 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Ring_Size 11"
+    },
+    {
+      "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
+      "meta": "Finished Nov 16, 2:11 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+    },
+    {
+      "file": "MatchBox_2Compartment+-+Version+4.3mf",
+      "meta": "Finished Nov 16, 12:57 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment+-+Version+4"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Airpods_5_case"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Cigar Case 23mm x 150mm"
+    }
+  ],
+  "layerCurrent": 14,
+  "layerTotal": 165,
+  "log": [
+    {
+      "meta": "manual · Nov 24, 4:18 PM",
+      "sum": "Printing — action5收纳盒.3mf · 21% · Layer 14/165 · 5h 36min left · ETA 9:53 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:16 PM",
+      "sum": "Printing — action5收纳盒.3mf · 20% · Layer 14/165 · 5h 38min left · ETA 9:53 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:15 PM",
+      "sum": "Printing — action5收纳盒.3mf · 20% · Layer 13/165 · 5h 39min left · ETA 9:53 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:13 PM",
+      "sum": "Printing — action5收纳盒.3mf · 19% · Layer 12/165 · 5h 41min left · ETA 9:53 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:11 PM",
+      "sum": "Printing — action5收纳盒.3mf · 19% · Layer 11/165 · 5h 43min left · ETA 9:53 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:09 PM",
+      "sum": "Printing — action5收纳盒.3mf · 19% · Layer 11/165 · 5h 45min left · ETA 9:54 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:07 PM",
+      "sum": "Printing — action5收纳盒.3mf · 18% · Layer 10/165 · 5h 47min left · ETA 9:54 PM"
+    },
+    {
+      "meta": "manual · Nov 24, 4:03 PM",
+      "sum": "Printing — action5收纳盒.3mf · 17% · Layer 10/165 · 5h 51min left · ETA 9:53 PM"
+    }
+  ],
+  "nozzleTarget": 225,
+  "nozzleTemp": 225,
+  "progressPercent": 21,
+  "queue": [
+    {
+      "file": "action5收纳盒.3mf",
+      "meta": "",
+      "notes": "",
+      "pill": "printing",
+      "thumb": null,
+      "title": "action5收纳盒"
+    }
+  ],
+  "remainingMinutes": 336,
+  "state": "printing",
+  "stateLabel": "Printing",
+  "stats": {
+    "filamentUsed": "—",
+    "finished": 15,
+    "inQueue": 1
+  },
+  "title": "action5收纳盒",
+  "upNext": null,
+  "updatedAt": "2026-11-24T16:19:27-06:00",
+  "updatedLabel": "Nov 24, 4:19 PM"
+}
