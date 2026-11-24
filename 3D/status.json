@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T06:48:30-06:00",
-  "updatedLabel": "Nov 24, 6:48 AM",
+  "updatedAt": "2026-11-24T07:08:11-06:00",
+  "updatedLabel": "Nov 24, 7:08 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "MatchBox_2Compartment_-_Version_2",
@@ -9,14 +9,14 @@
   "layerCurrent": 319,
   "layerTotal": 319,
   "remainingMinutes": 0,
-  "estimatedFinish": "6:48 AM",
+  "estimatedFinish": "7:05 AM",
   "nozzleTemp": 23,
   "nozzleTarget": 0,
-  "bedTemp": 23,
+  "bedTemp": 24,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-24T06:46:41-06:00",
-  "cameraLabel": "Tue, Nov 24, 2026 at 6:46 AM CT",
+  "cameraUpdatedAt": "2026-11-24T07:02:19-06:00",
+  "cameraLabel": "Tue, Nov 24, 2026 at 7:02 AM CT",
   "queue": [
     {
       "title": "MatchBox_2Compartment_-_Version_2",
@@ -159,36 +159,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 7:05 AM",
+      "meta": "manual · Nov 24, 7:05 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:59 AM",
+      "meta": "manual · Nov 24, 7:00 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:57 AM",
+      "meta": "manual · Nov 24, 6:58 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:56 AM",
+      "meta": "manual · Nov 24, 6:56 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:54 AM",
+      "meta": "manual · Nov 24, 6:54 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:53 AM",
+      "meta": "manual · Nov 24, 6:53 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:51 AM",
+      "meta": "manual · Nov 24, 6:51 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:46 AM",
       "meta": "manual · Nov 24, 6:46 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:44 AM",
-      "meta": "manual · Nov 24, 6:45 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:43 AM",
-      "meta": "manual · Nov 24, 6:43 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:41 AM",
-      "meta": "manual · Nov 24, 6:41 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:40 AM",
-      "meta": "manual · Nov 24, 6:40 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:38 AM",
-      "meta": "manual · Nov 24, 6:39 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:37 AM",
-      "meta": "manual · Nov 24, 6:37 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 319/319 · — · ETA 6:35 AM",
-      "meta": "manual · Nov 24, 6:35 AM"
     }
   ]
 }
