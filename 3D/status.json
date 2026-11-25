@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-24T20:44:17-06:00",
-  "updatedLabel": "Nov 24, 8:44 PM",
+  "updatedAt": "2026-11-24T21:01:08-06:00",
+  "updatedLabel": "Nov 24, 9:01 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "action5收纳盒",
   "currentFile": "action5收纳盒.3mf",
-  "progressPercent": 60,
-  "layerCurrent": 94,
+  "progressPercent": 64,
+  "layerCurrent": 101,
   "layerTotal": 165,
-  "remainingMinutes": 166,
+  "remainingMinutes": 150,
   "estimatedFinish": "11:29 PM",
   "nozzleTemp": 225,
   "nozzleTarget": 225,
   "bedTemp": 75,
   "bedTarget": 75,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-24T20:43:13-06:00",
-  "cameraLabel": "Tue, Nov 24, 2026 at 8:43 PM CT",
+  "cameraUpdatedAt": "2026-11-24T20:58:38-06:00",
+  "cameraLabel": "Tue, Nov 24, 2026 at 8:58 PM CT",
   "queue": [
     {
       "title": "action5收纳盒",
@@ -167,36 +167,36 @@
   ],
   "log": [
     {
+      "sum": "Printing — action5收纳盒.3mf · 64% · Layer 101/165 · 2h 30min left · ETA 11:29 PM",
+      "meta": "manual · Nov 24, 8:59 PM"
+    },
+    {
+      "sum": "Printing — action5收纳盒.3mf · 64% · Layer 100/165 · 2h 32min left · ETA 11:28 PM",
+      "meta": "manual · Nov 24, 8:57 PM"
+    },
+    {
+      "sum": "Printing — action5收纳盒.3mf · 63% · Layer 99/165 · 2h 35min left · ETA 11:29 PM",
+      "meta": "manual · Nov 24, 8:54 PM"
+    },
+    {
+      "sum": "Printing — action5收纳盒.3mf · 63% · Layer 98/165 · 2h 37min left · ETA 11:29 PM",
+      "meta": "manual · Nov 24, 8:52 PM"
+    },
+    {
+      "sum": "Printing — action5收纳盒.3mf · 62% · Layer 98/165 · 2h 38min left · ETA 11:29 PM",
+      "meta": "manual · Nov 24, 8:51 PM"
+    },
+    {
+      "sum": "Printing — action5收纳盒.3mf · 62% · Layer 97/165 · 2h 40min left · ETA 11:29 PM",
+      "meta": "manual · Nov 24, 8:49 PM"
+    },
+    {
       "sum": "Printing — action5收纳盒.3mf · 60% · Layer 94/165 · 2h 46min left · ETA 11:29 PM",
       "meta": "manual · Nov 24, 8:43 PM"
     },
     {
       "sum": "Printing — action5收纳盒.3mf · 60% · Layer 93/165 · 2h 48min left · ETA 11:29 PM",
       "meta": "manual · Nov 24, 8:41 PM"
-    },
-    {
-      "sum": "Printing — action5收纳盒.3mf · 59% · Layer 92/165 · 2h 50min left · ETA 11:29 PM",
-      "meta": "manual · Nov 24, 8:39 PM"
-    },
-    {
-      "sum": "Printing — action5收纳盒.3mf · 59% · Layer 91/165 · 2h 52min left · ETA 11:29 PM",
-      "meta": "manual · Nov 24, 8:37 PM"
-    },
-    {
-      "sum": "Printing — action5收纳盒.3mf · 59% · Layer 90/165 · 2h 54min left · ETA 11:29 PM",
-      "meta": "manual · Nov 24, 8:35 PM"
-    },
-    {
-      "sum": "Print paused — action5收纳盒 at 58%, layer 90/165, on Nov 24 at 8:29 PM CT (bridge paused event, print_error 0).",
-      "meta": "note · Nov 24, 8:33 PM"
-    },
-    {
-      "sum": "Paused — action5收纳盒.3mf · 58% · Layer 90/165 · 2h 55min left · ETA 11:27 PM",
-      "meta": "manual · Nov 24, 8:33 PM"
-    },
-    {
-      "sum": "Printing — action5收纳盒.3mf · 58% · Layer 90/165 · 2h 56min left · ETA 11:23 PM",
-      "meta": "manual · Nov 24, 8:28 PM"
     }
   ]
 }
