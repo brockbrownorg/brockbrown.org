@@ -1,35 +1,26 @@
 {
-  "updatedAt": "2026-11-25T17:36:05-06:00",
-  "updatedLabel": "Nov 25, 5:36 PM",
-  "state": "error",
-  "stateLabel": "Error",
-  "title": "零件盒H18mm(2)",
+  "updatedAt": "2026-11-25T17:51:10-06:00",
+  "updatedLabel": "Nov 25, 5:51 PM",
+  "state": "idle",
+  "stateLabel": "Idle",
+  "title": "",
   "currentFile": "",
   "progressPercent": 0,
-  "layerCurrent": 1,
-  "layerTotal": 2,
-  "remainingMinutes": 2,
-  "estimatedFinish": "5:37 PM",
-  "nozzleTemp": 33,
+  "layerCurrent": 0,
+  "layerTotal": 0,
+  "remainingMinutes": 0,
+  "estimatedFinish": "5:50 PM",
+  "nozzleTemp": 23,
   "nozzleTarget": 0,
-  "bedTemp": 61,
+  "bedTemp": 24,
   "bedTarget": 0,
   "fanPercent": null,
   "cameraUpdatedAt": "2026-11-25T14:54:55-06:00",
   "cameraLabel": "Wed, Nov 25, 2026 at 2:54 PM CT",
-  "queue": [
-    {
-      "title": "零件盒H18mm(2)",
-      "file": "",
-      "meta": "",
-      "notes": "",
-      "thumb": null,
-      "pill": "error"
-    }
-  ],
+  "queue": [],
   "upNext": null,
   "stats": {
-    "inQueue": 1,
+    "inQueue": 0,
     "finished": 17,
     "filamentUsed": "—"
   },
@@ -183,36 +174,36 @@
   ],
   "log": [
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 5:37 PM",
-      "meta": "manual · Nov 25, 5:36 PM"
+      "sum": "Idle · 0% · — · ETA 5:50 PM",
+      "meta": "manual · Nov 25, 5:50 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:10 PM",
-      "meta": "manual · Nov 25, 3:08 PM"
+      "sum": "Idle · 0% · — · ETA 5:48 PM",
+      "meta": "manual · Nov 25, 5:48 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:09 PM",
-      "meta": "manual · Nov 25, 3:07 PM"
+      "sum": "Idle · 0% · — · ETA 5:47 PM",
+      "meta": "manual · Nov 25, 5:47 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:08 PM",
-      "meta": "manual · Nov 25, 3:06 PM"
+      "sum": "Idle · 0% · — · ETA 5:46 PM",
+      "meta": "manual · Nov 25, 5:46 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:07 PM",
-      "meta": "manual · Nov 25, 3:05 PM"
+      "sum": "Idle · 0% · — · ETA 5:45 PM",
+      "meta": "manual · Nov 25, 5:45 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:06 PM",
-      "meta": "manual · Nov 25, 3:04 PM"
+      "sum": "Idle · 0% · — · ETA 5:44 PM",
+      "meta": "manual · Nov 25, 5:44 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:04 PM",
-      "meta": "manual · Nov 25, 3:02 PM"
+      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 5:44 PM",
+      "meta": "manual · Nov 25, 5:43 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:03 PM",
-      "meta": "manual · Nov 25, 3:01 PM"
+      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 5:43 PM",
+      "meta": "manual · Nov 25, 5:41 PM"
     }
   ]
 }
