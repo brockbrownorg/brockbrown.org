@@ -1,39 +1,47 @@
 {
-  "updatedAt": "2026-11-25T12:21:33.644229-06:00",
-  "updatedLabel": "Nov 25, 12:21 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-25T12:37:31-06:00",
+  "updatedLabel": "Nov 25, 12:37 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "零件盒H18mm(2)",
-  "currentFile": "零件盒H18mm(2).3mf",
-  "progressPercent": 95,
-  "layerCurrent": 88,
+  "currentFile": "",
+  "progressPercent": 100,
+  "layerCurrent": 90,
   "layerTotal": 90,
-  "remainingMinutes": 4,
-  "estimatedFinish": "12:24 PM",
-  "nozzleTemp": 225,
-  "nozzleTarget": 225,
-  "bedTemp": 75,
-  "bedTarget": 75,
+  "remainingMinutes": 0,
+  "estimatedFinish": "12:35 PM",
+  "nozzleTemp": 43,
+  "nozzleTarget": 0,
+  "bedTemp": 46,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-25T12:20:00-06:00",
-  "cameraLabel": "Wed, Nov 25, 2026 at 12:20 PM CT",
+  "cameraUpdatedAt": "2026-11-25T12:34:38-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 12:34 PM CT",
   "queue": [
     {
       "title": "零件盒H18mm(2)",
-      "file": "零件盒H18mm(2).3mf",
+      "file": "",
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 15,
+    "finished": 16,
     "filamentUsed": "—"
   },
   "history": [
+    {
+      "title": "零件盒H18mm(2)",
+      "file": "零件盒H18mm(2).3mf",
+      "meta": "Finished Nov 25, 12:25 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
     {
       "title": "CARD_PIP",
       "file": "CARD_PIP.3mf",
@@ -167,36 +175,36 @@
   ],
   "log": [
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 95% · Layer 88/90 · 4 min left · ETA 12:24 PM",
-      "meta": "manual · Nov 25, 12:20 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:35 PM",
+      "meta": "manual · Nov 25, 12:35 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 94% · Layer 86/90 · 6 min left · ETA 12:24 PM",
-      "meta": "manual · Nov 25, 12:18 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:33 PM",
+      "meta": "manual · Nov 25, 12:33 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 91% · Layer 83/90 · 8 min left · ETA 12:24 PM",
-      "meta": "manual · Nov 25, 12:16 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:32 PM",
+      "meta": "manual · Nov 25, 12:32 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 88% · Layer 80/90 · 10 min left · ETA 12:24 PM",
-      "meta": "manual · Nov 25, 12:15 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:31 PM",
+      "meta": "manual · Nov 25, 12:31 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 86% · Layer 78/90 · 12 min left · ETA 12:25 PM",
-      "meta": "manual · Nov 25, 12:13 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:28 PM",
+      "meta": "manual · Nov 25, 12:29 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 84% · Layer 74/90 · 16 min left · ETA 12:27 PM",
-      "meta": "manual · Nov 25, 12:11 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:27 PM",
+      "meta": "manual · Nov 25, 12:27 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 75% · Layer 62/90 · 24 min left · ETA 12:28 PM",
-      "meta": "manual · Nov 25, 12:05 PM"
+      "sum": "Print finished — 零件盒H18mm(2) finished Nov 25 at 12:23 PM CT (bridge finished event, 100%, layer 90/90, print_error 0, gcode_state FINISH).",
+      "meta": "note · Nov 25, 12:25 PM"
     },
     {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 72% · Layer 58/90 · 28 min left · ETA 12:30 PM",
-      "meta": "manual · Nov 25, 12:03 PM"
+      "sum": "Finished · 100% · Layer 90/90 · — · ETA 12:25 PM",
+      "meta": "manual · Nov 25, 12:25 PM"
     }
   ]
 }
