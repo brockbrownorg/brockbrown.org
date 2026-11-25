@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T13:49:11-06:00",
-  "updatedLabel": "Nov 25, 1:49 PM",
+  "updatedAt": "2026-11-25T14:05:10-06:00",
+  "updatedLabel": "Nov 25, 2:05 PM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "零件盒H18mm(2)",
@@ -9,14 +9,14 @@
   "layerCurrent": 146,
   "layerTotal": 146,
   "remainingMinutes": 0,
-  "estimatedFinish": "1:44 PM",
-  "nozzleTemp": 101,
+  "estimatedFinish": "2:02 PM",
+  "nozzleTemp": 35,
   "nozzleTarget": 0,
-  "bedTemp": 60,
-  "bedTarget": 0,
+  "bedTemp": 80,
+  "bedTarget": 80,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-25T13:43:56-06:00",
-  "cameraLabel": "Wed, Nov 25, 2026 at 1:43 PM CT",
+  "cameraUpdatedAt": "2026-11-25T14:03:01-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 2:03 PM CT",
   "queue": [
     {
       "title": "零件盒H18mm(2)",
@@ -183,6 +183,26 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 146/146 · — · ETA 2:02 PM",
+      "meta": "manual · Nov 25, 2:03 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 146/146 · — · ETA 2:00 PM",
+      "meta": "manual · Nov 25, 2:00 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 146/146 · — · ETA 1:58 PM",
+      "meta": "manual · Nov 25, 1:58 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 146/146 · — · ETA 1:55 PM",
+      "meta": "manual · Nov 25, 1:56 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 146/146 · — · ETA 1:53 PM",
+      "meta": "manual · Nov 25, 1:53 PM"
+    },
+    {
       "sum": "Finished · 100% · Layer 146/146 · — · ETA 1:44 PM",
       "meta": "manual · Nov 25, 1:45 PM"
     },
@@ -193,26 +213,6 @@
     {
       "sum": "Finished · 100% · Layer 146/146 · — · ETA 1:41 PM",
       "meta": "manual · Nov 25, 1:42 PM"
-    },
-    {
-      "sum": "Paused — 零件盒H18mm(2).3mf · 95% · Layer 144/146 · 2 min left · ETA 1:40 PM",
-      "meta": "manual · Nov 25, 1:39 PM"
-    },
-    {
-      "sum": "Print paused with error — 零件盒H18mm(2) paused Nov 25 at 1:33 PM CT at 95%, layer 144/146, print_error 134184977, HMS present (bridge paused event).",
-      "meta": "note · Nov 25, 1:36 PM"
-    },
-    {
-      "sum": "Paused — 零件盒H18mm(2).3mf · 95% · Layer 144/146 · 2 min left · ETA 1:37 PM",
-      "meta": "manual · Nov 25, 1:35 PM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 93% · Layer 142/146 · 3 min left · ETA 1:36 PM",
-      "meta": "manual · Nov 25, 1:33 PM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 82% · Layer 134/146 · 16 min left · ETA 1:42 PM",
-      "meta": "manual · Nov 25, 1:27 PM"
     }
   ]
 }
