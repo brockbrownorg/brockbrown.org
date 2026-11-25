@@ -1,1 +1,210 @@
-{"bedTarget":75,"bedTemp":75,"cameraLabel":"Wed, Nov 25, 2026 at 12:53 PM CT","cameraUpdatedAt":"2026-11-25T12:53:23-06:00","currentFile":"零件盒H18mm(2).3mf","estimatedFinish":"1:56 PM","fanPercent":null,"filaments":[{"colorHex":"#000000","colorName":"Black","material":"PLA","notes":"Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.","remainingPercent":null,"slot":"External Spool"}],"history":[{"file":"零件盒H18mm(2).3mf","meta":"Finished Nov 25, 12:25 PM","notes":"","pill":"done","thumb":null,"title":"零件盒H18mm(2)"},{"file":"CARD_PIP.3mf","meta":"Finished Nov 24, 2:16 PM","notes":"","pill":"done","thumb":null,"title":"CARD_PIP"},{"file":"MatchBox_2Compartment_-_Version_2.3mf","meta":"Finished Nov 23, 10:54 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment_-_Version_2"},{"file":"SPINRING(2).3mf","meta":"Finished Nov 23, 6:40 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING(2)"},{"file":"Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf","meta":"Finished Nov 23, 6:05 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_insert labels no AMS"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf","meta":"Finished Nov 23, 3:09 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf","meta":"Finished Nov 22, 11:03 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf","meta":"Finished Nov 22, 1:16 AM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"},{"file":"SPINRING.3mf","meta":"Finished Nov 16, 3:24 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING"},{"file":"Ring_Size 11.3mf","meta":"Finished Nov 16, 2:44 PM","notes":"","pill":"done","thumb":null,"title":"Ring_Size 11"},{"file":"Fidget-Ring_21,3mm Innendurchmesser.3mf","meta":"Finished Nov 16, 2:11 PM","notes":"","pill":"done","thumb":null,"title":"Fidget-Ring_21,3mm Innendurchmesser"},{"file":"MatchBox_2Compartment+-+Version+4.3mf","meta":"Finished Nov 16, 12:57 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment+-+Version+4"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 15, 11:50 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"Airpods_5_case.3mf","meta":"Finished Nov 14, 10:24 PM","notes":"","pill":"done","thumb":null,"title":"Airpods_5_case"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 13, 5:38 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"CigCase_150x23_Cigar Case 23mm x 150mm.3mf","meta":"Finished Nov 12, 11:07 PM","notes":"Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.","pill":"done","thumb":null,"title":"Cigar Case 23mm x 150mm"}],"layerCurrent":29,"layerTotal":146,"log":[{"meta":"manual · Nov 25, 12:54 PM","sum":"Printing — 零件盒H18mm(2).3mf · 34% · Layer 29/146 · 1h 2min left · ETA 1:56 PM"},{"meta":"manual · Nov 25, 12:52 PM","sum":"Printing — 零件盒H18mm(2).3mf · 30% · Layer 19/146 · 1h 6min left · ETA 1:57 PM"},{"meta":"manual · Nov 25, 12:50 PM","sum":"Printing — 零件盒H18mm(2).3mf · 27% · Layer 14/146 · 1h 10min left · ETA 1:59 PM"},{"meta":"manual · Nov 25, 12:49 PM","sum":"Printing — 零件盒H18mm(2).3mf · 25% · Layer 12/146 · 1h 12min left · ETA 2:00 PM"},{"meta":"manual · Nov 25, 12:46 PM","sum":"Printing — 零件盒H18mm(2).3mf · 22% · Layer 7/146 · 1h 14min left · ETA 2:00 PM"},{"meta":"manual · Nov 25, 12:44 PM","sum":"Printing — 零件盒H18mm(2).3mf · 19% · Layer 4/146 · 1h 18min left · ETA 2:02 PM"},{"meta":"manual · Nov 25, 12:42 PM","sum":"Printing — 零件盒H18mm(2).3mf · 17% · Layer 1/146 · 1h 20min left · ETA 2:02 PM"},{"meta":"note · Nov 25, 12:40 PM","sum":"Print started — 零件盒H18mm(2) started Nov 25 at 12:35 PM CT (bridge started event, 0%, layer 0/146, print_error 0); now printing at 13%, layer 1/146."}],"nozzleTarget":225,"nozzleTemp":225,"progressPercent":34,"queue":[{"file":"零件盒H18mm(2).3mf","meta":"","notes":"","pill":"printing","thumb":null,"title":"零件盒H18mm(2)"}],"remainingMinutes":62,"state":"printing","stateLabel":"Printing","stats":{"filamentUsed":"—","finished":16,"inQueue":1},"title":"零件盒H18mm(2)","upNext":null,"updatedAt":"2026-11-25T12:55:40-06:00","updatedLabel":"Nov 25, 12:55 PM"}
+{
+  "updatedAt": "2026-11-25T13:12:04-06:00",
+  "updatedLabel": "Nov 25, 1:12 PM",
+  "state": "printing",
+  "stateLabel": "Printing",
+  "title": "零件盒H18mm(2)",
+  "currentFile": "零件盒H18mm(2).3mf",
+  "progressPercent": 59,
+  "layerCurrent": 92,
+  "layerTotal": 146,
+  "remainingMinutes": 38,
+  "estimatedFinish": "1:48 PM",
+  "nozzleTemp": 225,
+  "nozzleTarget": 225,
+  "bedTemp": 75,
+  "bedTarget": 75,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-25T13:10:12-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 1:10 PM CT",
+  "queue": [
+    {
+      "title": "零件盒H18mm(2)",
+      "file": "零件盒H18mm(2).3mf",
+      "meta": "",
+      "notes": "",
+      "thumb": null,
+      "pill": "printing"
+    }
+  ],
+  "upNext": null,
+  "stats": {
+    "inQueue": 1,
+    "finished": 16,
+    "filamentUsed": "—"
+  },
+  "history": [
+    {
+      "file": "零件盒H18mm(2).3mf",
+      "meta": "Finished Nov 25, 12:25 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "零件盒H18mm(2)"
+    },
+    {
+      "file": "CARD_PIP.3mf",
+      "meta": "Finished Nov 24, 2:16 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "CARD_PIP"
+    },
+    {
+      "file": "MatchBox_2Compartment_-_Version_2.3mf",
+      "meta": "Finished Nov 23, 10:54 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment_-_Version_2"
+    },
+    {
+      "file": "SPINRING(2).3mf",
+      "meta": "Finished Nov 23, 6:40 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING(2)"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
+      "meta": "Finished Nov 23, 6:05 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
+      "meta": "Finished Nov 23, 3:09 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
+      "meta": "Finished Nov 22, 11:03 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
+      "meta": "Finished Nov 22, 1:16 AM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+    },
+    {
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING"
+    },
+    {
+      "file": "Ring_Size 11.3mf",
+      "meta": "Finished Nov 16, 2:44 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Ring_Size 11"
+    },
+    {
+      "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
+      "meta": "Finished Nov 16, 2:11 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+    },
+    {
+      "file": "MatchBox_2Compartment+-+Version+4.3mf",
+      "meta": "Finished Nov 16, 12:57 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment+-+Version+4"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Airpods_5_case"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "pill": "done",
+      "thumb": null,
+      "title": "Cigar Case 23mm x 150mm"
+    }
+  ],
+  "filaments": [
+    {
+      "colorHex": "#000000",
+      "colorName": "Black",
+      "material": "PLA",
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+      "remainingPercent": null,
+      "slot": "External Spool"
+    }
+  ],
+  "log": [
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 59% · Layer 92/146 · 38 min left · ETA 1:48 PM",
+      "meta": "manual · Nov 25, 1:10 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 57% · Layer 87/146 · 40 min left · ETA 1:48 PM",
+      "meta": "manual · Nov 25, 1:09 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 53% · Layer 79/146 · 44 min left · ETA 1:50 PM",
+      "meta": "manual · Nov 25, 1:07 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 48% · Layer 67/146 · 48 min left · ETA 1:51 PM",
+      "meta": "manual · Nov 25, 1:04 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 44% · Layer 57/146 · 52 min left · ETA 1:52 PM",
+      "meta": "manual · Nov 25, 1:01 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 34% · Layer 29/146 · 1h 2min left · ETA 1:56 PM",
+      "meta": "manual · Nov 25, 12:54 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 30% · Layer 19/146 · 1h 6min left · ETA 1:57 PM",
+      "meta": "manual · Nov 25, 12:52 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 27% · Layer 14/146 · 1h 10min left · ETA 1:59 PM",
+      "meta": "manual · Nov 25, 12:50 PM"
+    }
+  ]
+}
