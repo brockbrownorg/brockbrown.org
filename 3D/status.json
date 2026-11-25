@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-25T12:06:27.176720-06:00",
-  "updatedLabel": "Nov 25, 12:06 PM",
+  "updatedAt": "2026-11-25T12:21:33.644229-06:00",
+  "updatedLabel": "Nov 25, 12:21 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "零件盒H18mm(2)",
   "currentFile": "零件盒H18mm(2).3mf",
-  "progressPercent": 75,
-  "layerCurrent": 62,
+  "progressPercent": 95,
+  "layerCurrent": 88,
   "layerTotal": 90,
-  "remainingMinutes": 24,
-  "estimatedFinish": "12:28 PM",
+  "remainingMinutes": 4,
+  "estimatedFinish": "12:24 PM",
   "nozzleTemp": 225,
   "nozzleTarget": 225,
   "bedTemp": 75,
   "bedTarget": 75,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-25T12:04:23-06:00",
-  "cameraLabel": "Wed, Nov 25, 2026 at 12:04 PM CT",
+  "cameraUpdatedAt": "2026-11-25T12:20:00-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 12:20 PM CT",
   "queue": [
     {
       "title": "零件盒H18mm(2)",
@@ -167,36 +167,36 @@
   ],
   "log": [
     {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 95% · Layer 88/90 · 4 min left · ETA 12:24 PM",
+      "meta": "manual · Nov 25, 12:20 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 94% · Layer 86/90 · 6 min left · ETA 12:24 PM",
+      "meta": "manual · Nov 25, 12:18 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 91% · Layer 83/90 · 8 min left · ETA 12:24 PM",
+      "meta": "manual · Nov 25, 12:16 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 88% · Layer 80/90 · 10 min left · ETA 12:24 PM",
+      "meta": "manual · Nov 25, 12:15 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 86% · Layer 78/90 · 12 min left · ETA 12:25 PM",
+      "meta": "manual · Nov 25, 12:13 PM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 84% · Layer 74/90 · 16 min left · ETA 12:27 PM",
+      "meta": "manual · Nov 25, 12:11 PM"
+    },
+    {
       "sum": "Printing — 零件盒H18mm(2).3mf · 75% · Layer 62/90 · 24 min left · ETA 12:28 PM",
       "meta": "manual · Nov 25, 12:05 PM"
     },
     {
       "sum": "Printing — 零件盒H18mm(2).3mf · 72% · Layer 58/90 · 28 min left · ETA 12:30 PM",
       "meta": "manual · Nov 25, 12:03 PM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 69% · Layer 54/90 · 30 min left · ETA 12:30 PM",
-      "meta": "manual · Nov 25, 12:00 PM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 67% · Layer 51/90 · 32 min left · ETA 12:30 PM",
-      "meta": "manual · Nov 25, 11:59 AM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 64% · Layer 47/90 · 36 min left · ETA 12:32 PM",
-      "meta": "manual · Nov 25, 11:57 AM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 63% · Layer 44/90 · 36 min left · ETA 12:31 PM",
-      "meta": "manual · Nov 25, 11:55 AM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 60% · Layer 40/90 · 40 min left · ETA 12:33 PM",
-      "meta": "manual · Nov 25, 11:53 AM"
-    },
-    {
-      "sum": "Printing — 零件盒H18mm(2).3mf · 53% · Layer 30/90 · 48 min left · ETA 12:35 PM",
-      "meta": "manual · Nov 25, 11:48 AM"
     }
   ]
 }
