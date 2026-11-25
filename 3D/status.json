@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T15:09:26-06:00",
-  "updatedLabel": "Nov 25, 3:09 PM",
+  "updatedAt": "2026-11-25T17:36:05-06:00",
+  "updatedLabel": "Nov 25, 5:36 PM",
   "state": "error",
   "stateLabel": "Error",
   "title": "零件盒H18mm(2)",
@@ -9,7 +9,7 @@
   "layerCurrent": 1,
   "layerTotal": 2,
   "remainingMinutes": 2,
-  "estimatedFinish": "3:11 PM",
+  "estimatedFinish": "5:37 PM",
   "nozzleTemp": 33,
   "nozzleTarget": 0,
   "bedTemp": 61,
@@ -183,6 +183,10 @@
   ],
   "log": [
     {
+      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 5:37 PM",
+      "meta": "manual · Nov 25, 5:36 PM"
+    },
+    {
       "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:10 PM",
       "meta": "manual · Nov 25, 3:08 PM"
     },
@@ -209,10 +213,6 @@
     {
       "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:03 PM",
       "meta": "manual · Nov 25, 3:01 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 2 min left · ETA 3:00 PM",
-      "meta": "manual · Nov 25, 2:59 PM"
     }
   ]
 }
