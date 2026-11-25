@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-11-24T22:26:11-06:00",
-  "updatedLabel": "Nov 24, 10:26 PM",
-  "state": "error",
-  "stateLabel": "Error",
-  "title": "action5收纳盒",
-  "currentFile": "action5收纳盒.3mf",
-  "progressPercent": 0,
-  "layerCurrent": 120,
-  "layerTotal": 165,
-  "remainingMinutes": 100,
-  "estimatedFinish": "12:04 AM",
-  "nozzleTemp": 32,
-  "nozzleTarget": 0,
-  "bedTemp": 35,
-  "bedTarget": 0,
+  "updatedAt": "2026-11-25T11:33:35.094774-06:00",
+  "updatedLabel": "Nov 25, 11:33 AM",
+  "state": "printing",
+  "stateLabel": "Printing",
+  "title": "零件盒H18mm(2)",
+  "currentFile": "零件盒H18mm(2).3mf",
+  "progressPercent": 30,
+  "layerCurrent": 6,
+  "layerTotal": 90,
+  "remainingMinutes": 70,
+  "estimatedFinish": "12:40 PM",
+  "nozzleTemp": 225,
+  "nozzleTarget": 225,
+  "bedTemp": 75,
+  "bedTarget": 75,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-24T22:23:44-06:00",
-  "cameraLabel": "Tue, Nov 24, 2026 at 10:23 PM CT",
+  "cameraUpdatedAt": "2026-11-25T11:30:22-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 11:30 AM CT",
   "queue": [
     {
-      "title": "action5收纳盒",
-      "file": "action5收纳盒.3mf",
+      "title": "零件盒H18mm(2)",
+      "file": "零件盒H18mm(2).3mf",
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "error"
+      "pill": "printing"
     }
   ],
   "upNext": null,
@@ -167,36 +167,36 @@
   ],
   "log": [
     {
+      "sum": "Print started — 零件盒H18mm(2) started Nov 25 at 11:10 AM CT (bridge started event, after an earlier attempt failed at 11:05 AM CT with print_error 50348044); now printing at 30%, layer 6/90.",
+      "meta": "note · Nov 25, 11:32 AM"
+    },
+    {
+      "sum": "Printing — 零件盒H18mm(2).3mf · 30% · Layer 6/90 · 1h 10min left · ETA 12:40 PM",
+      "meta": "manual · Nov 25, 11:31 AM"
+    },
+    {
+      "sum": "Daily snapshot — error · 0% · Layer 120/165 · Nozzle 30°C · Bed 33°C · Last updated 10h ago",
+      "meta": "daily_snapshot · Nov 25, 8:06 AM"
+    },
+    {
+      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:14 AM",
+      "meta": "manual · Nov 24, 10:34 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:12 AM",
+      "meta": "manual · Nov 24, 10:32 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:11 AM",
+      "meta": "manual · Nov 24, 10:31 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:09 AM",
+      "meta": "manual · Nov 24, 10:29 PM"
+    },
+    {
       "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:04 AM",
       "meta": "manual · Nov 24, 10:25 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:02 AM",
-      "meta": "manual · Nov 24, 10:23 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:01 AM",
-      "meta": "manual · Nov 24, 10:21 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 12:00 AM",
-      "meta": "manual · Nov 24, 10:20 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 11:57 PM",
-      "meta": "manual · Nov 24, 10:18 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 11:56 PM",
-      "meta": "manual · Nov 24, 10:16 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 11:54 PM",
-      "meta": "manual · Nov 24, 10:14 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 120/165 · 1h 40min left · ETA 11:52 PM",
-      "meta": "manual · Nov 24, 10:12 PM"
     }
   ]
 }
