@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-11-26T10:58:15.753647-06:00",
-    "updatedLabel": "Nov 26, 10:58 AM",
+    "updatedAt": "2026-11-26T11:14:25.491178-06:00",
+    "updatedLabel": "Nov 26, 11:14 AM",
     "state": "error",
     "stateLabel": "Error",
     "title": "Printinplace_BOX",
@@ -9,14 +9,14 @@
     "layerCurrent": 1,
     "layerTotal": 80,
     "remainingMinutes": 134,
-    "estimatedFinish": "1:10 PM",
-    "nozzleTemp": 50,
+    "estimatedFinish": "1:26 PM",
+    "nozzleTemp": 30,
     "nozzleTarget": 0,
-    "bedTemp": 31,
+    "bedTemp": 28,
     "bedTarget": 0,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-26T10:53:11-06:00",
-    "cameraLabel": "Thu, Nov 26, 2026 at 10:53 AM CT",
+    "cameraUpdatedAt": "2026-11-26T11:11:48-06:00",
+    "cameraLabel": "Thu, Nov 26, 2026 at 11:11 AM CT",
     "queue": [
         {
             "title": "Printinplace_BOX",
@@ -191,6 +191,26 @@
     ],
     "log": [
         {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:26 PM",
+            "meta": "manual · Nov 26, 11:12 AM"
+        },
+        {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:23 PM",
+            "meta": "manual · Nov 26, 11:10 AM"
+        },
+        {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:22 PM",
+            "meta": "manual · Nov 26, 11:08 AM"
+        },
+        {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:19 PM",
+            "meta": "manual · Nov 26, 11:06 AM"
+        },
+        {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:17 PM",
+            "meta": "manual · Nov 26, 11:04 AM"
+        },
+        {
             "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:10 PM",
             "meta": "manual · Nov 26, 10:57 AM"
         },
@@ -201,26 +221,6 @@
         {
             "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:05 PM",
             "meta": "manual · Nov 26, 10:52 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:03 PM",
-            "meta": "manual · Nov 26, 10:50 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:01 PM",
-            "meta": "manual · Nov 26, 10:48 AM"
-        },
-        {
-            "sum": "Print failed: Printinplace_BOX failed at 10:45 AM CT on Nov 26, 2026 at 7%, layer 1 of 80, print_error 50348044 (bridge event). Printer now reports gcode_state FAILED.",
-            "meta": "note · Nov 26, 10:46 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:00 PM",
-            "meta": "manual · Nov 26, 10:46 AM"
-        },
-        {
-            "sum": "Printing — Printinplace_BOX.3mf · 6% · Layer 1/80 · 2h 15min left · ETA 12:59 PM",
-            "meta": "manual · Nov 26, 10:44 AM"
         }
     ]
 }
