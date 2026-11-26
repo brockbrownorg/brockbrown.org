@@ -1,21 +1,38 @@
 {
-    "bedTarget": 0,
-    "bedTemp": 23,
-    "cameraLabel": "Thu, Nov 26, 2026 at 3:58 AM CT",
-    "cameraUpdatedAt": "2026-11-26T03:58:53-06:00",
+    "updatedAt": "2026-11-26T04:15:03.826747-06:00",
+    "updatedLabel": "Nov 26, 4:15 AM",
+    "state": "finished",
+    "stateLabel": "Finished",
+    "title": "小药盒图案单色钥匙扣(2)",
     "currentFile": "",
-    "estimatedFinish": "3:58 AM",
+    "progressPercent": 100,
+    "layerCurrent": 79,
+    "layerTotal": 79,
+    "remainingMinutes": 0,
+    "estimatedFinish": "4:13 AM",
+    "nozzleTemp": 23,
+    "nozzleTarget": 0,
+    "bedTemp": 23,
+    "bedTarget": 0,
     "fanPercent": null,
-    "filaments": [
+    "cameraUpdatedAt": "2026-11-26T04:13:51-06:00",
+    "cameraLabel": "Thu, Nov 26, 2026 at 4:13 AM CT",
+    "queue": [
         {
-            "colorHex": "#000000",
-            "colorName": "Black",
-            "material": "PLA",
-            "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
-            "remainingPercent": null,
-            "slot": "External Spool"
+            "title": "小药盒图案单色钥匙扣(2)",
+            "file": "",
+            "meta": "",
+            "notes": "",
+            "thumb": null,
+            "pill": "finished"
         }
     ],
+    "upNext": null,
+    "stats": {
+        "inQueue": 1,
+        "finished": 18,
+        "filamentUsed": "—"
+    },
     "history": [
         {
             "file": "小药盒图案单色钥匙扣(2).3mf",
@@ -162,65 +179,48 @@
             "title": "Cigar Case 23mm x 150mm"
         }
     ],
-    "layerCurrent": 79,
-    "layerTotal": 79,
+    "filaments": [
+        {
+            "colorHex": "#000000",
+            "colorName": "Black",
+            "material": "PLA",
+            "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+            "remainingPercent": null,
+            "slot": "External Spool"
+        }
+    ],
     "log": [
         {
-            "meta": "manual · Nov 26, 3:58 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:58 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:13 AM",
+            "meta": "manual · Nov 26, 4:13 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:56 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:56 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:12 AM",
+            "meta": "manual · Nov 26, 4:12 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:54 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:54 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:10 AM",
+            "meta": "manual · Nov 26, 4:10 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:52 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:52 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:09 AM",
+            "meta": "manual · Nov 26, 4:09 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:50 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:50 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:07 AM",
+            "meta": "manual · Nov 26, 4:08 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:49 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:49 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:06 AM",
+            "meta": "manual · Nov 26, 4:06 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:47 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:47 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:04 AM",
+            "meta": "manual · Nov 26, 4:05 AM"
         },
         {
-            "meta": "manual · Nov 26, 3:45 AM",
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:45 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:58 AM",
+            "meta": "manual · Nov 26, 3:58 AM"
         }
-    ],
-    "nozzleTarget": 0,
-    "nozzleTemp": 23,
-    "progressPercent": 100,
-    "queue": [
-        {
-            "file": "",
-            "meta": "",
-            "notes": "",
-            "pill": "finished",
-            "thumb": null,
-            "title": "小药盒图案单色钥匙扣(2)"
-        }
-    ],
-    "remainingMinutes": 0,
-    "state": "finished",
-    "stateLabel": "Finished",
-    "stats": {
-        "filamentUsed": "—",
-        "finished": 18,
-        "inQueue": 1
-    },
-    "title": "小药盒图案单色钥匙扣(2)",
-    "upNext": null,
-    "updatedAt": "2026-11-26T03:58:24-06:00",
-    "updatedLabel": "Nov 26, 3:58 AM"
+    ]
 }
