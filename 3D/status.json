@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-25T18:28:41-06:00",
-  "updatedLabel": "Nov 25, 6:28 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-25T18:44:28-06:00",
+  "updatedLabel": "Nov 25, 6:44 PM",
+  "state": "paused",
+  "stateLabel": "Paused",
   "title": "小药盒图案单色钥匙扣(2)",
   "currentFile": "小药盒图案单色钥匙扣(2).3mf",
-  "progressPercent": 12,
-  "layerCurrent": 0,
+  "progressPercent": 29,
+  "layerCurrent": 7,
   "layerTotal": 79,
-  "remainingMinutes": 42,
-  "estimatedFinish": "7:09 PM",
-  "nozzleTemp": 140,
-  "nozzleTarget": 140,
-  "bedTemp": 75,
+  "remainingMinutes": 68,
+  "estimatedFinish": "7:50 PM",
+  "nozzleTemp": 159,
+  "nozzleTarget": 90,
+  "bedTemp": 35,
   "bedTarget": 35,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-25T18:24:48-06:00",
-  "cameraLabel": "Wed, Nov 25, 2026 at 6:24 PM CT",
+  "cameraUpdatedAt": "2026-11-25T18:41:20-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 6:41 PM CT",
   "queue": [
     {
       "title": "小药盒图案单色钥匙扣(2)",
@@ -24,7 +24,7 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "paused"
     }
   ],
   "upNext": null,
@@ -183,36 +183,36 @@
   ],
   "log": [
     {
+      "sum": "Print paused — 小药盒图案单色钥匙扣(2) paused Nov 25 at 6:41 PM CT (bridge paused event, 29%, layer 7/79, 68 min left, print_error 0); printer gcode_state PAUSE, nozzle 159°C / 90°C, bed 35°C.",
+      "meta": "note · Nov 25, 6:43 PM"
+    },
+    {
+      "sum": "Paused — 小药盒图案单色钥匙扣(2).3mf · 29% · Layer 7/79 · 1h 8min left · ETA 7:50 PM",
+      "meta": "manual · Nov 25, 6:43 PM"
+    },
+    {
+      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 28% · Layer 7/79 · 1h 8min left · ETA 7:49 PM",
+      "meta": "manual · Nov 25, 6:41 PM"
+    },
+    {
+      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 26% · Layer 6/79 · 1h 10min left · ETA 7:49 PM",
+      "meta": "manual · Nov 25, 6:39 PM"
+    },
+    {
+      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 24% · Layer 5/79 · 1h 12min left · ETA 7:49 PM",
+      "meta": "manual · Nov 25, 6:37 PM"
+    },
+    {
+      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 21% · Layer 4/79 · 1h 16min left · ETA 7:51 PM",
+      "meta": "manual · Nov 25, 6:35 PM"
+    },
+    {
+      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 18% · Layer 3/79 · 39 min left · ETA 7:12 PM",
+      "meta": "manual · Nov 25, 6:33 PM"
+    },
+    {
       "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 12% · Layer 0/79 · 42 min left · ETA 7:09 PM",
       "meta": "manual · Nov 25, 6:28 PM"
-    },
-    {
-      "sum": "Print started — 小药盒图案单色钥匙扣(2) restarted Nov 25 at 6:24 PM CT (bridge started event, 0%, layer 0/79, 48 min left, print_error 0); now printing at 12%, layer 0/79, 42 min left. Previous attempt failed at 6:21 PM CT.",
-      "meta": "note · Nov 25, 6:26 PM"
-    },
-    {
-      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 12% · Layer 0/79 · 42 min left · ETA 7:08 PM",
-      "meta": "manual · Nov 25, 6:26 PM"
-    },
-    {
-      "sum": "Print failed — 小药盒图案单色钥匙扣(2) failed Nov 25 at 6:21 PM CT (bridge failed event, 44%, layer 19/79, 26 min left, print_error 50348044); printer gcode_state FAILED, live mc_percent 0, layer 19/79.",
-      "meta": "note · Nov 25, 6:22 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 19/79 · 26 min left · ETA 6:48 PM",
-      "meta": "manual · Nov 25, 6:22 PM"
-    },
-    {
-      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 42% · Layer 17/79 · 28 min left · ETA 6:47 PM",
-      "meta": "manual · Nov 25, 6:20 PM"
-    },
-    {
-      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 40% · Layer 16/79 · 29 min left · ETA 6:47 PM",
-      "meta": "manual · Nov 25, 6:19 PM"
-    },
-    {
-      "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 35% · Layer 12/79 · 31 min left · ETA 6:47 PM",
-      "meta": "manual · Nov 25, 6:17 PM"
     }
   ]
 }
