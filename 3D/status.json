@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-11-26T04:15:03.826747-06:00",
-    "updatedLabel": "Nov 26, 4:15 AM",
+    "updatedAt": "2026-11-26T04:30:30.739383-06:00",
+    "updatedLabel": "Nov 26, 4:30 AM",
     "state": "finished",
     "stateLabel": "Finished",
     "title": "小药盒图案单色钥匙扣(2)",
@@ -9,14 +9,14 @@
     "layerCurrent": 79,
     "layerTotal": 79,
     "remainingMinutes": 0,
-    "estimatedFinish": "4:13 AM",
+    "estimatedFinish": "4:28 AM",
     "nozzleTemp": 23,
     "nozzleTarget": 0,
     "bedTemp": 23,
     "bedTarget": 0,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-26T04:13:51-06:00",
-    "cameraLabel": "Thu, Nov 26, 2026 at 4:13 AM CT",
+    "cameraUpdatedAt": "2026-11-26T04:28:41-06:00",
+    "cameraLabel": "Thu, Nov 26, 2026 at 4:28 AM CT",
     "queue": [
         {
             "title": "小药盒图案单色钥匙扣(2)",
@@ -191,36 +191,36 @@
     ],
     "log": [
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:13 AM",
-            "meta": "manual · Nov 26, 4:13 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:28 AM",
+            "meta": "manual · Nov 26, 4:29 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:12 AM",
-            "meta": "manual · Nov 26, 4:12 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:27 AM",
+            "meta": "manual · Nov 26, 4:27 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:10 AM",
-            "meta": "manual · Nov 26, 4:10 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:25 AM",
+            "meta": "manual · Nov 26, 4:26 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:09 AM",
-            "meta": "manual · Nov 26, 4:09 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:24 AM",
+            "meta": "manual · Nov 26, 4:25 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:07 AM",
-            "meta": "manual · Nov 26, 4:08 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:23 AM",
+            "meta": "manual · Nov 26, 4:23 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:06 AM",
-            "meta": "manual · Nov 26, 4:06 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:21 AM",
+            "meta": "manual · Nov 26, 4:21 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:04 AM",
-            "meta": "manual · Nov 26, 4:05 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:20 AM",
+            "meta": "manual · Nov 26, 4:20 AM"
         },
         {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 3:58 AM",
-            "meta": "manual · Nov 26, 3:58 AM"
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 4:19 AM",
+            "meta": "manual · Nov 26, 4:19 AM"
         }
     ]
 }
