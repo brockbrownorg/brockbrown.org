@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T20:35:50-06:00",
-  "updatedLabel": "Nov 25, 8:35 PM",
+  "updatedAt": "2026-11-25T20:53:19-06:00",
+  "updatedLabel": "Nov 25, 8:53 PM",
   "state": "error",
   "stateLabel": "Error",
   "title": "小药盒图案单色钥匙扣(2)",
@@ -9,14 +9,14 @@
   "layerCurrent": 11,
   "layerTotal": 79,
   "remainingMinutes": 62,
-  "estimatedFinish": "9:36 PM",
-  "nozzleTemp": 25,
+  "estimatedFinish": "9:53 PM",
+  "nozzleTemp": 24,
   "nozzleTarget": 0,
   "bedTemp": 25,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-25T20:32:27-06:00",
-  "cameraLabel": "Wed, Nov 25, 2026 at 8:32 PM CT",
+  "cameraUpdatedAt": "2026-11-25T20:50:51-06:00",
+  "cameraLabel": "Wed, Nov 25, 2026 at 8:50 PM CT",
   "queue": [
     {
       "title": "小药盒图案单色钥匙扣(2)",
@@ -183,36 +183,36 @@
   ],
   "log": [
     {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:53 PM",
+      "meta": "manual · Nov 25, 8:52 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:52 PM",
+      "meta": "manual · Nov 25, 8:50 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:49 PM",
+      "meta": "manual · Nov 25, 8:48 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:47 PM",
+      "meta": "manual · Nov 25, 8:46 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:46 PM",
+      "meta": "manual · Nov 25, 8:44 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:43 PM",
+      "meta": "manual · Nov 25, 8:42 PM"
+    },
+    {
+      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:41 PM",
+      "meta": "manual · Nov 25, 8:39 PM"
+    },
+    {
       "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:36 PM",
       "meta": "manual · Nov 25, 8:34 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:32 PM",
-      "meta": "manual · Nov 25, 8:31 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:29 PM",
-      "meta": "manual · Nov 25, 8:28 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:27 PM",
-      "meta": "manual · Nov 25, 8:26 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:25 PM",
-      "meta": "manual · Nov 25, 8:23 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:18 PM",
-      "meta": "manual · Nov 25, 8:17 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:16 PM",
-      "meta": "manual · Nov 25, 8:15 PM"
-    },
-    {
-      "sum": "Error — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 11/79 · 1h 2min left · ETA 9:14 PM",
-      "meta": "manual · Nov 25, 8:13 PM"
     }
   ]
 }
