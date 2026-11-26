@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T16:59:29-06:00",
-  "updatedLabel": "Nov 26, 4:59 PM",
+  "updatedAt": "2026-11-26T17:17:52-06:00",
+  "updatedLabel": "Nov 26, 5:17 PM",
   "state": "error",
   "stateLabel": "Error",
   "title": "Printinplace_BOX",
@@ -9,14 +9,14 @@
   "layerCurrent": 1,
   "layerTotal": 80,
   "remainingMinutes": 134,
-  "estimatedFinish": "7:11 PM",
+  "estimatedFinish": "7:29 PM",
   "nozzleTemp": 24,
   "nozzleTarget": 0,
   "bedTemp": 24,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-26T16:56:37-06:00",
-  "cameraLabel": "Thu, Nov 26, 2026 at 4:56 PM CT",
+  "cameraUpdatedAt": "2026-11-26T17:15:17-06:00",
+  "cameraLabel": "Thu, Nov 26, 2026 at 5:15 PM CT",
   "queue": [
     {
       "title": "Printinplace_BOX",
@@ -191,6 +191,22 @@
   ],
   "log": [
     {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:29 PM",
+      "meta": "manual · Nov 26, 5:16 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:27 PM",
+      "meta": "manual · Nov 26, 5:14 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:26 PM",
+      "meta": "manual · Nov 26, 5:12 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:20 PM",
+      "meta": "manual · Nov 26, 5:06 PM"
+    },
+    {
       "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:11 PM",
       "meta": "manual · Nov 26, 4:57 PM"
     },
@@ -205,22 +221,6 @@
     {
       "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:03 PM",
       "meta": "manual · Nov 26, 4:50 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 7:01 PM",
-      "meta": "manual · Nov 26, 4:47 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 6:55 PM",
-      "meta": "manual · Nov 26, 4:41 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 6:52 PM",
-      "meta": "manual · Nov 26, 4:39 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 6:49 PM",
-      "meta": "manual · Nov 26, 4:36 PM"
     }
   ]
 }
