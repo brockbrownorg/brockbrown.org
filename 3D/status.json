@@ -1,1 +1,226 @@
-{"bedTarget":0,"bedTemp":28,"cameraLabel":"Wed, Nov 25, 2026 at 11:48 PM CT","cameraUpdatedAt":"2026-11-25T23:48:58-06:00","currentFile":"小药盒图案单色钥匙扣(2).3mf","estimatedFinish":"11:53 PM","fanPercent":null,"filaments":[{"colorHex":"#000000","colorName":"Black","material":"PLA","notes":"Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.","remainingPercent":null,"slot":"External Spool"}],"history":[{"file":"小药盒图案单色钥匙扣(2).3mf","meta":"Finished Nov 25, 10:46 PM","notes":"","pill":"done","thumb":null,"title":"小药盒图案单色钥匙扣(2)"},{"file":"零件盒H18mm(2).3mf","meta":"Finished Nov 25, 1:42 PM","notes":"","pill":"done","thumb":null,"title":"零件盒H18mm(2)"},{"file":"零件盒H18mm(2).3mf","meta":"Finished Nov 25, 12:25 PM","notes":"","pill":"done","thumb":null,"title":"零件盒H18mm(2)"},{"file":"CARD_PIP.3mf","meta":"Finished Nov 24, 2:16 PM","notes":"","pill":"done","thumb":null,"title":"CARD_PIP"},{"file":"MatchBox_2Compartment_-_Version_2.3mf","meta":"Finished Nov 23, 10:54 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment_-_Version_2"},{"file":"SPINRING(2).3mf","meta":"Finished Nov 23, 6:40 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING(2)"},{"file":"Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf","meta":"Finished Nov 23, 6:05 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_insert labels no AMS"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf","meta":"Finished Nov 23, 3:09 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf","meta":"Finished Nov 22, 11:03 PM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"},{"file":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf","meta":"Finished Nov 22, 1:16 AM","notes":"","pill":"done","thumb":null,"title":"Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"},{"file":"SPINRING.3mf","meta":"Finished Nov 16, 3:24 PM","notes":"","pill":"done","thumb":null,"title":"SPINRING"},{"file":"Ring_Size 11.3mf","meta":"Finished Nov 16, 2:44 PM","notes":"","pill":"done","thumb":null,"title":"Ring_Size 11"},{"file":"Fidget-Ring_21,3mm Innendurchmesser.3mf","meta":"Finished Nov 16, 2:11 PM","notes":"","pill":"done","thumb":null,"title":"Fidget-Ring_21,3mm Innendurchmesser"},{"file":"MatchBox_2Compartment+-+Version+4.3mf","meta":"Finished Nov 16, 12:57 PM","notes":"","pill":"done","thumb":null,"title":"MatchBox_2Compartment+-+Version+4"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 15, 11:50 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"Airpods_5_case.3mf","meta":"Finished Nov 14, 10:24 PM","notes":"","pill":"done","thumb":null,"title":"Airpods_5_case"},{"file":"Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf","meta":"Finished Nov 13, 5:38 PM","notes":"","pill":"done","thumb":null,"title":"Rugged Cigar Tube _ Case with Airtight TPU Seal"},{"file":"CigCase_150x23_Cigar Case 23mm x 150mm.3mf","meta":"Finished Nov 12, 11:07 PM","notes":"Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.","pill":"done","thumb":null,"title":"Cigar Case 23mm x 150mm"}],"layerCurrent":79,"layerTotal":79,"log":[{"meta":"manual · Nov 25, 11:52 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:52 PM"},{"meta":"manual · Nov 25, 11:50 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:48 PM"},{"meta":"manual · Nov 25, 11:49 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:48 PM"},{"meta":"manual · Nov 25, 11:47 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:46 PM"},{"meta":"manual · Nov 25, 11:45 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:45 PM"},{"meta":"manual · Nov 25, 11:43 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:43 PM"},{"meta":"manual · Nov 25, 11:42 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:41 PM"},{"meta":"manual · Nov 25, 11:36 PM","sum":"Finished · 100% · Layer 79/79 · — · ETA 11:36 PM"}],"nozzleTarget":0,"nozzleTemp":26,"progressPercent":100,"queue":[{"file":"小药盒图案单色钥匙扣(2).3mf","meta":"","notes":"","pill":"finished","thumb":null,"title":"小药盒图案单色钥匙扣(2)"}],"remainingMinutes":0,"state":"finished","stateLabel":"Finished","stats":{"filamentUsed":"—","finished":18,"inQueue":1},"title":"小药盒图案单色钥匙扣(2)","upNext":null,"updatedAt":"2026-11-25T23:53:15-06:00","updatedLabel":"Nov 25, 11:53 PM"}
+{
+  "updatedAt": "2026-11-26T00:08:41-06:00",
+  "updatedLabel": "Nov 26, 12:08 AM",
+  "state": "finished",
+  "stateLabel": "Finished",
+  "title": "小药盒图案单色钥匙扣(2)",
+  "currentFile": "小药盒图案单色钥匙扣(2).3mf",
+  "progressPercent": 100,
+  "layerCurrent": 79,
+  "layerTotal": 79,
+  "remainingMinutes": 0,
+  "estimatedFinish": "12:08 AM",
+  "nozzleTemp": 25,
+  "nozzleTarget": 0,
+  "bedTemp": 27,
+  "bedTarget": 0,
+  "fanPercent": null,
+  "cameraUpdatedAt": "2026-11-26T00:05:49-06:00",
+  "cameraLabel": "Thu, Nov 26, 2026 at 12:05 AM CT",
+  "queue": [
+    {
+      "title": "小药盒图案单色钥匙扣(2)",
+      "file": "小药盒图案单色钥匙扣(2).3mf",
+      "meta": "",
+      "notes": "",
+      "thumb": null,
+      "pill": "finished"
+    }
+  ],
+  "upNext": null,
+  "stats": {
+    "inQueue": 1,
+    "finished": 18,
+    "filamentUsed": "—"
+  },
+  "history": [
+    {
+      "file": "小药盒图案单色钥匙扣(2).3mf",
+      "meta": "Finished Nov 25, 10:46 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "小药盒图案单色钥匙扣(2)"
+    },
+    {
+      "file": "零件盒H18mm(2).3mf",
+      "meta": "Finished Nov 25, 1:42 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "零件盒H18mm(2)"
+    },
+    {
+      "file": "零件盒H18mm(2).3mf",
+      "meta": "Finished Nov 25, 12:25 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "零件盒H18mm(2)"
+    },
+    {
+      "file": "CARD_PIP.3mf",
+      "meta": "Finished Nov 24, 2:16 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "CARD_PIP"
+    },
+    {
+      "file": "MatchBox_2Compartment_-_Version_2.3mf",
+      "meta": "Finished Nov 23, 10:54 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment_-_Version_2"
+    },
+    {
+      "file": "SPINRING(2).3mf",
+      "meta": "Finished Nov 23, 6:40 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING(2)"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
+      "meta": "Finished Nov 23, 6:05 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
+      "meta": "Finished Nov 23, 3:09 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
+      "meta": "Finished Nov 22, 11:03 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+    },
+    {
+      "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
+      "meta": "Finished Nov 22, 1:16 AM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+    },
+    {
+      "file": "SPINRING.3mf",
+      "meta": "Finished Nov 16, 3:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "SPINRING"
+    },
+    {
+      "file": "Ring_Size 11.3mf",
+      "meta": "Finished Nov 16, 2:44 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Ring_Size 11"
+    },
+    {
+      "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
+      "meta": "Finished Nov 16, 2:11 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+    },
+    {
+      "file": "MatchBox_2Compartment+-+Version+4.3mf",
+      "meta": "Finished Nov 16, 12:57 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "MatchBox_2Compartment+-+Version+4"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 15, 11:50 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "Airpods_5_case.3mf",
+      "meta": "Finished Nov 14, 10:24 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Airpods_5_case"
+    },
+    {
+      "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
+      "meta": "Finished Nov 13, 5:38 PM",
+      "notes": "",
+      "pill": "done",
+      "thumb": null,
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+    },
+    {
+      "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
+      "meta": "Finished Nov 12, 11:07 PM",
+      "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
+      "pill": "done",
+      "thumb": null,
+      "title": "Cigar Case 23mm x 150mm"
+    }
+  ],
+  "filaments": [
+    {
+      "colorHex": "#000000",
+      "colorName": "Black",
+      "material": "PLA",
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+      "remainingPercent": null,
+      "slot": "External Spool"
+    }
+  ],
+  "log": [
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 12:06 AM",
+      "meta": "manual · Nov 26, 12:06 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 12:03 AM",
+      "meta": "manual · Nov 26, 12:04 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 12:01 AM",
+      "meta": "manual · Nov 26, 12:02 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 12:00 AM",
+      "meta": "manual · Nov 26, 12:00 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 11:58 PM",
+      "meta": "manual · Nov 25, 11:58 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 11:56 PM",
+      "meta": "manual · Nov 25, 11:56 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 11:52 PM",
+      "meta": "manual · Nov 25, 11:52 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 79/79 · — · ETA 11:48 PM",
+      "meta": "manual · Nov 25, 11:50 PM"
+    }
+  ]
+}
