@@ -1,30 +1,30 @@
 {
-    "updatedAt": "2026-11-26T09:50:14.019626-06:00",
-    "updatedLabel": "Nov 26, 9:50 AM",
-    "state": "finished",
-    "stateLabel": "Finished",
+    "updatedAt": "2026-11-26T10:08:59.778747-06:00",
+    "updatedLabel": "Nov 26, 10:08 AM",
+    "state": "printing",
+    "stateLabel": "Printing",
     "title": "小药盒图案单色钥匙扣(2)",
-    "currentFile": "",
-    "progressPercent": 100,
-    "layerCurrent": 79,
+    "currentFile": "小药盒图案单色钥匙扣(2).3mf",
+    "progressPercent": 7,
+    "layerCurrent": 0,
     "layerTotal": 79,
-    "remainingMinutes": 0,
-    "estimatedFinish": "9:48 AM",
-    "nozzleTemp": 24,
-    "nozzleTarget": 0,
-    "bedTemp": 24,
-    "bedTarget": 0,
+    "remainingMinutes": 154,
+    "estimatedFinish": "12:40 PM",
+    "nozzleTemp": 140,
+    "nozzleTarget": 140,
+    "bedTemp": 60,
+    "bedTarget": 35,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-26T09:47:56-06:00",
-    "cameraLabel": "Thu, Nov 26, 2026 at 9:47 AM CT",
+    "cameraUpdatedAt": "2026-11-26T10:06:36-06:00",
+    "cameraLabel": "Thu, Nov 26, 2026 at 10:06 AM CT",
     "queue": [
         {
             "title": "小药盒图案单色钥匙扣(2)",
-            "file": "",
+            "file": "小药盒图案单色钥匙扣(2).3mf",
             "meta": "",
             "notes": "",
             "thumb": null,
-            "pill": "finished"
+            "pill": "printing"
         }
     ],
     "upNext": null,
@@ -191,36 +191,36 @@
     ],
     "log": [
         {
+            "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 7% · Layer 0/79 · 2h 34min left · ETA 12:40 PM",
+            "meta": "manual · Nov 26, 10:07 AM"
+        },
+        {
+            "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 7% · Layer 0/79 · 2h 34min left · ETA 12:37 PM",
+            "meta": "manual · Nov 26, 10:04 AM"
+        },
+        {
+            "sum": "Print started: 小药盒图案单色钥匙扣(2) at 9:59 AM CT on Nov 26, 2026 — 0%, layer 0 of 79, about 83 minutes remaining, estimated finish 11:23 AM.",
+            "meta": "note · Nov 26, 10:01 AM"
+        },
+        {
+            "sum": "Printing — 小药盒图案单色钥匙扣(2).3mf · 0% · Layer 0/79 · 1h 23min left · ETA 11:23 AM",
+            "meta": "manual · Nov 26, 10:01 AM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:58 AM",
+            "meta": "manual · Nov 26, 9:59 AM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:56 AM",
+            "meta": "manual · Nov 26, 9:57 AM"
+        },
+        {
+            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:54 AM",
+            "meta": "manual · Nov 26, 9:54 AM"
+        },
+        {
             "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:48 AM",
             "meta": "manual · Nov 26, 9:48 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:46 AM",
-            "meta": "manual · Nov 26, 9:46 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:44 AM",
-            "meta": "manual · Nov 26, 9:44 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:42 AM",
-            "meta": "manual · Nov 26, 9:43 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:40 AM",
-            "meta": "manual · Nov 26, 9:40 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:39 AM",
-            "meta": "manual · Nov 26, 9:39 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:37 AM",
-            "meta": "manual · Nov 26, 9:37 AM"
-        },
-        {
-            "sum": "Finished · 100% · Layer 79/79 · — · ETA 9:31 AM",
-            "meta": "manual · Nov 26, 9:32 AM"
         }
     ]
 }
