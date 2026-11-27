@@ -1,26 +1,26 @@
 {
-    "updatedAt": "2026-11-27T14:03:29-06:00",
-    "updatedLabel": "Nov 27, 2:03 PM",
+    "updatedAt": "2026-11-27T14:19:11-06:00",
+    "updatedLabel": "Nov 27, 2:19 PM",
     "state": "error",
     "stateLabel": "Error",
-    "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
-    "currentFile": "AMS Lite Top Mount for A1 - Stronger, No screws.3mf",
+    "title": "bonsai_mesh",
+    "currentFile": "bonsai_mesh.3mf",
     "progressPercent": 0,
-    "layerCurrent": 108,
-    "layerTotal": 422,
-    "remainingMinutes": 496,
-    "estimatedFinish": "10:14 PM",
-    "nozzleTemp": 35,
+    "layerCurrent": 1,
+    "layerTotal": 2,
+    "remainingMinutes": 5,
+    "estimatedFinish": "2:21 PM",
+    "nozzleTemp": 174,
     "nozzleTarget": 0,
-    "bedTemp": 39,
+    "bedTemp": 35,
     "bedTarget": 0,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-27T14:00:09-06:00",
-    "cameraLabel": "Fri, Nov 27, 2026 at 2:00 PM CT",
+    "cameraUpdatedAt": "2026-11-27T14:15:00-06:00",
+    "cameraLabel": "Fri, Nov 27, 2026 at 2:15 PM CT",
     "queue": [
         {
-            "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
-            "file": "AMS Lite Top Mount for A1 - Stronger, No screws.3mf",
+            "title": "bonsai_mesh",
+            "file": "bonsai_mesh.3mf",
             "meta": "",
             "notes": "",
             "thumb": null,
@@ -191,36 +191,36 @@
     ],
     "log": [
         {
+            "sum": "Print failed — bonsai_mesh failed at 2:15 PM CT on Nov 27, 2026 at 68%, layer 1 of 2, error 50348044 (printing was cancelled). Bridge gcode_state is FAILED.",
+            "meta": "note · Nov 27, 2:17 PM"
+        },
+        {
+            "sum": "Error — bonsai_mesh.3mf · 0% · Layer 1/2 · 5 min left · ETA 2:21 PM",
+            "meta": "manual · Nov 27, 2:17 PM"
+        },
+        {
+            "sum": "Printing — bonsai_mesh.3mf · 61% · Layer 1/2 · 6 min left · ETA 2:20 PM",
+            "meta": "manual · Nov 27, 2:14 PM"
+        },
+        {
+            "sum": "Printing — bonsai_mesh.3mf · 52% · Layer 1/2 · 8 min left · ETA 2:20 PM",
+            "meta": "manual · Nov 27, 2:12 PM"
+        },
+        {
+            "sum": "Print started — bonsai_mesh started at 2:04 PM CT on Nov 27, 2026 (bridge prints.jsonl). Now printing at 37%, layer 1 of 2.",
+            "meta": "note · Nov 27, 2:10 PM"
+        },
+        {
+            "sum": "Printing — bonsai_mesh.3mf · 37% · Layer 1/2 · 11 min left · ETA 2:20 PM",
+            "meta": "manual · Nov 27, 2:10 PM"
+        },
+        {
             "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:14 PM",
             "meta": "manual · Nov 27, 1:59 PM"
         },
         {
             "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:11 PM",
             "meta": "manual · Nov 27, 1:56 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:09 PM",
-            "meta": "manual · Nov 27, 1:54 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:07 PM",
-            "meta": "manual · Nov 27, 1:51 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:04 PM",
-            "meta": "manual · Nov 27, 1:49 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 10:02 PM",
-            "meta": "manual · Nov 27, 1:47 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 9:55 PM",
-            "meta": "manual · Nov 27, 1:40 PM"
-        },
-        {
-            "sum": "Error — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 108/422 · 8h 16min left · ETA 9:52 PM",
-            "meta": "manual · Nov 27, 1:37 PM"
         }
     ]
 }
