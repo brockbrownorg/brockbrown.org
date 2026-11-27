@@ -1,10 +1,10 @@
 {
-  "bedTarget": 80,
-  "bedTemp": 80,
-  "cameraLabel": "Fri, Nov 27, 2026 at 4:13 PM CT",
-  "cameraUpdatedAt": "2026-11-27T16:13:26-06:00",
+  "bedTarget": 85,
+  "bedTemp": 85,
+  "cameraLabel": "Fri, Nov 27, 2026 at 4:29 PM CT",
+  "cameraUpdatedAt": "2026-11-27T16:29:12-06:00",
   "currentFile": "Planter_50,25mm_Bottom.3mf",
-  "estimatedFinish": "8:07 PM",
+  "estimatedFinish": "6:35 PM",
   "fanPercent": null,
   "filaments": [
     {
@@ -162,45 +162,45 @@
       "title": "Cigar Case 23mm x 150mm"
     }
   ],
-  "layerCurrent": 43,
+  "layerCurrent": 53,
   "layerTotal": 197,
   "log": [
     {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 29% · Layer 53/197 · 2h 6min left · ETA 6:35 PM",
+      "meta": "manual · Nov 27, 4:30 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 27% · Layer 52/197 · 2h 9min left · ETA 6:36 PM",
+      "meta": "manual · Nov 27, 4:27 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 25% · Layer 52/197 · 2h 12min left · ETA 6:37 PM",
+      "meta": "manual · Nov 27, 4:25 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 24% · Layer 52/197 · 2h 14min left · ETA 6:37 PM",
+      "meta": "manual · Nov 27, 4:23 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 24% · Layer 52/197 · 3h 0min left · ETA 7:21 PM",
+      "meta": "manual · Nov 27, 4:22 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 23% · Layer 50/197 · 3h 47min left · ETA 8:06 PM",
+      "meta": "manual · Nov 27, 4:20 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 22% · Layer 48/197 · 3h 49min left · ETA 8:06 PM",
+      "meta": "manual · Nov 27, 4:17 PM"
+    },
+    {
       "sum": "Printing — Planter_50,25mm_Bottom.3mf · 21% · Layer 43/197 · 3h 54min left · ETA 8:07 PM",
       "meta": "manual · Nov 27, 4:13 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 20% · Layer 40/197 · 3h 56min left · ETA 8:07 PM",
-      "meta": "manual · Nov 27, 4:11 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 19% · Layer 38/197 · 3h 58min left · ETA 8:06 PM",
-      "meta": "manual · Nov 27, 4:09 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 18% · Layer 35/197 · 4h 1min left · ETA 8:07 PM",
-      "meta": "manual · Nov 27, 4:06 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 17% · Layer 31/197 · 4h 4min left · ETA 8:07 PM",
-      "meta": "manual · Nov 27, 4:04 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 15% · Layer 24/197 · 4h 11min left · ETA 8:07 PM",
-      "meta": "manual · Nov 27, 3:56 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 13% · Layer 18/197 · 4h 16min left · ETA 8:08 PM",
-      "meta": "manual · Nov 27, 3:53 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 12% · Layer 15/197 · 4h 19min left · ETA 8:08 PM",
-      "meta": "manual · Nov 27, 3:49 PM"
     }
   ],
   "nozzleTarget": 220,
   "nozzleTemp": 220,
-  "progressPercent": 21,
+  "progressPercent": 29,
   "queue": [
     {
       "file": "Planter_50,25mm_Bottom.3mf",
@@ -211,7 +211,7 @@
       "title": "Planter_50,25mm_Bottom"
     }
   ],
-  "remainingMinutes": 234,
+  "remainingMinutes": 126,
   "state": "printing",
   "stateLabel": "Printing",
   "stats": {
@@ -221,6 +221,6 @@
   },
   "title": "Planter_50,25mm_Bottom",
   "upNext": null,
-  "updatedAt": "2026-11-27T16:14:42-06:00",
-  "updatedLabel": "Nov 27, 4:14 PM"
+  "updatedAt": "2026-11-27T16:31:18-06:00",
+  "updatedLabel": "Nov 27, 4:31 PM"
 }
