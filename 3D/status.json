@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T08:59:39-06:00",
-  "updatedLabel": "Nov 27, 8:59 AM",
+  "updatedAt": "2026-11-27T09:16:05-06:00",
+  "updatedLabel": "Nov 27, 9:16 AM",
   "state": "error",
   "stateLabel": "Error",
   "title": "Printinplace_BOX",
@@ -9,14 +9,14 @@
   "layerCurrent": 1,
   "layerTotal": 80,
   "remainingMinutes": 134,
-  "estimatedFinish": "11:10 AM",
+  "estimatedFinish": "11:28 AM",
   "nozzleTemp": 25,
   "nozzleTarget": 0,
   "bedTemp": 25,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T08:55:21-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 8:55 AM CT",
+  "cameraUpdatedAt": "2026-11-27T09:13:19-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 9:13 AM CT",
   "queue": [
     {
       "title": "Printinplace_BOX",
@@ -191,6 +191,22 @@
   ],
   "log": [
     {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:28 AM",
+      "meta": "manual · Nov 27, 9:14 AM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:25 AM",
+      "meta": "manual · Nov 27, 9:12 AM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:23 AM",
+      "meta": "manual · Nov 27, 9:10 AM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:20 AM",
+      "meta": "manual · Nov 27, 9:07 AM"
+    },
+    {
       "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:10 AM",
       "meta": "manual · Nov 27, 8:57 AM"
     },
@@ -205,22 +221,6 @@
     {
       "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:03 AM",
       "meta": "manual · Nov 27, 8:50 AM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 11:02 AM",
-      "meta": "manual · Nov 27, 8:48 AM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 10:59 AM",
-      "meta": "manual · Nov 27, 8:46 AM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 10:54 AM",
-      "meta": "manual · Nov 27, 8:40 AM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 10:52 AM",
-      "meta": "manual · Nov 27, 8:38 AM"
     }
   ]
 }
