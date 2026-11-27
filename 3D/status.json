@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-11-27T15:06:12-06:00",
-  "updatedLabel": "Nov 27, 3:06 PM",
-  "state": "error",
-  "stateLabel": "Error",
-  "title": "bonsai_mesh",
-  "currentFile": "bonsai_mesh.3mf",
-  "progressPercent": 0,
+  "updatedAt": "2026-11-27T15:22:43-06:00",
+  "updatedLabel": "Nov 27, 3:22 PM",
+  "state": "printing",
+  "stateLabel": "Printing",
+  "title": "Planter_50,25mm_Bottom",
+  "currentFile": "Planter_50,25mm_Bottom.3mf",
+  "progressPercent": 3,
   "layerCurrent": 1,
-  "layerTotal": 2,
-  "remainingMinutes": 5,
-  "estimatedFinish": "3:11 PM",
-  "nozzleTemp": 27,
-  "nozzleTarget": 0,
-  "bedTemp": 28,
-  "bedTarget": 0,
+  "layerTotal": 197,
+  "remainingMinutes": 287,
+  "estimatedFinish": "8:08 PM",
+  "nozzleTemp": 220,
+  "nozzleTarget": 220,
+  "bedTemp": 79,
+  "bedTarget": 80,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T15:03:14-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 3:03 PM CT",
+  "cameraUpdatedAt": "2026-11-27T15:18:48-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 3:18 PM CT",
   "queue": [
     {
-      "title": "bonsai_mesh",
-      "file": "bonsai_mesh.3mf",
+      "title": "Planter_50,25mm_Bottom",
+      "file": "Planter_50,25mm_Bottom.3mf",
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "error"
+      "pill": "printing"
     }
   ],
   "upNext": null,
@@ -191,36 +191,36 @@
   ],
   "log": [
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:09 PM",
-      "meta": "manual · Nov 27, 3:05 PM"
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 3% · Layer 1/197 · 4h 47min left · ETA 8:08 PM",
+      "meta": "manual · Nov 27, 3:22 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:08 PM",
-      "meta": "manual · Nov 27, 3:03 PM"
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 2% · Layer 1/197 · 9h 38min left · ETA 12:57 AM",
+      "meta": "manual · Nov 27, 3:20 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:06 PM",
-      "meta": "manual · Nov 27, 3:01 PM"
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 2% · Layer 1/197 · 4h 50min left · ETA 8:07 PM",
+      "meta": "manual · Nov 27, 3:18 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:04 PM",
-      "meta": "manual · Nov 27, 3:00 PM"
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 2% · Layer 0/197 · 4h 51min left · ETA 8:06 PM",
+      "meta": "manual · Nov 27, 3:16 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:02 PM",
-      "meta": "manual · Nov 27, 2:58 PM"
+      "sum": "Print started — Planter_50,25mm_Bottom started at 3:13 PM CT on Nov 27, 2026 (bridge gcode_state PREPARE). Now preparing at 0%, layer 1 of 2.",
+      "meta": "note · Nov 27, 3:14 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:01 PM",
-      "meta": "manual · Nov 27, 2:56 PM"
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 0% · Layer 1/2 · 5 min left · ETA 3:18 PM",
+      "meta": "manual · Nov 27, 3:14 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:59 PM",
-      "meta": "manual · Nov 27, 2:54 PM"
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:16 PM",
+      "meta": "manual · Nov 27, 3:11 PM"
     },
     {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:54 PM",
-      "meta": "manual · Nov 27, 2:49 PM"
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:14 PM",
+      "meta": "manual · Nov 27, 3:09 PM"
     }
   ]
 }
