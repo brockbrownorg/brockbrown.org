@@ -1,22 +1,22 @@
 {
-    "updatedAt": "2026-11-27T13:05:24-06:00",
-    "updatedLabel": "Nov 27, 1:05 PM",
+    "updatedAt": "2026-11-27T13:22:56-06:00",
+    "updatedLabel": "Nov 27, 1:22 PM",
     "state": "printing",
     "stateLabel": "Printing",
     "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
     "currentFile": "AMS Lite Top Mount for A1 - Stronger, No screws.3mf",
-    "progressPercent": 24,
-    "layerCurrent": 83,
+    "progressPercent": 28,
+    "layerCurrent": 97,
     "layerTotal": 422,
-    "remainingMinutes": 540,
-    "estimatedFinish": "10:03 PM",
+    "remainingMinutes": 514,
+    "estimatedFinish": "9:55 PM",
     "nozzleTemp": 220,
     "nozzleTarget": 220,
     "bedTemp": 80,
     "bedTarget": 80,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-27T13:03:21-06:00",
-    "cameraLabel": "Fri, Nov 27, 2026 at 1:03 PM CT",
+    "cameraUpdatedAt": "2026-11-27T13:20:36-06:00",
+    "cameraLabel": "Fri, Nov 27, 2026 at 1:20 PM CT",
     "queue": [
         {
             "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
@@ -191,36 +191,36 @@
     ],
     "log": [
         {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 28% · Layer 97/422 · 8h 34min left · ETA 9:55 PM",
+            "meta": "manual · Nov 27, 1:21 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 28% · Layer 96/422 · 8h 38min left · ETA 9:57 PM",
+            "meta": "manual · Nov 27, 1:19 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 27% · Layer 94/422 · 8h 40min left · ETA 9:57 PM",
+            "meta": "manual · Nov 27, 1:17 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 27% · Layer 92/422 · 8h 44min left · ETA 9:58 PM",
+            "meta": "manual · Nov 27, 1:15 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 26% · Layer 90/422 · 8h 46min left · ETA 9:58 PM",
+            "meta": "manual · Nov 27, 1:13 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 26% · Layer 89/422 · 8h 48min left · ETA 9:59 PM",
+            "meta": "manual · Nov 27, 1:11 PM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 26% · Layer 87/422 · 8h 52min left · ETA 10:00 PM",
+            "meta": "manual · Nov 27, 1:09 PM"
+        },
+        {
             "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 24% · Layer 83/422 · 9h 0min left · ETA 10:03 PM",
             "meta": "manual · Nov 27, 1:03 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 24% · Layer 81/422 · 9h 2min left · ETA 10:03 PM",
-            "meta": "manual · Nov 27, 1:02 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 24% · Layer 79/422 · 9h 6min left · ETA 10:05 PM",
-            "meta": "manual · Nov 27, 12:59 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 23% · Layer 77/422 · 9h 8min left · ETA 10:05 PM",
-            "meta": "manual · Nov 27, 12:57 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 23% · Layer 75/422 · 9h 12min left · ETA 10:06 PM",
-            "meta": "manual · Nov 27, 12:54 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 22% · Layer 74/422 · 9h 16min left · ETA 10:08 PM",
-            "meta": "manual · Nov 27, 12:53 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 22% · Layer 72/422 · 9h 18min left · ETA 10:08 PM",
-            "meta": "manual · Nov 27, 12:51 PM"
-        },
-        {
-            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 21% · Layer 68/422 · 9h 24min left · ETA 10:10 PM",
-            "meta": "manual · Nov 27, 12:46 PM"
         }
     ]
 }
