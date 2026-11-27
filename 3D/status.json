@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T14:50:54-06:00",
-  "updatedLabel": "Nov 27, 2:50 PM",
+  "updatedAt": "2026-11-27T15:06:12-06:00",
+  "updatedLabel": "Nov 27, 3:06 PM",
   "state": "error",
   "stateLabel": "Error",
   "title": "bonsai_mesh",
@@ -9,14 +9,14 @@
   "layerCurrent": 1,
   "layerTotal": 2,
   "remainingMinutes": 5,
-  "estimatedFinish": "2:54 PM",
-  "nozzleTemp": 30,
+  "estimatedFinish": "3:11 PM",
+  "nozzleTemp": 27,
   "nozzleTarget": 0,
-  "bedTemp": 29,
+  "bedTemp": 28,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T14:48:46-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 2:48 PM CT",
+  "cameraUpdatedAt": "2026-11-27T15:03:14-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 3:03 PM CT",
   "queue": [
     {
       "title": "bonsai_mesh",
@@ -191,36 +191,36 @@
   ],
   "log": [
     {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:09 PM",
+      "meta": "manual · Nov 27, 3:05 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:08 PM",
+      "meta": "manual · Nov 27, 3:03 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:06 PM",
+      "meta": "manual · Nov 27, 3:01 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:04 PM",
+      "meta": "manual · Nov 27, 3:00 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:02 PM",
+      "meta": "manual · Nov 27, 2:58 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 3:01 PM",
+      "meta": "manual · Nov 27, 2:56 PM"
+    },
+    {
+      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:59 PM",
+      "meta": "manual · Nov 27, 2:54 PM"
+    },
+    {
       "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:54 PM",
       "meta": "manual · Nov 27, 2:49 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:52 PM",
-      "meta": "manual · Nov 27, 2:47 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:51 PM",
-      "meta": "manual · Nov 27, 2:46 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:49 PM",
-      "meta": "manual · Nov 27, 2:44 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:47 PM",
-      "meta": "manual · Nov 27, 2:42 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:46 PM",
-      "meta": "manual · Nov 27, 2:41 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:44 PM",
-      "meta": "manual · Nov 27, 2:39 PM"
-    },
-    {
-      "sum": "Error · 0% · Layer 1/2 · 5 min left · ETA 2:37 PM",
-      "meta": "manual · Nov 27, 2:33 PM"
     }
   ]
 }
