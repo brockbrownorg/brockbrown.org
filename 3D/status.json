@@ -1,30 +1,30 @@
 {
-    "updatedAt": "2026-11-27T10:52:59-06:00",
-    "updatedLabel": "Nov 27, 10:52 AM",
-    "state": "error",
-    "stateLabel": "Error",
-    "title": "Printinplace_BOX",
-    "currentFile": "",
-    "progressPercent": 0,
+    "updatedAt": "2026-11-27T11:09:43-06:00",
+    "updatedLabel": "Nov 27, 11:09 AM",
+    "state": "printing",
+    "stateLabel": "Printing",
+    "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
+    "currentFile": "AMS Lite Top Mount for A1 - Stronger, No screws.3mf",
+    "progressPercent": 2,
     "layerCurrent": 1,
-    "layerTotal": 80,
-    "remainingMinutes": 134,
-    "estimatedFinish": "1:04 PM",
-    "nozzleTemp": 25,
-    "nozzleTarget": 0,
-    "bedTemp": 26,
-    "bedTarget": 0,
+    "layerTotal": 422,
+    "remainingMinutes": 351,
+    "estimatedFinish": "4:58 PM",
+    "nozzleTemp": 220,
+    "nozzleTarget": 220,
+    "bedTemp": 35,
+    "bedTarget": 80,
     "fanPercent": null,
-    "cameraUpdatedAt": "2026-11-27T10:50:32-06:00",
-    "cameraLabel": "Fri, Nov 27, 2026 at 10:50 AM CT",
+    "cameraUpdatedAt": "2026-11-27T11:07:22-06:00",
+    "cameraLabel": "Fri, Nov 27, 2026 at 11:07 AM CT",
     "queue": [
         {
-            "title": "Printinplace_BOX",
-            "file": "",
+            "title": "AMS Lite Top Mount for A1 - Stronger, No screws",
+            "file": "AMS Lite Top Mount for A1 - Stronger, No screws.3mf",
             "meta": "",
             "notes": "",
             "thumb": null,
-            "pill": "error"
+            "pill": "printing"
         }
     ],
     "upNext": null,
@@ -191,6 +191,26 @@
     ],
     "log": [
         {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 2% · Layer 1/422 · 5h 51min left · ETA 4:58 PM",
+            "meta": "manual · Nov 27, 11:08 AM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 1% · Layer 0/422 · 5h 53min left · ETA 4:58 PM",
+            "meta": "manual · Nov 27, 11:06 AM"
+        },
+        {
+            "sum": "Print started: AMS Lite Top Mount for A1 - Stronger, No screws at 11:02 AM CT — 0%, layer 0/422, ETA 5:02 PM",
+            "meta": "note · Nov 27, 11:03 AM"
+        },
+        {
+            "sum": "Printing — AMS Lite Top Mount for A1 - Stronger, No screws.3mf · 0% · Layer 0/422 · 6h 0min left · ETA 5:02 PM",
+            "meta": "manual · Nov 27, 11:02 AM"
+        },
+        {
+            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:12 PM",
+            "meta": "manual · Nov 27, 10:59 AM"
+        },
+        {
             "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:04 PM",
             "meta": "manual · Nov 27, 10:51 AM"
         },
@@ -201,26 +221,6 @@
         {
             "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 1:01 PM",
             "meta": "manual · Nov 27, 10:47 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 12:58 PM",
-            "meta": "manual · Nov 27, 10:45 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 12:57 PM",
-            "meta": "manual · Nov 27, 10:43 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 12:54 PM",
-            "meta": "manual · Nov 27, 10:41 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 12:49 PM",
-            "meta": "manual · Nov 27, 10:35 AM"
-        },
-        {
-            "sum": "Error · 0% · Layer 1/80 · 2h 14min left · ETA 12:46 PM",
-            "meta": "manual · Nov 27, 10:33 AM"
         }
     ]
 }
