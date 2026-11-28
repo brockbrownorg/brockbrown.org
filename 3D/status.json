@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-27T19:46:54-06:00",
-  "updatedLabel": "Nov 27, 7:46 PM",
-  "state": "printing",
-  "stateLabel": "Printing",
+  "updatedAt": "2026-11-27T20:04:12-06:00",
+  "updatedLabel": "Nov 27, 8:04 PM",
+  "state": "finished",
+  "stateLabel": "Finished",
   "title": "Planter_50,25mm_Bottom",
   "currentFile": "Planter_50,25mm_Bottom.3mf",
-  "progressPercent": 98,
-  "layerCurrent": 195,
+  "progressPercent": 100,
+  "layerCurrent": 197,
   "layerTotal": 197,
-  "remainingMinutes": 4,
-  "estimatedFinish": "7:49 PM",
-  "nozzleTemp": 220,
-  "nozzleTarget": 220,
-  "bedTemp": 85,
-  "bedTarget": 85,
+  "remainingMinutes": 0,
+  "estimatedFinish": "8:02 PM",
+  "nozzleTemp": 45,
+  "nozzleTarget": 0,
+  "bedTemp": 54,
+  "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T19:45:23-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 7:45 PM CT",
+  "cameraUpdatedAt": "2026-11-27T20:02:14-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 8:02 PM CT",
   "queue": [
     {
       "title": "Planter_50,25mm_Bottom",
@@ -24,159 +24,167 @@
       "meta": "",
       "notes": "",
       "thumb": null,
-      "pill": "printing"
+      "pill": "finished"
     }
   ],
   "upNext": null,
   "stats": {
     "inQueue": 1,
-    "finished": 18,
+    "finished": 19,
     "filamentUsed": "—"
   },
   "history": [
     {
+      "title": "Planter_50,25mm_Bottom",
+      "file": "Planter_50,25mm_Bottom.3mf",
+      "meta": "Finished Nov 27, 7:50 PM",
+      "notes": "",
+      "thumb": null,
+      "pill": "done"
+    },
+    {
+      "title": "小药盒图案单色钥匙扣(2)",
       "file": "小药盒图案单色钥匙扣(2).3mf",
       "meta": "Finished Nov 25, 10:46 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "小药盒图案单色钥匙扣(2)"
+      "pill": "done"
     },
     {
+      "title": "零件盒H18mm(2)",
       "file": "零件盒H18mm(2).3mf",
       "meta": "Finished Nov 25, 1:42 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "零件盒H18mm(2)"
+      "pill": "done"
     },
     {
+      "title": "零件盒H18mm(2)",
       "file": "零件盒H18mm(2).3mf",
       "meta": "Finished Nov 25, 12:25 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "零件盒H18mm(2)"
+      "pill": "done"
     },
     {
+      "title": "CARD_PIP",
       "file": "CARD_PIP.3mf",
       "meta": "Finished Nov 24, 2:16 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "CARD_PIP"
+      "pill": "done"
     },
     {
+      "title": "MatchBox_2Compartment_-_Version_2",
       "file": "MatchBox_2Compartment_-_Version_2.3mf",
       "meta": "Finished Nov 23, 10:54 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "MatchBox_2Compartment_-_Version_2"
+      "pill": "done"
     },
     {
+      "title": "SPINRING(2)",
       "file": "SPINRING(2).3mf",
       "meta": "Finished Nov 23, 6:40 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "SPINRING(2)"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS",
       "file": "Organizer_Box_XL_remastered_v1_insert labels no AMS.3mf",
       "meta": "Finished Nov 23, 6:05 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_insert labels no AMS"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid.3mf",
       "meta": "Finished Nov 23, 3:09 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered- Lid"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts.3mf",
       "meta": "Finished Nov 22, 11:03 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - inserts"
+      "pill": "done"
     },
     {
+      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom",
       "file": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom.3mf",
       "meta": "Finished Nov 22, 1:16 AM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Organizer_Box_XL_remastered_v1_Organizer Box XL remastered - bottom"
+      "pill": "done"
     },
     {
+      "title": "SPINRING",
       "file": "SPINRING.3mf",
       "meta": "Finished Nov 16, 3:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "SPINRING"
+      "pill": "done"
     },
     {
+      "title": "Ring_Size 11",
       "file": "Ring_Size 11.3mf",
       "meta": "Finished Nov 16, 2:44 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Ring_Size 11"
+      "pill": "done"
     },
     {
+      "title": "Fidget-Ring_21,3mm Innendurchmesser",
       "file": "Fidget-Ring_21,3mm Innendurchmesser.3mf",
       "meta": "Finished Nov 16, 2:11 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Fidget-Ring_21,3mm Innendurchmesser"
+      "pill": "done"
     },
     {
+      "title": "MatchBox_2Compartment+-+Version+4",
       "file": "MatchBox_2Compartment+-+Version+4.3mf",
       "meta": "Finished Nov 16, 12:57 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "MatchBox_2Compartment+-+Version+4"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 15, 11:50 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Airpods_5_case",
       "file": "Airpods_5_case.3mf",
       "meta": "Finished Nov 14, 10:24 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Airpods_5_case"
+      "pill": "done"
     },
     {
+      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal",
       "file": "Rugged Cigar Tube _ Case with Airtight TPU Seal.3mf",
       "meta": "Finished Nov 13, 5:38 PM",
       "notes": "",
-      "pill": "done",
       "thumb": null,
-      "title": "Rugged Cigar Tube _ Case with Airtight TPU Seal"
+      "pill": "done"
     },
     {
+      "title": "Cigar Case 23mm x 150mm",
       "file": "CigCase_150x23_Cigar Case 23mm x 150mm.3mf",
       "meta": "Finished Nov 12, 11:07 PM",
       "notes": "Picked up live by the Mac bridge at 71 percent, layer 591 of 919, about 164 minutes left, finishing around 11:45 PM.",
-      "pill": "done",
       "thumb": null,
-      "title": "Cigar Case 23mm x 150mm"
+      "pill": "done"
     }
   ],
   "filaments": [
@@ -191,36 +199,36 @@
   ],
   "log": [
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 98% · Layer 195/197 · 4 min left · ETA 7:49 PM",
-      "meta": "manual · Nov 27, 7:46 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 8:02 PM",
+      "meta": "manual · Nov 27, 8:02 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 98% · Layer 192/197 · 8 min left · ETA 7:51 PM",
-      "meta": "manual · Nov 27, 7:43 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:59 PM",
+      "meta": "manual · Nov 27, 7:59 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 98% · Layer 190/197 · 10 min left · ETA 7:51 PM",
-      "meta": "manual · Nov 27, 7:41 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:57 PM",
+      "meta": "manual · Nov 27, 7:58 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 97% · Layer 187/197 · 12 min left · ETA 7:51 PM",
-      "meta": "manual · Nov 27, 7:39 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:55 PM",
+      "meta": "manual · Nov 27, 7:55 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 97% · Layer 185/197 · 16 min left · ETA 7:53 PM",
-      "meta": "manual · Nov 27, 7:37 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:53 PM",
+      "meta": "manual · Nov 27, 7:54 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 96% · Layer 182/197 · 18 min left · ETA 7:53 PM",
-      "meta": "manual · Nov 27, 7:35 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:51 PM",
+      "meta": "manual · Nov 27, 7:52 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 95% · Layer 175/197 · 26 min left · ETA 7:55 PM",
-      "meta": "manual · Nov 27, 7:29 PM"
+      "sum": "Print finished — Planter_50,25mm_Bottom finished at 7:49 PM CT on Nov 27, 2026 (100%, layer 197/197, bridge FINISH, print_error 0).",
+      "meta": "note · Nov 27, 7:50 PM"
     },
     {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 95% · Layer 174/197 · 28 min left · ETA 7:56 PM",
-      "meta": "manual · Nov 27, 7:28 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 7:49 PM",
+      "meta": "manual · Nov 27, 7:50 PM"
     }
   ]
 }
