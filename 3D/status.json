@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-27T21:26:24.519587-06:00",
-  "updatedLabel": "Nov 27, 9:26 PM",
+  "updatedAt": "2026-11-27T21:42:53.825510-06:00",
+  "updatedLabel": "Nov 27, 9:42 PM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Planter_50,25mm_Bottom",
-  "currentFile": "Planter_50,25mm_Bottom.3mf",
+  "currentFile": "",
   "progressPercent": 100,
   "layerCurrent": 197,
   "layerTotal": 197,
   "remainingMinutes": 0,
-  "estimatedFinish": "9:24 PM",
-  "nozzleTemp": 27,
+  "estimatedFinish": "9:40 PM",
+  "nozzleTemp": 26,
   "nozzleTarget": 0,
-  "bedTemp": 28,
+  "bedTemp": 27,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T21:24:00-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 9:24 PM CT",
+  "cameraUpdatedAt": "2026-11-27T21:40:31-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 9:40 PM CT",
   "queue": [
     {
       "title": "Planter_50,25mm_Bottom",
-      "file": "Planter_50,25mm_Bottom.3mf",
+      "file": "",
       "meta": "",
       "notes": "",
       "thumb": null,
@@ -199,36 +199,36 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:40 PM",
+      "meta": "manual · Nov 27, 9:41 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:38 PM",
+      "meta": "manual · Nov 27, 9:39 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:36 PM",
+      "meta": "manual · Nov 27, 9:37 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:34 PM",
+      "meta": "manual · Nov 27, 9:34 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:33 PM",
+      "meta": "manual · Nov 27, 9:33 PM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:31 PM",
+      "meta": "manual · Nov 27, 9:31 PM"
+    },
+    {
       "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:24 PM",
       "meta": "manual · Nov 27, 9:25 PM"
     },
     {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:07 PM",
-      "meta": "manual · Nov 27, 9:08 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:05 PM",
-      "meta": "manual · Nov 27, 9:05 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:03 PM",
-      "meta": "manual · Nov 27, 9:03 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:01 PM",
-      "meta": "manual · Nov 27, 9:01 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 8:58 PM",
-      "meta": "manual · Nov 27, 8:59 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 8:56 PM",
-      "meta": "manual · Nov 27, 8:57 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 8:54 PM",
-      "meta": "manual · Nov 27, 8:55 PM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 9:22 PM",
+      "meta": "manual · Nov 27, 9:22 PM"
     }
   ]
 }
