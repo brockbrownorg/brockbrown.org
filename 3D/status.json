@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-11-27T18:10:12.360095-06:00",
-  "updatedLabel": "Nov 27, 6:10 PM",
+  "updatedAt": "2026-11-27T18:26:13.405979-06:00",
+  "updatedLabel": "Nov 27, 6:26 PM",
   "state": "printing",
   "stateLabel": "Printing",
   "title": "Planter_50,25mm_Bottom",
   "currentFile": "Planter_50,25mm_Bottom.3mf",
-  "progressPercent": 76,
-  "layerCurrent": 142,
+  "progressPercent": 80,
+  "layerCurrent": 162,
   "layerTotal": 197,
-  "remainingMinutes": 70,
-  "estimatedFinish": "7:17 PM",
+  "remainingMinutes": 116,
+  "estimatedFinish": "8:20 PM",
   "nozzleTemp": 220,
   "nozzleTarget": 220,
   "bedTemp": 85,
   "bedTarget": 85,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-27T18:05:32-06:00",
-  "cameraLabel": "Fri, Nov 27, 2026 at 6:05 PM CT",
+  "cameraUpdatedAt": "2026-11-27T18:24:08-06:00",
+  "cameraLabel": "Fri, Nov 27, 2026 at 6:24 PM CT",
   "queue": [
     {
       "title": "Planter_50,25mm_Bottom",
@@ -191,6 +191,26 @@
   ],
   "log": [
     {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 80% · Layer 162/197 · 1h 56min left · ETA 8:20 PM",
+      "meta": "manual · Nov 27, 6:24 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 80% · Layer 160/197 · 1h 58min left · ETA 8:20 PM",
+      "meta": "manual · Nov 27, 6:23 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 79% · Layer 157/197 · 2h 2min left · ETA 8:22 PM",
+      "meta": "manual · Nov 27, 6:20 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 78% · Layer 154/197 · 2h 4min left · ETA 8:21 PM",
+      "meta": "manual · Nov 27, 6:18 PM"
+    },
+    {
+      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 78% · Layer 151/197 · 2h 8min left · ETA 8:22 PM",
+      "meta": "manual · Nov 27, 6:15 PM"
+    },
+    {
       "sum": "Printing — Planter_50,25mm_Bottom.3mf · 76% · Layer 142/197 · 1h 10min left · ETA 7:17 PM",
       "meta": "manual · Nov 27, 6:08 PM"
     },
@@ -201,26 +221,6 @@
     {
       "sum": "Printing — Planter_50,25mm_Bottom.3mf · 74% · Layer 131/197 · 1h 16min left · ETA 7:18 PM",
       "meta": "manual · Nov 27, 6:02 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 73% · Layer 127/197 · 1h 19min left · ETA 7:18 PM",
-      "meta": "manual · Nov 27, 5:59 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 72% · Layer 123/197 · 1h 21min left · ETA 7:17 PM",
-      "meta": "manual · Nov 27, 5:57 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 70% · Layer 112/197 · 1h 28min left · ETA 7:18 PM",
-      "meta": "manual · Nov 27, 5:51 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 69% · Layer 109/197 · 1h 30min left · ETA 7:18 PM",
-      "meta": "manual · Nov 27, 5:49 PM"
-    },
-    {
-      "sum": "Printing — Planter_50,25mm_Bottom.3mf · 68% · Layer 105/197 · 1h 32min left · ETA 7:18 PM",
-      "meta": "manual · Nov 27, 5:46 PM"
     }
   ]
 }
