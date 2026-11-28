@@ -1,10 +1,10 @@
 {
   "bedTarget": 0,
-  "bedTemp": 25,
-  "cameraLabel": "Sat, Nov 28, 2026 at 12:09 AM CT",
-  "cameraUpdatedAt": "2026-11-28T00:09:06-06:00",
+  "bedTemp": 24,
+  "cameraLabel": "Sat, Nov 28, 2026 at 12:22 AM CT",
+  "cameraUpdatedAt": "2026-11-28T00:22:39-06:00",
   "currentFile": "",
-  "estimatedFinish": "12:09 AM",
+  "estimatedFinish": "12:26 AM",
   "fanPercent": null,
   "filaments": [
     {
@@ -174,40 +174,40 @@
   "layerTotal": 197,
   "log": [
     {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:26 AM",
+      "meta": "manual · Nov 28, 12:26 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:23 AM",
+      "meta": "manual · Nov 28, 12:24 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:22 AM",
+      "meta": "manual · Nov 28, 12:22 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:20 AM",
+      "meta": "manual · Nov 28, 12:20 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:19 AM",
+      "meta": "manual · Nov 28, 12:19 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:17 AM",
+      "meta": "manual · Nov 28, 12:17 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:15 AM",
+      "meta": "manual · Nov 28, 12:15 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:09 AM",
       "meta": "manual · Nov 28, 12:09 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:07 AM",
-      "meta": "manual · Nov 28, 12:07 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:05 AM",
-      "meta": "manual · Nov 28, 12:06 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:03 AM",
-      "meta": "manual · Nov 28, 12:04 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:01 AM",
-      "meta": "manual · Nov 28, 12:02 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 12:00 AM",
-      "meta": "manual · Nov 28, 12:01 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 11:58 PM",
-      "meta": "manual · Nov 27, 11:59 PM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 11:53 PM",
-      "meta": "manual · Nov 27, 11:53 PM"
     }
   ],
   "nozzleTarget": 0,
-  "nozzleTemp": 25,
+  "nozzleTemp": 24,
   "progressPercent": 100,
   "queue": [
     {
@@ -229,6 +229,6 @@
   },
   "title": "Planter_50,25mm_Bottom",
   "upNext": null,
-  "updatedAt": "2026-11-28T00:10:44-06:00",
-  "updatedLabel": "Nov 28, 12:10 AM"
+  "updatedAt": "2026-11-28T00:27:20-06:00",
+  "updatedLabel": "Nov 28, 12:27 AM"
 }
