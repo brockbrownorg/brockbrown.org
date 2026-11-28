@@ -1,21 +1,38 @@
 {
-  "bedTarget": 0,
-  "bedTemp": 23,
-  "cameraLabel": "Sat, Nov 28, 2026 at 3:26 AM CT",
-  "cameraUpdatedAt": "2026-11-28T03:26:09-06:00",
+  "updatedAt": "2026-11-28T03:44:28-06:00",
+  "updatedLabel": "Nov 28, 3:44 AM",
+  "state": "finished",
+  "stateLabel": "Finished",
+  "title": "Planter_50,25mm_Bottom",
   "currentFile": "",
-  "estimatedFinish": "3:26 AM",
+  "progressPercent": 100,
+  "layerCurrent": 197,
+  "layerTotal": 197,
+  "remainingMinutes": 0,
+  "estimatedFinish": "3:43 AM",
+  "nozzleTemp": 23,
+  "nozzleTarget": 0,
+  "bedTemp": 23,
+  "bedTarget": 0,
   "fanPercent": null,
-  "filaments": [
+  "cameraUpdatedAt": "2026-11-28T03:40:29-06:00",
+  "cameraLabel": "Sat, Nov 28, 2026 at 3:40 AM CT",
+  "queue": [
     {
-      "colorHex": "#000000",
-      "colorName": "Black",
-      "material": "PLA",
-      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
-      "remainingPercent": null,
-      "slot": "External Spool"
+      "title": "Planter_50,25mm_Bottom",
+      "file": "",
+      "meta": "",
+      "notes": "",
+      "thumb": null,
+      "pill": "finished"
     }
   ],
+  "upNext": null,
+  "stats": {
+    "inQueue": 1,
+    "finished": 19,
+    "filamentUsed": "—"
+  },
   "history": [
     {
       "file": "Planter_50,25mm_Bottom.3mf",
@@ -170,65 +187,48 @@
       "title": "Cigar Case 23mm x 150mm"
     }
   ],
-  "layerCurrent": 197,
-  "layerTotal": 197,
+  "filaments": [
+    {
+      "colorHex": "#000000",
+      "colorName": "Black",
+      "material": "PLA",
+      "notes": "Loaded and printing the cigar case. The printer does not report remaining filament for the external spool, so the percentage shown is not a live reading.",
+      "remainingPercent": null,
+      "slot": "External Spool"
+    }
+  ],
   "log": [
     {
-      "meta": "manual · Nov 28, 3:27 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:26 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:43 AM",
+      "meta": "manual · Nov 28, 3:43 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:25 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:25 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:41 AM",
+      "meta": "manual · Nov 28, 3:41 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:23 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:23 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:40 AM",
+      "meta": "manual · Nov 28, 3:40 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:21 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:21 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:37 AM",
+      "meta": "manual · Nov 28, 3:38 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:19 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:19 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:35 AM",
+      "meta": "manual · Nov 28, 3:35 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:18 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:17 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:33 AM",
+      "meta": "manual · Nov 28, 3:33 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:12 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:12 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:31 AM",
+      "meta": "manual · Nov 28, 3:32 AM"
     },
     {
-      "meta": "manual · Nov 28, 3:10 AM",
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:10 AM"
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 3:26 AM",
+      "meta": "manual · Nov 28, 3:27 AM"
     }
-  ],
-  "nozzleTarget": 0,
-  "nozzleTemp": 23,
-  "progressPercent": 100,
-  "queue": [
-    {
-      "file": "",
-      "meta": "",
-      "notes": "",
-      "pill": "finished",
-      "thumb": null,
-      "title": "Planter_50,25mm_Bottom"
-    }
-  ],
-  "remainingMinutes": 0,
-  "state": "finished",
-  "stateLabel": "Finished",
-  "stats": {
-    "filamentUsed": "—",
-    "finished": 19,
-    "inQueue": 1
-  },
-  "title": "Planter_50,25mm_Bottom",
-  "upNext": null,
-  "updatedAt": "2026-11-28T03:28:16-06:00",
-  "updatedLabel": "Nov 28, 3:28 AM"
+  ]
 }
