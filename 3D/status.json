@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T01:18:57-06:00",
-  "updatedLabel": "Nov 28, 1:18 AM",
+  "updatedAt": "2026-11-28T01:36:39-06:00",
+  "updatedLabel": "Nov 28, 1:36 AM",
   "state": "finished",
   "stateLabel": "Finished",
   "title": "Planter_50,25mm_Bottom",
@@ -9,14 +9,14 @@
   "layerCurrent": 197,
   "layerTotal": 197,
   "remainingMinutes": 0,
-  "estimatedFinish": "1:17 AM",
+  "estimatedFinish": "1:34 AM",
   "nozzleTemp": 23,
   "nozzleTarget": 0,
   "bedTemp": 24,
   "bedTarget": 0,
   "fanPercent": null,
-  "cameraUpdatedAt": "2026-11-28T01:15:38-06:00",
-  "cameraLabel": "Sat, Nov 28, 2026 at 1:15 AM CT",
+  "cameraUpdatedAt": "2026-11-28T01:34:52-06:00",
+  "cameraLabel": "Sat, Nov 28, 2026 at 1:34 AM CT",
   "queue": [
     {
       "title": "Planter_50,25mm_Bottom",
@@ -199,6 +199,18 @@
   ],
   "log": [
     {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:34 AM",
+      "meta": "manual · Nov 28, 1:34 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:29 AM",
+      "meta": "manual · Nov 28, 1:30 AM"
+    },
+    {
+      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:25 AM",
+      "meta": "manual · Nov 28, 1:25 AM"
+    },
+    {
       "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:17 AM",
       "meta": "manual · Nov 28, 1:18 AM"
     },
@@ -217,18 +229,6 @@
     {
       "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:11 AM",
       "meta": "manual · Nov 28, 1:10 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:09 AM",
-      "meta": "manual · Nov 28, 1:09 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:06 AM",
-      "meta": "manual · Nov 28, 1:07 AM"
-    },
-    {
-      "sum": "Finished · 100% · Layer 197/197 · — · ETA 1:01 AM",
-      "meta": "manual · Nov 28, 1:01 AM"
     }
   ]
 }
